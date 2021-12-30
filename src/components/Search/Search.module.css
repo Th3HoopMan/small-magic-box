@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+}
+
+.searchBox {
+    width: 90%;
+    height: var(--label-height);
+    margin: var(--medium-margins) 0;
+    max-width: var(--compact-preview-max-width);
+    border-radius: 10px;
+}
+
+.list {
+    width: 100%;
+    margin: auto;
+}
+
+@media only screen and (min-width: 768px) {
+    .searchBox {
+        height: var(--search-box-height);
+        margin: var(--medium-margins) 0;
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 1024px) {
+
+}

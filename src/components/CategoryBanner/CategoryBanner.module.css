@@ -1,0 +1,41 @@
+@import '../globalStyles.css';
+
+.container {
+    color: white;
+    background-color: black;
+    width: var(--banner-width);
+    height: var(--label-height);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: var(--box-shadow);
+    max-width: 230px;
+    margin-bottom: var(--small-margins);
+}
+
+.container img{
+    width: var(--icon-width-small);
+    margin: auto var(--small-margins) auto 0;
+    padding: 5px;
+}
+
+.container h3{
+    font-size: var(--medium-font);
+    padding-right: var(--small--margins);
+}
+
+.grade {
+    background-color: white;
+    color: black;
+    width: var(--grade-width);
+    margin-left: auto;
+    padding: 0 var(--small--margins);
+    height: var(--label-height);
+    display: flex;
+    justify-content: center;
+}
+
+.grade p {
+    font-size: var(--medium-font);
+}
+

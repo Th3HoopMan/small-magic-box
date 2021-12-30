@@ -3,103 +3,134 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
-import Layout from "../components/Layout";
-import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
-import FullWidthImage from "../components/FullWidthImage";
+import Layout from "../components/Layout/Layout";
+import FeaturePreview from "../components/FeaturePreview/FeaturePreview";
+import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
+import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
+import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 
+import * as styles from "./index.module.css";
+
+const loremIpsumBlurb =
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
+
+const fakePostData = [
+  {
+    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
+    blurb: loremIpsumBlurb,
+    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
+    category: "Review",
+    gameTitle: "Halo Infinite",
+    platform: "Xbox Series X",
+    grade: "B+",
+  },
+  {
+    title: "What Are the Game Awards Really About?",
+    blurb: loremIpsumBlurb,
+    imgSrc:
+      "https://cdn1.dotesports.com/wp-content/uploads/2021/11/11122728/L2GpNUt9NcmPRqYaPnnF9R.jpeg",
+    category: "IndustryOpinion",
+  },
+  {
+    title: "When Will We Get a Solid Anime Action/Adventure Game?",
+    blurb: loremIpsumBlurb,
+    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
+    category: "Entertainment",
+  },
+  {
+    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
+    blurb: loremIpsumBlurb,
+    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
+    category: "Review",
+    gameTitle: "Halo Infinite",
+    platform: "Xbox Series X",
+    grade: "B+",
+  },
+  {
+    title: "What Are the Game Awards Really About?",
+    blurb: loremIpsumBlurb,
+    imgSrc:
+      "https://cdn1.dotesports.com/wp-content/uploads/2021/11/11122728/L2GpNUt9NcmPRqYaPnnF9R.jpeg",
+    category: "IndustryOpinion",
+  },
+  {
+    title: "When Will We Get a Solid Anime Action/Adventure Game?",
+    blurb: loremIpsumBlurb,
+    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
+    category: "Entertainment",
+  },
+];
 // eslint-disable-next-line
-export const IndexPageTemplate = ({
-  image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
-}) => {
-  const heroImage = getImage(image) || image;
+export const IndexPageTemplate = () => {
+  // const heroImage = getImage(image) || image;
 
   return (
-    <div>
-      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
-      <section className="section section--gradient">
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <div className="content">
-                  <div className="content">
-                    <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
-                  </div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h3>
-                      <p>{description}</p>
-                    </div>
-                  </div>
-                  <Features gridItems={intro.blurbs} />
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/products">
-                        See all products
-                      </Link>
-                    </div>
-                  </div>
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
-                    </h3>
-                    <BlogRoll />
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
-                        Read more
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+    <div className={styles.container}>
+      <div className={styles.section}>
+        {fakePostData.map((post) => (
+          <FeaturePreview
+            title={post.title}
+            blurb={post.blurb}
+            imgSrc={post.imgSrc}
+          >
+            <CategoryBanner
+              category={post.category}
+              grade={post.grade ? post.grade : null}
+            />
+          </FeaturePreview>
+        ))}
+      </div>
+      <div>
+        <div className={styles.section}>
+          <h3 className={styles.sectionHeader}>Recent Reviews</h3>
+          {fakePostData
+            .filter((post) => post.category.toLowerCase() === "review")
+            .map((post) => (
+              <ReviewPreview
+                title={post.gameTitle}
+                platform={post.platform}
+                grade={post.grade}
+              />
+            ))}
+          <p>View All Reviews</p>
         </div>
-      </section>
+        <div className={styles.section}>
+          <h3 className={styles.sectionHeader}>Recent Articles</h3>
+          {fakePostData
+            .filter((post) => post.category.toLowerCase() !== "review")
+            .map((post) => (
+              <CompactArticlePreview
+                title={post.title}
+                category={post.category}
+              />
+            ))}
+          <p>View All Articles</p>
+        </div>
+      </div>
     </div>
   );
 };
 
-IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
-};
+// IndexPageTemplate.propTypes = {
+//   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+//   title: PropTypes.string,
+//   heading: PropTypes.string,
+//   subheading: PropTypes.string,
+//   mainpitch: PropTypes.object,
+//   description: PropTypes.string,
+//   intro: PropTypes.shape({
+//     blurbs: PropTypes.array,
+//   }),
+// };
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
+  const summary =
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a ex neque. Nulla ac nulla consequat erat dictum convallis vitae sit amet nisl. Quisque fermentum purus sed egestas dictum. Cras rutrum, neque eget porta ornare, arcu velit iaculis dui, et vulputate nisl nisi vel orci. Vestibulum vitae sollicitudin nisl, id interdum tortor. Ut commodo magna id feugiat fringilla. Vestibulum ac auctor turpis, vel sodales arcu. Nam vel neque sed ipsum lacinia ullamcorper id quis turpis.";
 
   return (
     <Layout>
-      <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
-      />
+      <IndexPageTemplate />
     </Layout>
   );
 };

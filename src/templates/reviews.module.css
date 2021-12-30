@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.header {
+  font-size: var(--large-font);
+  margin: var(--medium-margins) 0;
+}
+
+.details {
+  margin: var(--medium-margins) 0;
+}
+
+.sidebarContent {
+    display: none;
+    margin-left: auto;
+  }
+
+@media only screen and (min-width: 768px) {
+    .mainContent {
+        width: 75%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+.details {
+    width: 50%;
+}
+
+.mainContent {
+    width: 70%;
+    margin: 0 var(--main-search-margin);
+}
+
+  .sidebarContent {
+    display: inline-block;
+  }
+}

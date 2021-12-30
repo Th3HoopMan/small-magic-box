@@ -1,0 +1,19 @@
+.container {
+ display: flex;
+ flex-direction: column;
+
+}
+
+.section {
+    margin: 0 0  var(--content-margins);    ;
+}
+
+.sectionHeader {
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 1024px) {
+    .container {
+        flex-direction: row;
+    }
+}

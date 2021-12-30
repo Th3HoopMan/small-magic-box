@@ -1,0 +1,32 @@
+html *
+{
+   font-family: 'Roboto', sans-serif !important;
+}
+
+:root {
+    --icon-width-small: 15%;
+    --icon-width: 20%;
+    --margin: 20px;
+    --image-padding: 5px;
+    --extra-small-margins: 5px;
+    --small-margins: 10px;
+    --medium-margins: 20px;
+    --large-margins: 30px;
+    --content-margins: 100px;
+    --compact-preview-height: 75px;
+    --compact-preview-width: 100%;
+    --banner-width: 70%;
+    --compact-preview-max-width: 500px;
+    --feature-preview-max-width: 800px;
+    --grade-width: 20%;
+    --very-small-font: .9em;
+    --small-font: 1.1em;
+    --medium-font: 1.3em;
+    --large-font: 1.5em;
+    --very-large-font: 1.7em;
+    --box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
+    --label-height: 35px;
+    --search-box-height: 45px;
+    --footer-height: 250px;
+    --main-search-margin: 150px;
+}

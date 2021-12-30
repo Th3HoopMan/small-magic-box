@@ -1,0 +1,40 @@
+.container {
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  box-shadow: var(--box-shadow);
+  width: var(--compact-preview-width);
+  height: var(--compact-preview-height);
+  margin: var(--medium-margins) 0;
+  max-width: var(--compact-preview-max-width);
+  min-width: 300px;
+}
+
+.details {
+  padding: var(--small-margins);
+}
+
+.details h2 {
+  font-size: var(--medium-font);
+}
+
+.details h5 {
+  font-size: var(--small-font);
+  font-weight: normal;
+  margin: 0;
+}
+
+.grade {
+  background-color: black;
+  color: white;
+  margin-left: auto;
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grade h3 {
+  font-size: 1.4em;
+}

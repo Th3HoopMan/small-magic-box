@@ -1,0 +1,9 @@
+.container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.content {
+    margin: 0 var(--medium-margins) ;
+    padding: var(--large-margins) 0 var(--footer-height) ; 
+}

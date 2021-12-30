@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: var(--large-font);
+    margin-bottom: var(--small-margins);
+}
+
+.divider {
+    width: 90%;
+    
+    border-bottom: 1px solid black;
+    margin: var(--large-margins) auto 0 auto;
+}
+
+.content {
+    font-size: var(--small-font);
+    padding: var(--medium-margins);
+}

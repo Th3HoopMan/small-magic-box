@@ -19,3 +19,26 @@
     font-size: var(--small-font);
     padding: var(--medium-margins);
 }
+
+.sectionHeader {
+    text-decoration: underline;
+}
+
+.section {
+    margin: var(--large-margins);
+}
+
+.headerImage {
+    max-width: 700px;
+}
+
+
+@media only screen and (min-width: 1024px) {
+    .container {
+        flex-direction: row;
+    }
+
+    .additionContent {
+        margin: var(--large-margins);
+    }
+}

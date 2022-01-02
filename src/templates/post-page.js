@@ -3,6 +3,7 @@ import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 import Layout from "../components/Layout/Layout";
 import * as styles from "./post.module.css";
 import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
+import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 
 const loremIpsumBlurb =
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
@@ -73,34 +74,69 @@ export const PostTemplate = ({
 }) => {
   // const PageContent = contentComponent || Content;
 
+  const isReview = !!gameDetails;
   return (
     <div className={styles.container}>
-      <CategoryBanner category={category} />
-      <h1 className={styles.title}>{title}</h1>
-      <img src={imgSrc} />
-      <span className={styles.divider} />
-      <p className={styles.content}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a ex lacus.
-        Sed consectetur tortor pretium felis fringilla, nec sodales erat
-        egestas. Aenean elementum maximus ultricies. Praesent quis dolor et
-        augue volutpat varius sit amet id lacus. Suspendisse lobortis urna id mi
-        condimentum iaculis. Ut vel nibh at mi pharetra tempus et id ligula.
-        Mauris libero tellus, venenatis eget volutpat quis, convallis at mauris.
-        Suspendisse volutpat nisl lectus, quis euismod nisl pellentesque quis.
-        Maecenas viverra non erat non blandit. Mauris ex elit, luctus id
-        sollicitudin nec, volutpat et metus. Suspendisse vel sem lacus. Mauris
-        porta nec ante vel congue. Maecenas ullamcorper diam et sodales pretium.
-        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-        inceptos himenaeos. Phasellus interdum finibus elit quis consequat.
-        Morbi tempor volutpat arcu, at blandit urna laoreet a.
-      </p>
-      {gameDetails && (
-        <ReviewPreview
-          title={gameDetails.gameTitle}
-          platform={gameDetails.platform}
-          grade={gameDetails.grade}
-        />
-      )}
+      <div className={styles.mainContent}>
+        <CategoryBanner category={category} />
+        <h1 className={styles.title}>{title}</h1>
+        <img src={imgSrc} />
+        <span className={styles.divider} />
+        <p className={styles.content}>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a ex
+          lacus. Sed consectetur tortor pretium felis fringilla, nec sodales
+          erat egestas. Aenean elementum maximus ultricies. Praesent quis dolor
+          et augue volutpat varius sit amet id lacus. Suspendisse lobortis urna
+          id mi condimentum iaculis. Ut vel nibh at mi pharetra tempus et id
+          ligula. Mauris libero tellus, venenatis eget volutpat quis, convallis
+          at mauris. Suspendisse volutpat nisl lectus, quis euismod nisl
+          pellentesque quis. Maecenas viverra non erat non blandit. Mauris ex
+          elit, luctus id sollicitudin nec, volutpat et metus. Suspendisse vel
+          sem lacus. Mauris porta nec ante vel congue. Maecenas ullamcorper diam
+          et sodales pretium. Class aptent taciti sociosqu ad litora torquent
+          per conubia nostra, per inceptos himenaeos. Phasellus interdum finibus
+          elit quis consequat. Morbi tempor volutpat arcu, at blandit urna
+          laoreet a.
+        </p>
+        {isReview && (
+          <ReviewPreview
+            title={gameDetails.gameTitle}
+            platform={gameDetails.platform}
+            grade={gameDetails.grade}
+          />
+        )}
+      </div>
+      <div className={styles.additionContent}>
+        {isReview && (
+          <div className={styles.moreReviews}>
+            <h3 className={styles.sectionHeader}>More Reviews</h3>
+            {fakePostData
+              .filter((post) => post.category.toLowerCase() === "review")
+              .map((post) => (
+                <ReviewPreview
+                  title={post.gameTitle}
+                  platform={post.platform}
+                  grade={post.grade}
+                />
+              ))}
+            <p>View All Reviews</p>
+          </div>
+        )}
+        {!isReview && (
+          <div className={styles.section}>
+            <h3 className={styles.sectionHeader}>More Articles</h3>
+            {fakePostData
+              .filter((post) => post.category.toLowerCase() !== "review")
+              .map((post) => (
+                <CompactArticlePreview
+                  title={post.title}
+                  category={post.category}
+                />
+              ))}
+            <p>View All Articles</p>
+          </div>
+        )}
+      </div>
     </div>
   );
 };

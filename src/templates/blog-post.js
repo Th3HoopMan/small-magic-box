@@ -1,10 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
-import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
-import Layout from "../components/Layout";
+import { kebabCase } from "lodash";
+import PropTypes from "prop-types";
+import React from "react";
+import { Helmet } from "react-helmet";
 import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/Layout";
 
 // eslint-disable-next-line
 export const BlogPostTemplate = ({

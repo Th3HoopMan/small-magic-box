@@ -13,7 +13,7 @@ platforms:
   - Playstation
 grade: A
 featuredpost: false
-featuredimage: https://www.mobygames.com/images/covers/l/759338-psychonauts-2-windows-front-cover.jpg
+featuredimage: /img/psychonauts-2-release-date-preload.jpg
 tldr: |-
   
 

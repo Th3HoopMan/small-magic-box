@@ -1,5 +1,5 @@
 ---
-templateKey: article-post
+templateKey: post-page
 title: Arcane was the best show (I saw) in 2021
 date: 2022-01-05T05:41:43.237Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur

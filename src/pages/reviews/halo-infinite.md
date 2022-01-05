@@ -1,5 +1,5 @@
 ---
-templateKey: review-post
+templateKey: post-page
 title: 343's Halo Infinite Signals A Strong Generation for Xbox
 date: 2022-01-02T21:21:04.144Z
 description: Halo Infinite is better than many of us could have ever hoped back

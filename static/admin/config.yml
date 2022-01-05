@@ -17,34 +17,33 @@ collections:
     label: "Articles"
     folder: "src/pages/articles"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - {
           label: "Template Key",
           name: "templateKey",
           widget: "hidden",
-          default: "article-post",
+          default: "post-page",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "TLDR", name: "tldr", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "select", options: ["gaming","filmandtv","offtiopic"] }
+      - { label: "Category", name: "category", widget: "select", options: ["gaming","film and tv","off topic"] }
   - name: "reviews"
     label: "Reviews"
     folder: "src/pages/reviews"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{gametitle}}"
     fields:
       - {
           label: "Template Key",
           name: "templateKey",
           widget: "hidden",
-          default: "review-post",
+          default: "post-page",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }

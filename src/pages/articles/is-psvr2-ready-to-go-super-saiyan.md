@@ -1,5 +1,5 @@
 ---
-templateKey: article-post
+templateKey: post-page
 title: Is PSVR2 Ready to go Super Saiyan?
 date: 2022-01-05T05:39:41.722Z
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc

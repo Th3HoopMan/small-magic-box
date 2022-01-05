@@ -1,0 +1,22 @@
+      .section {
+       margin: 0 0  var(--content-margins);    ;
+   }
+   
+   .sectionHeader {
+       text-decoration: underline;
+   }
+
+   .link {
+       text-decoration: none;
+       font-size: var(--very-small-font);
+   }
+
+   .link:visited {
+    color: black;
+}
+   
+   @media only screen and (min-width: 1024px) {
+       .container {
+           flex-direction: row;
+       }
+   }

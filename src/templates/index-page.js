@@ -10,6 +10,7 @@ import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
 import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 
 import * as styles from "./index.module.css";
+import ReviewList from "../components/ReviewList/ReviewList";
 
 const loremIpsumBlurb =
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
@@ -82,7 +83,8 @@ export const IndexPageTemplate = () => {
       </div>
       <div>
         <div className={styles.section}>
-          <h3 className={styles.sectionHeader}>Recent Reviews</h3>
+          <ReviewList />
+          {/* <h3 className={styles.sectionHeader}>Recent Reviews</h3>
           {fakePostData
             .filter((post) => post.category.toLowerCase() === "review")
             .map((post) => (
@@ -92,7 +94,7 @@ export const IndexPageTemplate = () => {
                 grade={post.grade}
               />
             ))}
-          <p>View All Reviews</p>
+          <p>View All Reviews</p> */}
         </div>
         <div className={styles.section}>
           <h3 className={styles.sectionHeader}>Recent Articles</h3>

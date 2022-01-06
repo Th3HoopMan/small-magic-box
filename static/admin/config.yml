@@ -32,7 +32,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "TLDR", name: "tldr", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "select", options: ["gaming","film and tv","off topic"] }
+      - { label: "Category", name: "category", widget: "select", options: ["Gaming","Film and Tv","Off Topic"] }
   - name: "reviews"
     label: "Reviews"
     folder: "src/pages/reviews"
@@ -43,7 +43,7 @@ collections:
           label: "Template Key",
           name: "templateKey",
           widget: "hidden",
-          default: "post-page",
+          default: "review-page",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
@@ -55,7 +55,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "TLDR", name: "tldr", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "hidden", default: "review" }
+      - { label: "Category", name: "category", widget: "hidden", default: "Review" }
   - name: "pages"
     label: "Pages"
     files:

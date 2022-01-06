@@ -1,5 +1,5 @@
 ---
-templateKey: post-page
+templateKey: review-page
 title: Psychonauts 2 is One of the Most Underrated Games in A Long Time
 date: 2022-01-06T01:45:58.577Z
 description: This game is good, really
@@ -15,7 +15,7 @@ tldr: |-
 tags:
   - DoubleFine
   - Platformer
-category: review
+category: Review
 ---
 # Natura superi turba relicta sonuere modo dixit
 

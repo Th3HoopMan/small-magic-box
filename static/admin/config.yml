@@ -51,7 +51,6 @@ collections:
       - { label: "Game Title", name: "gametitle", widget: "string" }
       - { label: "Platforms", name: "platforms", widget: "list" }
       - { label: "Grade", name: "grade", widget: "string" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "TLDR", name: "tldr", widget: "markdown" }

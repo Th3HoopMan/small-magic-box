@@ -22,7 +22,7 @@ tldr: |-
   * Donec non tortor quis mauris tempus pretium.
   * Etiam dapibus magna et augue gravida posuere.
   * Nulla nec ex vitae nunc lacinia luctus.
-category: gaming
+category: Gaming
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultrices ante quis eros dignissim, at pharetra lectus hendrerit. Curabitur vitae velit est. Cras nec sollicitudin mi, ullamcorper lacinia velit. Praesent accumsan mattis arcu. Vestibulum posuere nunc sit amet bibendum luctus. Cras odio lectus, rutrum quis eleifend sed, fringilla sed odio. Donec pulvinar finibus ipsum, id ullamcorper turpis suscipit eget. Pellentesque ac magna blandit, elementum urna at, ullamcorper felis. Sed vehicula metus nec mauris eleifend vehicula. Aenean ex tortor, rutrum sit amet facilisis eu, pulvinar et urna. Etiam convallis commodo nibh, non elementum nibh auctor ac. Proin in lectus a metus vehicula ullamcorper. Quisque et fermentum nibh. Donec vel augue diam. Donec iaculis tellus vitae auctor bibendum. Nunc interdum facilisis ligula, a fermentum diam sagittis ac.
 

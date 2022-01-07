@@ -6,8 +6,8 @@ import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 import Layout from "../components/Layout/Layout";
 import * as styles from "./review.module.css";
 import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
-import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 import ReviewList from "../components/ReviewList/ReviewList";
+import ArticleList from "../components/ArticleList/ArticleList";
 
 const loremIpsumBlurb =
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
@@ -24,10 +24,10 @@ const HaloReviewPost = {
 // eslint-disable-next-line
 export const ReviewTemplate = ({
   title,
+  tagline,
   category,
   imgSrc,
   content,
-  tldr,
   date,
   gameDetails,
 }) => {
@@ -40,29 +40,34 @@ export const ReviewTemplate = ({
     day: "numeric",
   };
 
+  console.dir(imgSrc);
+  const featuredImage = getImage(imgSrc);
   return (
     <div className={styles.container}>
-      {/* Post Details */}
-      <div className={styles.postDetails}>
-        <CategoryBanner category={category} />
-        <h1 className={styles.title}>{title}</h1>
-        <h2 className={styles.tagline}>
-          Double Fine returns to the spotlight in spectacular fashion
-        </h2>
-        <p className={styles.publishDate}>{`${publishDate.toLocaleDateString(
-          "en-US",
-          dateOptions
-        )} by Joseph Hooper`}</p>
-      </div>
-
-      <span className={styles.divider} />
-
       <div className={styles.mainContent}>
-        {/* <GatsbyImage image={coverImage} alt=""/> */}
+        <div className={styles.postDetails}>
+          <CategoryBanner category={category} />
+          <h1 className={styles.title}>{title}</h1>
+          <h2 className={styles.tagline}>
+            {tagline}
+          </h2>
+          <GatsbyImage className={styles.headerImage} image={featuredImage} alt=""/>
+          <p className={styles.publishDate}>{`Published: ${publishDate.toLocaleDateString(
+            "en-US",
+            dateOptions
+          )} by Joseph Hooper`}</p>
+        </div>
+        
+        
+        <span className={styles.divider} />
 
-        <img src="https://www.mobygames.com/images/covers/l/759338-psychonauts-2-windows-front-cover.jpg" />
 
         <div dangerouslySetInnerHTML={{ __html: `${content}` }} />
+
+        {/* <div className={styles.tldr}>
+            <h2>The Breakdown</h2>
+            <div className={styles.tldrContent} dangerouslySetInnerHTML={{ __html: `${tldr}` }} />
+        </div> */}
 
         <ReviewPreview
           title={gameDetails.gameTitle}
@@ -70,9 +75,13 @@ export const ReviewTemplate = ({
           grade={gameDetails.grade}
         />
       </div>
+
       <div className={styles.additionContent}>
         <div className={styles.moreReviews}>
           <ReviewList />
+        </div>
+        <div className={styles.moreReviews}>
+          <ArticleList />
         </div>
       </div>
     </div>
@@ -87,14 +96,14 @@ const ReviewPage = ({ data }) => {
     <Layout>
       <ReviewTemplate
         title={post.frontmatter.title}
+        tagline={post.frontmatter.tagline}
         category={post.frontmatter.category}
-        // imgSrc={post.frontmatter.featuredimage.childrenImageSharp[0]}
+        imgSrc={post.frontmatter.featuredimage.childrenImageSharp[0]}
         content={post.html}
-        tldr={post.frontmatter.tldr}
         date={post.frontmatter.date}
         gameDetails={{
           gameTitle: post.frontmatter.gametitle,
-          platforms: post.platforms,
+          platforms: post.frontmatter.platforms,
           grade: post.frontmatter.grade,
         }}
       />
@@ -116,7 +125,7 @@ export const reviewQuery = graphql`
         platforms
         tags
         title
-        tldr
+        tagline
         date
         featuredimage {
           childrenImageSharp {

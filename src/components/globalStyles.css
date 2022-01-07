@@ -29,4 +29,7 @@ html *
     --search-box-height: 45px;
     --footer-height: 250px;
     --main-search-margin: 150px;
+    --default-text: 1em;
+    --default-text-color: #333;
+    --secondary-text-color: rgba(51, 51, 51, 0.856);
 }

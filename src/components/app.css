@@ -1,0 +1,19 @@
+h1 {
+  font-size: var(--large-font) !important;
+}
+
+h2 {
+  font-size: var(--medium-font) !important;
+}
+
+h3 {
+  font-size: var(--small-font) !important;
+}
+
+p {
+  font-size: var(--default-text) !important;
+}
+
+body {
+    color: var(--default-text-color);
+}

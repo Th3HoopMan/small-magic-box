@@ -79,7 +79,7 @@ export const PostTemplate = ({
           </div>
         )}
         {!isReview && (
-          <div className={styles.section}>
+          <div className={styles.sectioFn}>
             <h3 className={styles.sectionHeader}>More Articles</h3>
             {/* {fakePostData
               .filter((post) => post.category.toLowerCase() !== "review")

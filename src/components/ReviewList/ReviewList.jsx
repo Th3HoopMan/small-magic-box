@@ -9,7 +9,7 @@ const ReviewList = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
-        filter: { frontmatter: { category: { eq: "review" } } }
+        filter: { frontmatter: { category: { eq: "Review" } } }
       ) {
         edges {
           node {
@@ -38,7 +38,7 @@ const ReviewList = () => {
 
   return (
     <div className={styles.section}>
-      <h3 className={styles.sectionHeader}>Recent Reviews</h3>
+      <h3 className={styles.sectionHeader}>Latest Reviews</h3>
       {reviews
         .map((review) => (
           <ReviewPreview

@@ -26,11 +26,12 @@ collections:
           default: "post-page",
         }
       - { label: "Title", name: "title", widget: "string" }
+      
+      - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "TLDR", name: "tldr", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "select", options: ["Gaming","Film and Tv","Off Topic"] }
   - name: "reviews"
@@ -46,6 +47,7 @@ collections:
           default: "review-page",
         }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Game Title", name: "gametitle", widget: "string" }
@@ -53,7 +55,6 @@ collections:
       - { label: "Grade", name: "grade", widget: "string" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "TLDR", name: "tldr", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Category", name: "category", widget: "hidden", default: "Review" }
   - name: "pages"

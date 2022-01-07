@@ -1,0 +1,57 @@
+import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import { Link } from "gatsby";
+
+import * as styles from "./ArticleList.module.css";
+import CompactArticlePreview from "../CompactArticlePreview/CompactArticlePreview";
+
+const ArticleList = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: {
+            category: { in: ["Gaming", "Film and Tv", "Off Topic"] }
+          }
+        }
+      ) {
+        edges {
+          node {
+            frontmatter {
+              category
+              title
+            }
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `);
+
+  const articles = data.allMarkdownRemark.edges.map((edge) => {
+    return {
+      ...edge.node.frontmatter,
+      slug: edge.node.fields.slug,
+    };
+  });
+
+  return (
+    <div className={styles.section}>
+      <h3 className={styles.sectionHeader}>Latest Articles</h3>
+      {articles.map((article) => (
+        <CompactArticlePreview
+          title={article.title}
+          category={article.category}
+          slug={article.slug}
+        />
+      ))}
+      <Link className={styles.link} to="/articles">
+        View All Articles →
+      </Link>
+    </div>
+  );
+};
+
+export default ArticleList;

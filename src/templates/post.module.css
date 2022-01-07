@@ -34,10 +34,6 @@
     padding: var(--medium-margins);
 }
 
-.sectionHeader {
-    text-decoration: underline;
-}
-
 .section {
     margin: var(--large-margins);
 }

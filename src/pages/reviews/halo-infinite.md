@@ -1,6 +1,7 @@
 ---
-templateKey: post-page
+templateKey: review-page
 title: 343's Halo Infinite Signals A Strong Generation for Xbox
+tagline: The chief is back and better than ever.
 date: 2022-01-02T21:21:04.144Z
 description: Halo Infinite is better than many of us could have ever hoped back
   in 2020, and while not perfect, seems to signal a strong comeback for 343 and
@@ -9,22 +10,13 @@ gametitle: Halo Infinite
 platforms:
   - Xbox
 grade: B+
-featuredpost: false
 featuredimage: /img/reze3folzuq5e8drbpa6aw.jpg
-tldr: |-
-  Whooooping
-
-  \- ininaw
-
-  \-pamwpdmpawdm
-
-  \- pamwdopmpawdmpm
 tags:
   - halo
   - xbox
   - mutliplayer
   - gamepass
-category: review
+category: Review
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a ex lacus. Sed consectetur tortor pretium felis fringilla, nec sodales erat egestas. Aenean elementum maximus ultricies. Praesent quis dolor et augue volutpat varius sit amet id lacus. Suspendisse lobortis urna id mi condimentum iaculis. Ut vel nibh at mi pharetra tempus et id ligula. Mauris libero tellus, venenatis eget volutpat quis, convallis at mauris. Suspendisse volutpat nisl lectus, quis euismod nisl pellentesque quis. Maecenas viverra non erat non blandit. Mauris ex elit, luctus id sollicitudin nec, volutpat et metus. Suspendisse vel sem lacus. Mauris porta nec ante vel congue. Maecenas ullamcorper diam et sodales pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus interdum finibus elit quis consequat. Morbi tempor volutpat arcu, at blandit urna laoreet a.
 

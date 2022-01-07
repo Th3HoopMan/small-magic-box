@@ -9,7 +9,7 @@ featuredimage: http://media3.s-nbcnews.com/i/streams/2013/November/131121/2D9744
 tldr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum
   elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula,
   hendrerit eu lacus quis, tincidunt blandit arcu.
-category: off topic
+category: Off Topic
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula, hendrerit eu lacus quis, tincidunt blandit arcu. Aenean elementum dapibus auctor. Donec elementum arcu dolor, a aliquet sem tempor at. Quisque nibh metus, malesuada sit amet lacus vitae, eleifend lacinia diam. Nullam nec nibh ultrices, euismod felis non, cursus elit. Morbi ac urna sed eros tincidunt sagittis.
 

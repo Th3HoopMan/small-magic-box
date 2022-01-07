@@ -1,5 +1,6 @@
 import React from 'react';
 import * as styles from './Layout.module.css';
+import '../app.css';
 import Footer from '../Footer/Footer';
 
 const Layout = ({children}) => {

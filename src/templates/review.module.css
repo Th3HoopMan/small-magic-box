@@ -26,6 +26,9 @@
 .mainContent {
     padding: var(--medium-margins) 0;
     margin-bottom: var(--large-margins);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .headerImage {

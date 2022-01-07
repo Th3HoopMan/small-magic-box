@@ -1,15 +1,16 @@
 ---
 templateKey: post-page
+tldr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum
+  elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula,
+  hendrerit eu lacus quis, tincidunt blandit arcu.
 title: We Still Talking in Movie Theaters?
+tagline: The government needs to step in and do something.
 date: 2022-01-05T06:06:03.895Z
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
   ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa
   ligula, hendrerit eu lacus quis, tincidunt blandit arcu. "
-featuredimage: http://media3.s-nbcnews.com/i/streams/2013/November/131121/2D9744988-tdy_annoying4_120824.jpg
-tldr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum
-  elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula,
-  hendrerit eu lacus quis, tincidunt blandit arcu.
-category: Off Topic
+featuredimage: /img/2d9744988-tdy_annoying4_120824.jpg
+category: off topic
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula, hendrerit eu lacus quis, tincidunt blandit arcu. Aenean elementum dapibus auctor. Donec elementum arcu dolor, a aliquet sem tempor at. Quisque nibh metus, malesuada sit amet lacus vitae, eleifend lacinia diam. Nullam nec nibh ultrices, euismod felis non, cursus elit. Morbi ac urna sed eros tincidunt sagittis.
 

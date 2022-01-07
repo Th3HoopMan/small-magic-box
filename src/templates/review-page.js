@@ -52,22 +52,15 @@ export const ReviewTemplate = ({
             {tagline}
           </h2>
           <GatsbyImage className={styles.headerImage} image={featuredImage} alt=""/>
-          <p className={styles.publishDate}>{`Published: ${publishDate.toLocaleDateString(
+          <p className={styles.publishDate}>{`By Joseph Hooper on ${publishDate.toLocaleDateString(
             "en-US",
             dateOptions
-          )} by Joseph Hooper`}</p>
+          )} `}</p>
         </div>
-        
-        
+                
         <span className={styles.divider} />
 
-
         <div dangerouslySetInnerHTML={{ __html: `${content}` }} />
-
-        {/* <div className={styles.tldr}>
-            <h2>The Breakdown</h2>
-            <div className={styles.tldrContent} dangerouslySetInnerHTML={{ __html: `${tldr}` }} />
-        </div> */}
 
         <ReviewPreview
           title={gameDetails.gameTitle}

@@ -1,13 +1,5 @@
 ---
-templateKey: post-page
-title: Arcane was the best show (I saw) in 2021
-date: 2022-01-05T05:41:43.237Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-  ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa
-  ligula, hendrerit eu lacus quis, tincidunt blandit arcu. Aenean elementum
-  dapibus auctor. Donec elementum arcu dolor, a aliquet sem tempor at.
-featuredpost: false
-featuredimage: https://www.riotgames.com/darkroom/1000/b540da2b9afe5ec83e842a2d84f6dbb1:9684eda5d229feec2930e4849eb9f819/arcane-final-poster-16x9-no-text-no-border.jpg
+templateKey: article-post
 tldr: |-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
@@ -15,6 +7,15 @@ tldr: |-
   * Nulla nec augue id elit molestie consectetur.
   * Nullam maximus mauris in erat pretium fringilla.
   * Phasellus ac turpis placerat, efficitur nunc sit amet, lobortis felis.
+featuredimage: /img/arcane-final-poster-16x9-no-text-no-border.jpg
+featuredpost: false
+title: Arcane was the best show (I saw) in 2021
+tagline: Riot's television debut is flawless.
+date: 2022-01-05T05:41:43.237Z
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+  ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa
+  ligula, hendrerit eu lacus quis, tincidunt blandit arcu. Aenean elementum
+  dapibus auctor. Donec elementum arcu dolor, a aliquet sem tempor at.
 tags:
   - arcane
   - leageoflegends

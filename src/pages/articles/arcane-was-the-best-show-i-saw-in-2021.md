@@ -1,5 +1,5 @@
 ---
-templateKey: article-post
+templateKey: post-page
 tldr: |-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 

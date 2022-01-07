@@ -17,6 +17,7 @@
 
 .details {
   padding: var(--small-margins);
+  margin: auto 0;
 }
 
 .details h2 {

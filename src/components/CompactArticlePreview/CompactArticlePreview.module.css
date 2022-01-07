@@ -3,22 +3,20 @@
 .container {
   display: flex;
   flex-direction: row;
-  height: var(--compact-preview-height);
   box-shadow: var(--box-shadow);
+  height: var(--compact-preview-height);
   width: var(--compact-preview-width);
   max-width: var(--compact-preview-max-width);
-  justify-content: center;
-  align-items: center;
+
   margin: var(--medium-margins) 0;
-  padding: var(--medium-margins);
 }
 
-.container img {
-  padding: var(--small-margins);
-  width: var(--icon-width);
-  margin: 0 auto 0;
+.thumbnail {
+  max-height: var(--compact-preview-height);
+  max-width: 150px;
 }
 
-.container h2 {
+.title {
   font-size: var(--small-font);
+  padding: var(--medium-margins);
 }

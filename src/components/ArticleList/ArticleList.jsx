@@ -20,6 +20,11 @@ const ArticleList = () => {
             frontmatter {
               category
               title
+              featuredimage {
+                childrenImageSharp {
+                  gatsbyImageData
+                }
+              }
             }
             fields {
               slug
@@ -45,6 +50,7 @@ const ArticleList = () => {
           title={article.title}
           category={article.category}
           slug={article.slug}
+          imgSrc={article.featuredimage.childrenImageSharp[0]}
         />
       ))}
       <Link className={styles.link} to="/articles">

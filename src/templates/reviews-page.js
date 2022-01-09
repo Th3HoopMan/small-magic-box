@@ -1,76 +1,27 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import Search from "../components/Search/Search";
 import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 import * as styles from "./reviews.module.css";
-
-const loremIpsumBlurb =
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
-
-const fakePostData = [
-  {
-    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
-    category: "Review",
-    gameTitle: "Halo Infinite",
-    platform: "Xbox Series X",
-    grade: "B+",
-  },
-  {
-    title:
-      "Psychonauts 2 is the Needle in the Haystack No One is Talking About",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
-    category: "Review",
-    gameTitle: "Psychonauts 2",
-    platform: "Xbox Series X",
-    grade: "A+",
-  },
-  {
-    title: "When Will We Get a Solid Anime Action/Adventure Game?",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
-    category: "Entertainment",
-  },
-  {
-    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
-    category: "Review",
-    gameTitle: "Halo Infinite",
-    platform: "Xbox Series X",
-    grade: "B+",
-  },
-  {
-    title: "What Are the Game Awards Really About?",
-    blurb: loremIpsumBlurb,
-    imgSrc:
-      "https://cdn1.dotesports.com/wp-content/uploads/2021/11/11122728/L2GpNUt9NcmPRqYaPnnF9R.jpeg",
-    category: "IndustryOpinion",
-  },
-  {
-    title: "When Will We Get a Solid Anime Action/Adventure Game?",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
-    category: "Entertainment",
-  },
-];
+import ArticleList from "../components/ArticleList/ArticleList";
 
 const searchFilter = (item, searchText) => {
+  let platformFound = false;
+  console.log(item.platforms);
+  for (let i = 0; i < item.platforms.length; i++) {
+    if (item.platforms[i].toLowerCase().search(searchText.toLowerCase()) >= 0) {
+      platformFound = true;
+    }
+  }
+  
   return (
-    item.category.toLowerCase().trim() === "review" &&
-    (item.title.toLowerCase().trim().includes(searchText) ||
-      item.platform.toLowerCase().trim().includes(searchText))
+    item.gametitle.toLowerCase().trim().includes(searchText) || platformFound
   );
 };
 
 // eslint-disable-next-line
-export const ReviewsTemplate = () => {
-  // const PageContent = contentComponent || Content;
-
+export const ReviewsTemplate = ({ reviews }) => {
   return (
     <div className={styles.container}>
       <div className={styles.mainContent}>
@@ -80,25 +31,10 @@ export const ReviewsTemplate = () => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <Search
-          data={fakePostData.filter(
-            (post) => post.category.toLowerCase() === "review"
-          )}
-          searchFilter={searchFilter}
-          review
-        />
+        <Search data={reviews} searchFilter={searchFilter} review={true} />
       </div>
       <div className={styles.sidebarContent}>
-        <h3 className={styles.sectionHeader}>Recent Articles</h3>
-        {fakePostData
-          .filter((post) => post.category.toLowerCase() !== "review")
-          .map((post) => (
-            <CompactArticlePreview
-              title={post.title}
-              category={post.category}
-            />
-          ))}
-        <p>View All Articles</p>
+        <ArticleList />
       </div>
     </div>
   );
@@ -110,18 +46,45 @@ export const ReviewsTemplate = () => {
 //   contentComponent: PropTypes.func,
 // };
 
-const ReviewsPage = () => {
-  // const { markdownRemark: post } = data;
+const ReviewsPage = ({ data }) => {
+  const reviews = data.allMarkdownRemark.edges.map((edge) => {
+    return {
+      ...edge.node.frontmatter,
+      slug: edge.node.fields.slug,
+    };
+  });
 
   return (
     <Layout>
-      <ReviewsTemplate />
+      <ReviewsTemplate reviews={reviews} />
     </Layout>
   );
 };
 
-// AboutPage.propTypes = {
-//   data: PropTypes.object.isRequired,
-// };
-
 export default ReviewsPage;
+
+export const reviewsQuery = graphql`
+  query ReviewsTemplate {
+    allMarkdownRemark(filter: { frontmatter: { category: { eq: "Review" } } }) {
+      edges {
+        node {
+          frontmatter {
+            category
+            title
+            featuredimage {
+              childrenImageSharp {
+                gatsbyImageData
+              }
+            }
+            grade
+            gametitle
+            platforms
+          }
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  }
+`;

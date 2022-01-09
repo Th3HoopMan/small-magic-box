@@ -6,32 +6,6 @@ import CompactArticlePreview from "../CompactArticlePreview/CompactArticlePrevie
 import { useRef } from "react";
 import { useState } from "react";
 
-const data = [
-  {
-    title: "Halo Infinite",
-    platform: "Xbox Series X",
-    grade: "B+",
-    category: "Review",
-  },
-  {
-    title: "Psychonauts 2",
-    platform: "Xbox Series X",
-    grade: "A",
-    category: "Review",
-  },
-  {
-    title: "Returnal",
-    platform: "PS5",
-    grade: "B+",
-    category: "Review",
-  },
-  {
-    title: "Halo 2",
-    platform: "Xbox 360",
-    grade: "A+",
-    category: "Review",
-  },
-];
 const Search = ({ review = false, data, searchFilter }) => {
   const searchInput = useRef();
   const [results, setResults] = useState(data);
@@ -48,7 +22,6 @@ const Search = ({ review = false, data, searchFilter }) => {
     setResults(filteredResults);
   };
 
-  console.log(results);
   return (
     <div className={styles.container}>
       <input
@@ -61,8 +34,8 @@ const Search = ({ review = false, data, searchFilter }) => {
           <li>
             {review && (
               <ReviewPreview
-                title={result.gameTitle}
-                platform={result.platform}
+                title={result.gametitle}
+                platforms={result.platforms}
                 grade={result.grade}
               />
             )}

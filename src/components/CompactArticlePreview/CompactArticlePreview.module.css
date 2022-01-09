@@ -7,8 +7,11 @@
   height: var(--compact-preview-height);
   width: var(--compact-preview-width);
   max-width: var(--compact-preview-max-width);
-
   margin: var(--medium-margins) 0;
+}
+
+.container:hover {
+  cursor: pointer;
 }
 
 .thumbnail {
@@ -17,6 +20,14 @@
 }
 
 .title {
+  font-size: var(--medium-font);
+  padding: var(--small-margins) var(--medium-margins) var(--medium-margins) var(--medium-margins);
+}
+
+.category {
   font-size: var(--small-font);
-  padding: var(--medium-margins);
+  margin-top: var(--small-margins);
+  padding: 0 var(--medium-margins);
+  font-weight: bold;
+  text-decoration: underline;
 }

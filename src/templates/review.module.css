@@ -27,8 +27,7 @@
     padding: var(--medium-margins) 0;
     margin-bottom: var(--large-margins);
     max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .headerImage {
@@ -37,22 +36,10 @@
     display:block;
     margin: var(--small-margins) 0;
 }
-/* 
 
-.tldr {
-    box-shadow: var(--box-shadow);
-    padding: var(--medium-margins);
-    margin: var(--large-margins) 0;
+.additionContent {
+    margin: 0 auto;
 }
-
-.tldr h2 {
-    padding: var(--medium-margins) 0;
-}
-
-.tldrContent {
-    margin: var(--large-margins) 0;
-} */
-
 
 @media only screen and (min-width: 1024px) {
     .container {

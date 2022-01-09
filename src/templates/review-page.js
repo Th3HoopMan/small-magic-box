@@ -31,7 +31,6 @@ export const ReviewTemplate = ({
   date,
   gameDetails,
 }) => {
-  // const PageContent = contentComponent || Content;
 
   const publishDate = new Date(date);
   const dateOptions = {
@@ -40,7 +39,6 @@ export const ReviewTemplate = ({
     day: "numeric",
   };
 
-  console.dir(imgSrc);
   const featuredImage = getImage(imgSrc);
   return (
     <div className={styles.container}>

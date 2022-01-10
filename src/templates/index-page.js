@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({ articles }) => {
             />
           </FeaturePreview>
         ))}
-        <Link className="viewArticlesLink" to="/articles">
+        <Link className={styles.viewArticlesLink} to="/articles">
           View Latest Articles →
         </Link>
       </div>

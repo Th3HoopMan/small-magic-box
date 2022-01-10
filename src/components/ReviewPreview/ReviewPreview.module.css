@@ -5,7 +5,7 @@
   flex-direction: row;
   box-shadow: var(--box-shadow);
   width: var(--compact-preview-width);
-  height: var(--compact-preview-height);
+  height: var(--review-preview-height);
   margin: var(--medium-margins) 0;
   max-width: var(--compact-preview-max-width);
   min-width: 300px;

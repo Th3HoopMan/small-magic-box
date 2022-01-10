@@ -37,12 +37,15 @@ const Search = ({ review = false, data, searchFilter }) => {
                 title={result.gametitle}
                 platforms={result.platforms}
                 grade={result.grade}
+                slug={result.slug}
               />
             )}
             {!review && (
               <CompactArticlePreview
               title={result.title}
               category={result.category}
+              slug={result.slug}
+              imgSrc={result.featuredimage.childrenImageSharp[0]}
             />
             )}
           </li>

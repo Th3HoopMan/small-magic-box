@@ -1,18 +1,23 @@
 import React from "react";
 import * as styles from "./FeaturePreview.module.css";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import { navigate } from "gatsby"
 
-import CategoryBanner from '../CategoryBanner/CategoryBanner';
+const FeaturePreview = ({title, description, imgSrc, slug, children}) => {
+  const thumbnail = getImage(imgSrc);
 
-const FeaturePreview = ({title, blurb, imgSrc, children}) => {
+  const navigateToArticlePage = () => {
+    navigate(slug)
+  }
   return (
-    <div className={styles.container}>
-      <img src={imgSrc} />
+    <div className={styles.container} onClick={navigateToArticlePage}>
+      <GatsbyImage className={styles.thumbnail} image={thumbnail} alt="" />
       <div className={styles.details}>
         {/* category banner */}
         {children}
         <h2>{title}</h2>
         <p>
-          {blurb}
+          {description}
         </p>
       </div>
     </div>

@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import Search from "../components/Search/Search";
 import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
-import * as styles from "./reviews.module.css";
+import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
 
 const searchFilter = (item, searchText) => {

@@ -1,6 +1,5 @@
 import React from "react";
 import * as styles from "./CompactArticlePreview.module.css";
-import { iconMap } from "../utils";
 import { navigate } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 

@@ -3,68 +3,15 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import Search from "../components/Search/Search";
-import * as styles from "./reviews.module.css";
-import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
-
-const loremIpsumBlurb =
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis dolor nisi. Morbi semper nibh eget lectus vestibulum rhoncus. ";
-
-const fakePostData = [
-  {
-    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
-    category: "Review",
-    gameTitle: "Halo Infinite",
-    platform: "Xbox Series X",
-    grade: "B+",
-  },
-  {
-    title: "What Are the Game Awards Really About?",
-    blurb: loremIpsumBlurb,
-    imgSrc:
-      "https://cdn1.dotesports.com/wp-content/uploads/2021/11/11122728/L2GpNUt9NcmPRqYaPnnF9R.jpeg",
-    category: "IndustryOpinion",
-  },
-  {
-    title: "When Will We Get a Solid Anime Action/Adventure Game?",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
-    category: "Entertainment",
-  },
-  {
-    title: "343's Halo Infinite Signals A Strong Generation for Xbox",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://cdn.mos.cms.futurecdn.net/Reze3foLZuQ5e8DrBPA6aW.jpg",
-    category: "Review",
-    gameTitle: "Halo Infinite",
-    platform: "Xbox Series X",
-    grade: "B+",
-  },
-  {
-    title: "What Are the Game Awards Really About?",
-    blurb: loremIpsumBlurb,
-    imgSrc:
-      "https://cdn1.dotesports.com/wp-content/uploads/2021/11/11122728/L2GpNUt9NcmPRqYaPnnF9R.jpeg",
-    category: "IndustryOpinion",
-  },
-  {
-    title: "When Will We Get a Solid Anime Action/Adventure Game?",
-    blurb: loremIpsumBlurb,
-    imgSrc: "https://pbs.twimg.com/media/EzsGIYBWUAIjXDm.jpg",
-    category: "Entertainment",
-  },
-];
+import * as styles from "../templateStyles/articles.module.css";
+import ReviewList from "../components/ReviewList/ReviewList";
 
 const searchFilter = (item, searchText) => {
-  return (
-    item.category.toLowerCase().trim() !== "review" &&
-    item.title.toLowerCase().trim().includes(searchText)
-  );
+  return item.title.toLowerCase().trim().includes(searchText);
 };
 
 // eslint-disable-next-line
-export const ArticlesTemplate = () => {
+export const ArticlesTemplate = ({ articles }) => {
   // const PageContent = contentComponent || Content;
 
   return (
@@ -77,47 +24,62 @@ export const ArticlesTemplate = () => {
           thought process for reviewing games.
         </p>
         <Search
-          data={fakePostData.filter(
-            (post) => post.category.toLowerCase() !== "review"
-          )}
+          data={articles}
           searchFilter={searchFilter}
         />
       </div>
       <div className={styles.sidebarContent}>
-        <h3 className={styles.sectionHeader}>Recent Reviews</h3>
-        {fakePostData
-          .filter((post) => post.category.toLowerCase() === "review")
-          .map((post) => (
-            <ReviewPreview
-              title={post.gameTitle}
-              platform={post.platform}
-              grade={post.grade}
-            />
-          ))}
-        <p>View All Reviews</p>
+        <ReviewList />
       </div>
     </div>
   );
 };
 
-// AboutPageTemplate.propTypes = {
-//   title: PropTypes.string.isRequired,
-//   content: PropTypes.string,
-//   contentComponent: PropTypes.func,
-// };
-
-const ArticlesPage = () => {
-  // const { markdownRemark: post } = data;
+const ArticlesPage = ({ data }) => {
+  const articles = data.allMarkdownRemark.edges.map((edge) => {
+    return {
+      ...edge.node.frontmatter,
+      slug: edge.node.fields.slug,
+    };
+  });
 
   return (
     <Layout>
-      <ArticlesTemplate />
+      <ArticlesTemplate articles={articles} />
     </Layout>
   );
 };
 
-// AboutPage.propTypes = {
-//   data: PropTypes.object.isRequired,
-// };
-
 export default ArticlesPage;
+
+export const articklessQuery = graphql`
+  query ArticlesTemplate {
+    allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          category: { in: ["Gaming", "Film and Tv", "Off Topic"] }
+        }
+      }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            category
+            title
+            featuredimage {
+              childrenImageSharp {
+                gatsbyImageData
+              }
+            }
+            grade
+            gametitle
+            platforms
+          }
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  }
+`;

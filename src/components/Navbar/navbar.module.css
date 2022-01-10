@@ -1,0 +1,125 @@
+.container {
+
+}
+
+.navbarContainer {
+    display: flex;
+    flex-direction: row;
+    padding: var(--large-margins) var(--medium-margins);
+    align-items: center;
+}
+
+.hamburgerContainer {
+    margin-right: var(--medium-margins);
+}
+
+.hamburgerTop, .hamburgerMiddle, .hamburgerBottom {
+    border-top: 3px solid black;
+    border-radius: 100px;
+    width: 30px;
+    margin: 5px;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 65vw;
+    height: 100vh;
+    background-color: whitesmoke;
+    padding: var(--medium-margins);
+    transform: translateX(-100%);
+    
+}
+
+.menuTitle {
+    margin-top: var(--medium-margins);
+    margin-bottom: var(--large-margins);
+}
+
+.menuItem {
+    margin: var(--large-margins) 0;
+}
+
+.menuEnterActive {
+    transform: translateX(-100%);
+}
+
+.menuEnterDone {
+    transform: translateX(0);
+    transition: transform 200ms;
+    transition-timing-function: ease-out;
+}
+
+.menuExitActive {
+    transform: translateX(0);
+}
+
+.menuExitDone {
+    transform: translateX(-100%);
+    transition: transform 200ms;
+    transition-timing-function: ease-out
+}
+
+.menuBackground {
+    position: fixed;
+    opacity: 0;
+    top: 0;
+    z-index: 50;
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 100vw;
+    height: 100vh;
+    display: none;
+}
+
+.menuBackgroundEnterActive {
+    opacity: 0;
+    display: block;
+}
+
+.menuBackgroundEnterDone {
+    opacity: 1;
+    transition: opacity 200ms;
+    transition-timing-function: ease-out;
+    display: block;
+}
+
+.menuBackgroundExitActive {
+    opacity: 1;
+    display: block;
+}
+
+.menuBackgrounduExitDone {
+    opacity: 0;
+    transition: opacity 200ms;
+    transition-timing-function: ease-out;
+    display: none;
+}
+
+.navbarLinks {
+    display: none;
+}
+
+.viewArticlesLink {
+    
+}
+
+
+@media only screen and (min-width: 768px) {
+    .navbarLinks {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .hamburgerContainer {
+        display: none;
+    }
+
+    .navbarItem {
+        margin: auto var(--large-margins);
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+
+}

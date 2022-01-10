@@ -4,7 +4,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 import Layout from "../components/Layout/Layout";
-import * as styles from "./post.module.css";
+import * as styles from "../templateStyles/post.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
 

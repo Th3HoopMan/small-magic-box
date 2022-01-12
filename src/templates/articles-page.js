@@ -2,19 +2,13 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout/Layout";
-import Search from "../components/Search/Search";
 import * as styles from "../templateStyles/articles.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import PaginationControls from "../components/PaginationControls/PaginationControls";
-
-const searchFilter = (item, searchText) => {
-  return item.title.toLowerCase().trim().includes(searchText);
-};
+import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 
 // eslint-disable-next-line
 export const ArticlesTemplate = ({ articles }) => {
-  // const PageContent = contentComponent || Content;
-
   return (
     <div className={styles.container}>
       <div className={styles.mainContent}>
@@ -24,10 +18,18 @@ export const ArticlesTemplate = ({ articles }) => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <Search
-          data={articles}
-          searchFilter={searchFilter}
-        />
+        <ul className={styles.list}>
+          {articles.map((article) => (
+            <li>
+              <CompactArticlePreview
+                title={article.title}
+                category={article.category}
+                slug={article.slug}
+                imgSrc={article.featuredimage.childrenImageSharp[0]}
+              />
+            </li>
+          ))}
+        </ul>
       </div>
       <div className={styles.sidebarContent}>
         <ReviewList />
@@ -85,9 +87,6 @@ export const articlesTemplateQuery = graphql`
                 gatsbyImageData
               }
             }
-            grade
-            gametitle
-            platforms
           }
           fields {
             slug

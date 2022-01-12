@@ -32,6 +32,48 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
+    const postsPerPage = 5;
+
+    // Create articles pages
+    const articles = posts.filter((post) => {
+      const category = post.node.frontmatter.category;
+      return !!category && category !== "Review";
+    });
+   
+    const numArticlePages = Math.ceil(articles.length / postsPerPage);
+    Array.from({ length: numArticlePages }).forEach((_, i) => {
+      console.log(`PRINTING-I: ${i}`);
+      createPage({
+        path: i === 0 ? `/articles` : `/articles/${i + 1}`,
+        component: path.resolve("./src/templates/articles-page.js"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numArticlePages,
+          currentPage: i + 1,
+        },
+      });
+    });
+
+    // Create reviews pages
+    const reviews = posts.filter((post) => {
+      const category = post.node.frontmatter.category;
+      return !!category && category === "Review";
+    });
+    const numReviewPages = Math.ceil(reviews.length / postsPerPage);
+    Array.from({ length: numReviewPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/reviews` : `/reviews/${i + 1}`,
+        component: path.resolve("./src/templates/reviews-page.js"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numReviewPages,
+          currentPage: i + 1,
+        },
+      });
+    });
+
     posts.forEach((edge) => {
       const id = edge.node.id;
       createPage({
@@ -67,47 +109,6 @@ exports.createPages = ({ actions, graphql }) => {
         component: path.resolve(`src/templates/tags.js`),
         context: {
           tag,
-        },
-      });
-    });
-
-    // Create articles pages
-    const articles = posts.filter((post) => {
-      const category = post.node.frontmatter.category;
-      return !!category && category !== "Review";
-    });
-    const postsPerPage = 10;
-    const numPages = Math.ceil(articles.length / postsPerPage);
-    Array.from({ length: numPages }).forEach((_, i) => {
-      console.log(`PRINTING-I: ${i}`);
-      createPage({
-        path: i === 0 ? `/articles` : `/articles/${i + 1}`,
-        component: path.resolve("./src/templates/articles-page.js"),
-        context: {
-          limit: postsPerPage,
-          skip: i * postsPerPage,
-          numPages,
-          currentPage: i + 1,
-        },
-      });
-    });
-
-    // Create reviews pages
-    const reviews = posts.filter((post) => {
-      const category = post.node.frontmatter.category;
-      return !!category && category === "Review";
-    });
-    const postsPerPage = 10;
-    const numPages = Math.ceil(reviews.length / postsPerPage);
-    Array.from({ length: numPages }).forEach((_, i) => {
-      createPage({
-        path: i === 0 ? `/reviews` : `/reviews/${i + 1}`,
-        component: path.resolve("./src/templates/reviews-page.js"),
-        context: {
-          limit: postsPerPage,
-          skip: i * postsPerPage,
-          numPages,
-          currentPage: i + 1,
         },
       });
     });

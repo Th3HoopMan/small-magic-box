@@ -5,6 +5,7 @@ import Layout from "../components/Layout/Layout";
 import Search from "../components/Search/Search";
 import * as styles from "../templateStyles/articles.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
+import PaginationControls from "../components/PaginationControls/PaginationControls";
 
 const searchFilter = (item, searchText) => {
   return item.title.toLowerCase().trim().includes(searchText);
@@ -35,7 +36,7 @@ export const ArticlesTemplate = ({ articles }) => {
   );
 };
 
-const ArticlesPage = ({ data, pageContext  }) => {
+const ArticlesPage = ({ data, pageContext }) => {
   const articles = data.allMarkdownRemark.edges.map((edge) => {
     return {
       ...edge.node.frontmatter,
@@ -43,17 +44,27 @@ const ArticlesPage = ({ data, pageContext  }) => {
     };
   });
 
+  console.dir(articles);
+  console.dir(pageContext);
+
   return (
     <Layout>
       <ArticlesTemplate articles={articles} />
+      {pageContext.numArticlePages > 1 && (
+        <PaginationControls
+          slug="articles"
+          current={pageContext.currentPage}
+          max={pageContext.numArticlePages}
+        />
+      )}
     </Layout>
   );
 };
 
 export default ArticlesPage;
 
-export const articklessQuery = graphql`
-  query ArticlesTemplate ($skip: Int!, $limit: Int!) {
+export const articlesTemplateQuery = graphql`
+  query ArticlesTemplate($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit

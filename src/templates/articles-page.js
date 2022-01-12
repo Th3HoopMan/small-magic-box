@@ -35,7 +35,7 @@ export const ArticlesTemplate = ({ articles }) => {
   );
 };
 
-const ArticlesPage = ({ data }) => {
+const ArticlesPage = ({ data, pageContext  }) => {
   const articles = data.allMarkdownRemark.edges.map((edge) => {
     return {
       ...edge.node.frontmatter,
@@ -53,8 +53,11 @@ const ArticlesPage = ({ data }) => {
 export default ArticlesPage;
 
 export const articklessQuery = graphql`
-  query ArticlesTemplate {
+  query ArticlesTemplate ($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
       filter: {
         frontmatter: {
           category: { in: ["Gaming", "Film and Tv", "Off Topic"] }

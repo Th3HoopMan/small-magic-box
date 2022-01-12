@@ -50,7 +50,7 @@ const Navbar = () => {
           <div className={styles.hamburgerMiddle} />
           <div className={styles.hamburgerBottom} />
         </div>
-        <h1>FakeSiteName</h1>
+        <h1>CantPause</h1>
         <div className={styles.navbarLinks}>
           {navLinks.map((item) => {
             return (
@@ -75,7 +75,7 @@ const Navbar = () => {
         }}
       >
         <div className={styles.menu}>
-          <h2 className={styles.menuTitle}>Fake Site Name</h2>
+          <h2 className={styles.menuTitle}>CantPause</h2>
 
           {navLinks.map((item) => {
             return (

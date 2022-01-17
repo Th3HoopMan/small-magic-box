@@ -14,6 +14,7 @@
 .thumbnail {
   width: 100%;
   object-fit: cover;
+  box-shadow: var(--box-shadow);
   /* margin-bottom: auto; */
 }
 
@@ -25,7 +26,6 @@
 .details h2 {
   font-size: var(--very-large-font);
   margin-bottom: 5px;
-  font-weight: bold;
 }
 
 .details p {
@@ -38,7 +38,6 @@
   flex-direction: row;
   justify-content: flex-start;
   font-style: italic;
-  font-weight: bold;
 }
 
 .postMetadata span {

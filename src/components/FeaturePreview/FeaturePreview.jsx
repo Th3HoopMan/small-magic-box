@@ -1,24 +1,43 @@
 import React from "react";
 import * as styles from "./FeaturePreview.module.css";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import { navigate } from "gatsby"
+import { navigate } from "gatsby";
 
-const FeaturePreview = ({title, description, imgSrc, slug, children}) => {
+const FeaturePreview = ({
+  title,
+  description,
+  imgSrc,
+  slug,
+  date,
+  category,
+}) => {
   const thumbnail = getImage(imgSrc);
 
   const navigateToArticlePage = () => {
-    navigate(slug)
-  }
+    navigate(slug);
+  };
+
+  const publishDate = new Date(date);
+  const dateOptions = {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  };
+
   return (
     <div className={styles.container} onClick={navigateToArticlePage}>
       <GatsbyImage className={styles.thumbnail} image={thumbnail} alt="" />
       <div className={styles.details}>
-        {/* category banner */}
-        {children}
+        <div className={styles.postMetadata}>
+          <p className={styles.date}>{`${publishDate.toLocaleDateString(
+            "en-US",
+            dateOptions
+          )}`}</p>
+          <span>//</span>
+          <p className={styles.category}>{`${category}`}</p>
+        </div>
         <h2>{title}</h2>
-        <p>
-          {description}
-        </p>
+        <p>{description}</p>
       </div>
     </div>
   );

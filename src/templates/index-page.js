@@ -22,12 +22,9 @@ export const IndexPageTemplate = ({ articles }) => {
             description={post.description}
             imgSrc={post.featuredimage.childrenImageSharp[0]}
             slug={post.slug}
-          >
-            <CategoryBanner
-              category={post.category}
-              grade={post.grade ? post.grade : null}
-            />
-          </FeaturePreview>
+            date={post.date}
+            category={post.category}
+          />
         ))}
         <Link className={styles.viewArticlesLink} to="/articles">
           View Latest Articles →
@@ -70,6 +67,7 @@ export const pageQuery = graphql`
             category
             title
             description
+            date
             featuredimage {
               childrenImageSharp {
                 gatsbyImageData

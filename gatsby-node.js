@@ -32,7 +32,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
-    const postsPerPage = 5;
+    const postsPerPage = 2;
 
     // Create articles pages
     const articles = posts.filter((post) => {

@@ -7,7 +7,7 @@ description: This game is good, really good. Like you have no idea. I can't beli
 gametitle: Psychonauts 2
 platforms:
   - Xbox, PC, Playstation
-grade: A
+grade: 9
 featuredimage: /img/psychonauts-2-release-date-preload.jpg
 tags:
   - DoubleFine

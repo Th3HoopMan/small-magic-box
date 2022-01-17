@@ -2,13 +2,19 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout/Layout";
+import Search from "../components/Search/Search";
 import * as styles from "../templateStyles/articles.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import PaginationControls from "../components/PaginationControls/PaginationControls";
-import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
+
+const searchFilter = (item, searchText) => {
+  return item.title.toLowerCase().trim().includes(searchText);
+};
 
 // eslint-disable-next-line
 export const ArticlesTemplate = ({ articles }) => {
+  // const PageContent = contentComponent || Content;
+
   return (
     <div className={styles.container}>
       <div className={styles.mainContent}>
@@ -18,18 +24,10 @@ export const ArticlesTemplate = ({ articles }) => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <ul className={styles.list}>
-          {articles.map((article) => (
-            <li>
-              <CompactArticlePreview
-                title={article.title}
-                category={article.category}
-                slug={article.slug}
-                imgSrc={article.featuredimage.childrenImageSharp[0]}
-              />
-            </li>
-          ))}
-        </ul>
+        <Search
+          data={articles}
+          searchFilter={searchFilter}
+        />
       </div>
       <div className={styles.sidebarContent}>
         <ReviewList />
@@ -52,13 +50,6 @@ const ArticlesPage = ({ data, pageContext }) => {
   return (
     <Layout>
       <ArticlesTemplate articles={articles} />
-      {pageContext.numArticlePages > 1 && (
-        <PaginationControls
-          slug="articles"
-          current={pageContext.currentPage}
-          max={pageContext.numArticlePages}
-        />
-      )}
     </Layout>
   );
 };
@@ -66,11 +57,9 @@ const ArticlesPage = ({ data, pageContext }) => {
 export default ArticlesPage;
 
 export const articlesTemplateQuery = graphql`
-  query ArticlesTemplate($skip: Int!, $limit: Int!) {
+  query ArticlesTemplate {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: $limit
-      skip: $skip
       filter: {
         frontmatter: {
           category: { in: ["Gaming", "Film and Tv", "Off Topic"] }
@@ -87,6 +76,10 @@ export const articlesTemplateQuery = graphql`
                 gatsbyImageData
               }
             }
+            grade
+            gametitle
+            platforms
+            date
           }
           fields {
             slug

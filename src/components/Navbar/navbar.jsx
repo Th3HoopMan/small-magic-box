@@ -1,9 +1,8 @@
-import React from "react";
-import * as styles from "./navbar.module.css";
 import { navigate } from "gatsby";
-import { useState } from "react";
+import React, { useState } from "react";
 import { CSSTransition } from "react-transition-group";
-
+import logo from "../../img/CantPauseLogoV2.png";
+import * as styles from "./navbar.module.css";
 const navLinks = [
   {
     title: "Home",
@@ -50,7 +49,7 @@ const Navbar = () => {
           <div className={styles.hamburgerMiddle} />
           <div className={styles.hamburgerBottom} />
         </div>
-        <h1>CantPause</h1>
+        <img className={styles.logo} src={logo} alt="logo"/>
         <div className={styles.navbarLinks}>
           {navLinks.map((item) => {
             return (

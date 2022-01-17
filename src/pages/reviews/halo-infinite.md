@@ -9,7 +9,7 @@ description: Halo Infinite is better than many of us could have ever hoped back
 gametitle: Halo Infinite
 platforms:
   - Xbox
-grade: B+
+grade: 8
 featuredimage: /img/reze3folzuq5e8drbpa6aw.jpg
 tags:
   - halo

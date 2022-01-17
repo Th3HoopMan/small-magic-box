@@ -5,8 +5,6 @@ import Search from "../components/Search/Search";
 import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
 import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
-import PaginationControls from "../components/PaginationControls/PaginationControls";
-import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
 
 const searchFilter = (item, searchText) => {
   let platformFound = false;
@@ -16,7 +14,7 @@ const searchFilter = (item, searchText) => {
       platformFound = true;
     }
   }
-
+  
   return (
     item.gametitle.toLowerCase().trim().includes(searchText) || platformFound
   );
@@ -33,18 +31,7 @@ export const ReviewsTemplate = ({ reviews }) => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <ul className={styles.list}>
-          {reviews.map((review) => (
-            <li>
-              <ReviewPreview
-                title={review.gametitle}
-                platforms={review.platforms}
-                grade={review.grade}
-                slug={review.slug}
-              />
-            </li>
-          ))}
-        </ul>
+        <Search data={reviews} searchFilter={searchFilter} review={true} />
       </div>
       <div className={styles.sidebarContent}>
         <ArticleList />
@@ -59,7 +46,7 @@ export const ReviewsTemplate = ({ reviews }) => {
 //   contentComponent: PropTypes.func,
 // };
 
-const ReviewsPage = ({ data, pageContext }) => {
+const ReviewsPage = ({ data }) => {
   const reviews = data.allMarkdownRemark.edges.map((edge) => {
     return {
       ...edge.node.frontmatter,
@@ -70,13 +57,6 @@ const ReviewsPage = ({ data, pageContext }) => {
   return (
     <Layout>
       <ReviewsTemplate reviews={reviews} />
-      {pageContext.numReviewPages > 1 && (
-        <PaginationControls
-          slug="reviews"
-          current={pageContext.currentPage}
-          max={pageContext.numReviewPages}
-        />
-      )}
     </Layout>
   );
 };
@@ -89,7 +69,11 @@ export const reviewsQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
       skip: $skip
-      filter: { frontmatter: { category: { eq: "Review" } } }
+      filter: {
+        frontmatter: {
+          category: { eq: "Review" }
+        }
+      }
     ) {
       edges {
         node {

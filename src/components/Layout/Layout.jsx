@@ -10,7 +10,6 @@ const Layout = ({ children }) => {
       <div className={styles.navbar}>
         <Navbar className={styles.nav} />
       </div>
-
       <div className={styles.content}>{children}</div>
       <Footer />
     </div>

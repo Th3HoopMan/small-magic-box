@@ -1,0 +1,36 @@
+.container {
+  padding-bottom: 200px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.content {
+  word-spacing: var(--deafult-word-spacing);
+  max-width: var(--default-content-width);
+}
+
+.title {
+  font-size: 3em;
+}
+
+.content h2 {
+  font: var(--very-large-font);
+}
+
+.content p {
+  font: var(--medium-font);
+}
+
+.content img {
+  width: 100%;
+  margin: var(--medium-margins) auto;
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}

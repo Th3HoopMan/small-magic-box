@@ -17,6 +17,7 @@
 .tagline {
   color: var(--secondary-text-color);
   margin: var(--small-margins) 0;
+  font-weight: normal;
 }
 
 .divider {
@@ -31,7 +32,7 @@
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
-  word-spacing: 3px;
+  word-spacing: var(--deafult-word-spacing);
 }
 
 .headerImage {
@@ -56,7 +57,7 @@
 
 .postMetadata span {
   color: var(--secondary-site-color);
-  margin: 0 var(--small-margins);
+  margin: auto var(--small-margins);
 }
 
 .category {

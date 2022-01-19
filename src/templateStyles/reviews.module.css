@@ -30,7 +30,7 @@
 }
 
 .reviewDetails {
-  margin: var(--medium-margins) 0;
+  margin: var(--very-small-margins) 0;
   font-size: var(--medium-font);
 }
 

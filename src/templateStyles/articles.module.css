@@ -35,7 +35,7 @@
   }
 
   .articleDetails {
-    margin: var(--medium-margins) 0;
+    margin: var(--very-small-margins) 0;
   }
 
   .articleDetails:hover {

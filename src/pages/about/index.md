@@ -23,4 +23,5 @@ Because I have a ton of super-niche video game thoughts and not many people to d
 
 Instead of posting a picture of me here, I’m going to post a picture of my dog Flora because why not. Hopefully, people don’t skip the text and assume a dog runs this site.
 
+
 ![PXL_20220101_034239615.jpg](/img/pxl_20220101_034239615.jpg)

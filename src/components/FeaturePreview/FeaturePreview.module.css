@@ -38,10 +38,12 @@
   flex-direction: row;
   justify-content: flex-start;
   font-style: italic;
+  vertical-align: middle;
 }
 
 .postMetadata span {
   color: var(--secondary-site-color);
+  margin: auto 0;
 }
 
 .date {

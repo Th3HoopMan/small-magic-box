@@ -39,7 +39,7 @@ export const PostTemplate = ({
             )}`}</p>
           </div>
           <h1 className={styles.title}>{title}</h1>
-          <h2 className={styles.tagline}>{tagline}</h2>
+          <h4 className={styles.tagline}>{tagline}</h4>
           <GatsbyImage
             className={styles.headerImage}
             image={featuredImage}

@@ -41,15 +41,19 @@ const Navbar = () => {
     setShowMenu(false);
   };
 
+  const navigateHome = () => {
+    navigate("/");
+  }
+
   return (
     <div className={styles.container}>
       <div className={styles.navbarContainer}>
+        <img className={styles.logo} src={logo} alt="logo" onClick={navigateHome}/>
         <div className={styles.hamburgerContainer} onClick={showMenuHandler}>
           <div className={styles.hamburgerTop} />
           <div className={styles.hamburgerMiddle} />
           <div className={styles.hamburgerBottom} />
         </div>
-        <img className={styles.logo} src={logo} alt="logo"/>
         <div className={styles.navbarLinks}>
           {navLinks.map((item) => {
             return (
@@ -74,7 +78,7 @@ const Navbar = () => {
         }}
       >
         <div className={styles.menu}>
-          <h2 className={styles.menuTitle}>CantPause</h2>
+        <img className={styles.logo} src={logo} alt="logo"/>
 
           {navLinks.map((item) => {
             return (

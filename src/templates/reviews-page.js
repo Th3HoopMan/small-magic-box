@@ -1,23 +1,18 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
-import Search from "../components/Search/Search";
-import CompactArticlePreview from "../components/CompactArticlePreview/CompactArticlePreview";
+import { Link } from "gatsby";
 import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
 
-const searchFilter = (item, searchText) => {
-  let platformFound = false;
-  console.log(item.platforms);
-  for (let i = 0; i < item.platforms.length; i++) {
-    if (item.platforms[i].toLowerCase().search(searchText.toLowerCase()) >= 0) {
-      platformFound = true;
-    }
-  }
-  
-  return (
-    item.gametitle.toLowerCase().trim().includes(searchText) || platformFound
-  );
+const years = [2022];
+const dateOptions = {
+  month: "short",
+  day: "numeric",
+};
+
+const navigateToReview = (slug) => {
+  navigate(slug);
 };
 
 // eslint-disable-next-line
@@ -31,7 +26,34 @@ export const ReviewsTemplate = ({ reviews }) => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <Search data={reviews} searchFilter={searchFilter} review={true} />
+        {years.map((year) => {
+          return (
+            <div>
+              <h2 className={styles.yearHeader}>{year}</h2>
+              <div>
+                {reviews.map((review) => {
+                  const reviewDate = new Date(review.date);
+                  const reviewYear = reviewDate.getFullYear();
+                  if (reviewYear === year) {
+                    return (
+                      <div
+                        className={styles.reviewDetails}
+                        onClick={() => {
+                          navigateToReview(review.slug);
+                        }}
+                      >
+                        <h4 className={styles.reviewTitle}>
+                          {review.gametitle}
+                        </h4>
+                        <p className={styles.reviewGrade}>{review.grade}</p>
+                      </div>
+                    );
+                  }
+                })}
+              </div>
+            </div>
+          );
+        })}
       </div>
       <div className={styles.sidebarContent}>
         <ArticleList />
@@ -69,11 +91,7 @@ export const reviewsQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
       skip: $skip
-      filter: {
-        frontmatter: {
-          category: { eq: "Review" }
-        }
-      }
+      filter: { frontmatter: { category: { eq: "Review" } } }
     ) {
       edges {
         node {
@@ -88,6 +106,7 @@ export const reviewsQuery = graphql`
             grade
             gametitle
             platforms
+            date
           }
           fields {
             slug

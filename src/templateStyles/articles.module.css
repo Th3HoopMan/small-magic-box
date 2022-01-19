@@ -5,8 +5,10 @@
   }
   
   .header {
-    font-size: var(--large-font);
-    margin: var(--medium-margins) 0;
+    color: var(--primary-site-color);
+    font-weight: bold;
+    font-size: var(--very-large-font);
+    width: 100%;
   }
   
   .details {
@@ -16,6 +18,42 @@
   
   .sidebarContent {
     display: none;
+  }
+
+  .articleDetails {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .yearHeader {
+    color: var(--primary-site-color);
+    font-weight: bold;
+    font-size: var(--large-font);
+    width: 100%;
+    border-bottom: 2px solid var(--secondary-site-color);
+    margin: var(--large-margins) 0;
+  }
+
+  .articleDetails {
+    margin: var(--medium-margins) 0;
+  }
+
+  .articleDetails:hover {
+    cursor: pointer;
+  }
+
+  .articleTitle {
+    font-weight: bold;
+    width: 85%;
+  }
+
+  .articleTitle:hover {
+    color: var(--secondary-site-color);
+  }
+
+  .articleDate {
+    margin: auto 0 auto auto;
+    font-weight: bold;
   }
   
   @media only screen and (min-width: 768px) {
@@ -27,7 +65,7 @@
   
   @media only screen and (min-width: 1024px) {
     .details {
-      width: 50%;
+      width: 100%;
     }
   
     .mainContent {

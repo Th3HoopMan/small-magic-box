@@ -24,7 +24,7 @@
 }
 
 .details h2 {
-  font-size: var(--very-large-font);
+  font-size: var(--large-font);
   margin-bottom: 5px;
 }
 
@@ -41,15 +41,16 @@
 }
 
 .postMetadata span {
-  color: #F4AB40;
+  color: var(--secondary-site-color);
 }
 
 .date {
-    margin-right: var(--small-margins);
+    margin-left: var(--small-margins);
 }
 
 .category {
-    margin-left: var(--small-margins);
+    margin-right: var(--small-margins);
+    font-weight: bold;
 }
 
 @media only screen and (min-width: 768px) {

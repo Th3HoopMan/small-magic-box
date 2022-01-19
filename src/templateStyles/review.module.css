@@ -1,6 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;
+    padding-bottom: var(--content-margins);
 }
 
 .postDetails {
@@ -8,7 +9,8 @@
 }
 
 .title {
-    margin: var(--small-margins) 0;
+    margin: 0 0 var(--small-margins);
+    font-size: var(--large-font);
 }
 
 .tagline {
@@ -18,7 +20,7 @@
 
 .divider {
     width: 100%;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgba(161, 161, 161, 0.856);
     margin-bottom: var(--large-margins);
     display: block;
 }
@@ -38,8 +40,25 @@
 }
 
 .additionContent {
-    margin: 0 auto;
+    margin: var(--very-large-margins) auto;
 }
+
+.postMetadata {
+    color: var(--primary-site-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-style: italic;
+  }
+  
+  .postMetadata span {
+    color: var(--secondary-site-color);
+    margin: 0 var(--small-margins);
+  }
+  
+  .category {
+    font-weight: bold;
+  }
 
 @media only screen and (min-width: 1024px) {
     .container {

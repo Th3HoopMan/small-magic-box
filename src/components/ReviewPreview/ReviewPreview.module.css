@@ -22,6 +22,7 @@
 
 .details h2 {
   font-size: var(--medium-font);
+  font-weight: bold;
 }
 
 .details h5 {
@@ -42,4 +43,5 @@
 
 .grade h3 {
   font-size: 1.4em;
+  font-weight: bold;
 }

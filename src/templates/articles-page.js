@@ -1,19 +1,22 @@
 import React from "react";
-import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
-import Search from "../components/Search/Search";
 import * as styles from "../templateStyles/articles.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
-import PaginationControls from "../components/PaginationControls/PaginationControls";
-
-const searchFilter = (item, searchText) => {
-  return item.title.toLowerCase().trim().includes(searchText);
-};
 
 // eslint-disable-next-line
 export const ArticlesTemplate = ({ articles }) => {
   // const PageContent = contentComponent || Content;
+
+  const years = [2022];
+  const dateOptions = {
+    month: "short",
+    day: "numeric",
+  };
+
+  const navigateToArticle = (slug) => {
+    navigate(slug);
+  };
 
   return (
     <div className={styles.container}>
@@ -24,10 +27,34 @@ export const ArticlesTemplate = ({ articles }) => {
           on the platforms I played them on. Please see my post explaining my
           thought process for reviewing games.
         </p>
-        <Search
-          data={articles}
-          searchFilter={searchFilter}
-        />
+        {years.map((year) => {
+          return (
+            <div>
+              <h2 className={styles.yearHeader}>{year}</h2>
+              <div>
+                {articles.map((article) => {
+                  const articleDate = new Date(article.date);
+                  const articleYear = articleDate.getFullYear();
+                  const articleMonthDay = articleDate.toLocaleDateString(
+                    "en-US",
+                    dateOptions
+                  );
+                  if (articleYear === year) {
+                    return (
+                      <div className={styles.articleDetails} onClick={() => {
+                        navigateToArticle(article.slug);
+                      }}>
+                        <h4 className={styles.articleTitle}>{article.title}</h4>
+
+                        <p className={styles.articleDate}>{articleMonthDay}</p>
+                      </div>
+                    );
+                  }
+                })}
+              </div>
+            </div>
+          );
+        })}
       </div>
       <div className={styles.sidebarContent}>
         <ReviewList />

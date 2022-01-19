@@ -2,8 +2,15 @@
   position: relative;
   min-height: 100vh;
 }
-
 .content {
-  margin: 0 var(--medium-margins);
+  margin: 0 auto;
+  width: 90%;
+  max-width: var(----max-site-width);
   padding: var(--large-margins) 0 var(--footer-height);
+}
+
+.navbar {
+  margin: 0 auto;
+  width: 100%;
+  max-width: var(----max-site-width);
 }

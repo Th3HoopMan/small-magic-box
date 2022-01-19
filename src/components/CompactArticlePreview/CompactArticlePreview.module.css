@@ -21,14 +21,21 @@
 }
 
 .title {
-  font-size: var(--medium-font);
-  padding: var(--small-margins) var(--medium-margins) var(--medium-margins) var(--medium-margins);
+  font-size: var(--small-font);
+  font-weight: bold;
+  padding-top: var(--small-margins);
+}
+
+.details {
+  padding-left:  var(--medium-margins);
 }
 
 .category {
-  font-size: var(--small-font);
-  margin-top: var(--small-margins);
-  padding: 0 var(--medium-margins);
+  font-size: var(--medium-font);
+  margin-top: var(--very-small-margins);
+  padding: 0;
+  color: var(--primary-site-color);
   font-weight: bold;
-  text-decoration: underline;
+  width: 50%;
+  border-bottom: 3px solid var(--secondary-site-color);
 }

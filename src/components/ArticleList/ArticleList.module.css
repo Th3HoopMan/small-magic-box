@@ -3,12 +3,20 @@
 }
 
 .sectionHeader {
-    text-decoration: underline;
+    color: var(--primary-site-color);
+    font-weight: bold;
+    font-size: var(--very-large-font);
+    width: 100%;
+    border-bottom: 3px solid var(--secondary-site-color);
 }
 
 .link {
     text-decoration: none;
-    font-size: var(--very-small-font);
+    font-size: var(--medium-font);
+}
+
+.link p {
+    color: var(--primary-site-color);
 }
 
 .link:visited {

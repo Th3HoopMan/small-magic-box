@@ -1,4 +1,5 @@
 import * as React from "react";
+import "@fontsource/oxygen";
 
 import Layout from "../../components/Layout";
 import BlogRoll from "../../components/BlogRoll";

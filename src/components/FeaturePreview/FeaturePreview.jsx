@@ -1,7 +1,7 @@
 import React from "react";
 import * as styles from "./FeaturePreview.module.css";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import { navigate } from "gatsby";
+import { navigate, Link } from "gatsby";
 
 const FeaturePreview = ({
   title,
@@ -29,12 +29,12 @@ const FeaturePreview = ({
       <GatsbyImage className={styles.thumbnail} image={thumbnail} alt="" />
       <div className={styles.details}>
         <div className={styles.postMetadata}>
+          <p className={styles.category}>{`${category}`}</p>
+          <span>//</span>
           <p className={styles.date}>{`${publishDate.toLocaleDateString(
             "en-US",
             dateOptions
           )}`}</p>
-          <span>//</span>
-          <p className={styles.category}>{`${category}`}</p>
         </div>
         <h2>{title}</h2>
         <p>{description}</p>

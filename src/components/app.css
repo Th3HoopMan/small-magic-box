@@ -1,9 +1,9 @@
 h1 {
-  font-size: var(--large-font) !important;
+  font-size: var(--large-font);
 }
 
 h2 {
-  font-size: var(--medium-font) !important;
+  /* font-size: var(--medium-font) !important; */
 }
 
 h3 {
@@ -11,9 +11,10 @@ h3 {
 }
 
 p {
-  font-size: var(--default-text) !important;
+  font-family: 'Roboto' !important;
 }
 
 body {
     color: var(--default-text-color);
+    background-color: var(--site-background-color);
 }

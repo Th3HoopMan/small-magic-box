@@ -13,9 +13,9 @@ const CompactArticlePreview = ({ category, title, slug, imgSrc }) => {
   return (
     <div className={styles.container} onClick={navigateToArticlePage}>
         <GatsbyImage className={styles.thumbnail} image={thumbnail} alt="" />
-    <div>
+    <div className={styles.details}>
     <h3 className={styles.category}>{category}</h3>
-    <p className={styles.title}>{title}</p>
+    <h2 className={styles.title}>{title}</h2>
     </div>
       
     </div>

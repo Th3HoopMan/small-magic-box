@@ -8,7 +8,6 @@ import * as styles from "../templateStyles/post.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
 
-
 // eslint-disable-next-line
 export const PostTemplate = ({
   title,
@@ -16,9 +15,8 @@ export const PostTemplate = ({
   category,
   imgSrc,
   content,
-  date
+  date,
 }) => {
-
   const publishDate = new Date(date);
   const dateOptions = {
     year: "numeric",
@@ -32,7 +30,14 @@ export const PostTemplate = ({
     <div className={styles.container}>
       <div className={styles.mainContent}>
         <div className={styles.postDetails}>
-          <CategoryBanner category={category} />
+          <div className={styles.postMetadata}>
+            <p className={styles.category}>{`${category}`}</p>
+            <span>//</span>
+            <p className={styles.date}>{`${publishDate.toLocaleDateString(
+              "en-US",
+              dateOptions
+            )}`}</p>
+          </div>
           <h1 className={styles.title}>{title}</h1>
           <h2 className={styles.tagline}>{tagline}</h2>
           <GatsbyImage
@@ -40,12 +45,6 @@ export const PostTemplate = ({
             image={featuredImage}
             alt=""
           />
-          <p
-            className={styles.publishDate}
-          >{`By Joseph Hooper on ${publishDate.toLocaleDateString(
-            "en-US",
-            dateOptions
-          )} `}</p>
         </div>
 
         <span className={styles.divider} />

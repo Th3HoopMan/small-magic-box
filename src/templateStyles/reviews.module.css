@@ -5,14 +5,54 @@
 }
 
 .header {
-  font-size: var(--large-font);
-  margin: var(--medium-margins) 0;
+  color: var(--primary-site-color);
+  font-weight: bold;
+  font-size: var(--very-large-font);
+  width: 100%;
 }
 
 .details {
   margin: var(--medium-margins) 0;
 }
 
+.reviewDetails {
+  display: flex;
+  flex-direction: row;
+}
+
+.yearHeader {
+  color: var(--primary-site-color);
+  font-weight: bold;
+  font-size: var(--large-font);
+  width: 100%;
+  border-bottom: 2px solid var(--secondary-site-color);
+  margin: var(--large-margins) 0;
+}
+
+.reviewDetails {
+  margin: var(--medium-margins) 0;
+  font-size: var(--medium-font);
+}
+
+.reviewDetails:hover {
+  cursor: pointer;
+}
+
+.reviewTitle {
+  font-weight: bold;
+  width: 85%;
+}
+
+.reviewTitle:hover {
+  color: var(--secondary-site-color);
+}
+
+.reviewGrade {
+  margin: auto 0 auto auto;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 2px 15px;
+}
 
 .sidebarContent {
   display: none;
@@ -27,7 +67,7 @@
 
 @media only screen and (min-width: 1024px) {
   .details {
-    width: 50%;
+    width: 100%;
   }
 
   .mainContent {

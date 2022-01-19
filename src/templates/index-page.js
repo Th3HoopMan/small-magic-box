@@ -16,6 +16,7 @@ export const IndexPageTemplate = ({ articles }) => {
   return (
     <div className={styles.container}>
       <div className={styles.section}>
+        <h2 className={styles.sectionHeader}>Latest Articles</h2>
         {articles.map((post) => (
           <FeaturePreview
             title={post.title}
@@ -27,7 +28,7 @@ export const IndexPageTemplate = ({ articles }) => {
           />
         ))}
         <Link className={styles.viewArticlesLink} to="/articles">
-          View Latest Articles →
+          <p>View All Articles →</p>
         </Link>
       </div>
       <div className={styles.section}>

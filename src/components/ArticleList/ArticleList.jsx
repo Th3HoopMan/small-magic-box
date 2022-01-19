@@ -44,7 +44,7 @@ const ArticleList = () => {
 
   return (
     <div className={styles.section}>
-      <h3 className={styles.sectionHeader}>Latest Articles</h3>
+      <h2 className={styles.sectionHeader}>Latest Articles</h2>
       {articles.map((article) => (
         <CompactArticlePreview
           title={article.title}
@@ -54,7 +54,7 @@ const ArticleList = () => {
         />
       ))}
       <Link className={styles.link} to="/articles">
-        View All Articles →
+        <p>View All Articles →</p>
       </Link>
     </div>
   );

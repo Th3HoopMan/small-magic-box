@@ -9,7 +9,7 @@ This site is mainly for me, but it is also for those looking to learn and discus
 
 Cant Pause is not supposed to be an example of fine journalism. It’s supposed to be a sometimes casual, sometimes deep, dive into the hobby I love.
 
-![CantPauseLogoV2.png](/img/cantpauselogov2.png)
+![Can't Pause Logo](/img/cantpauselogov2.png)
 
 # Who Runs This Site?
 
@@ -23,5 +23,12 @@ Because I have a ton of super-niche video game thoughts and not many people to d
 
 Instead of posting a picture of me here, I’m going to post a picture of my dog Flora because why not. Hopefully, people don’t skip the text and assume a dog runs this site.
 
+![A picture of my dog Flora](/img/pxl_20220101_034239615.jpg)
 
-![PXL_20220101_034239615.jpg](/img/pxl_20220101_034239615.jpg)
+# Let's Have a Discussion!
+
+# Let's Have a Discussion!
+
+At the end of the day I just want to talk about video games. If you read an opinion you like (or dislike) go ahead and tweet me about it so we can talk! I eventually want to implement a comment system but until then let's exchange DMs.
+
+![In game photo from It Takes Two](/img/ittakestwotalking.png)

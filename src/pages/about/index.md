@@ -1,19 +1,26 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Welcome to Can’t Pause!
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+This site is an archive of all my video game thoughts and opinions. Topics of the posts will span the entire gaming industry. I’ll discuss rumors of games, the development process, and of course the final product once it reaches my hands. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+This site is mainly for me, but it is also for those looking to learn and discuss the happenings of the video game industry. Sometimes I’ll go off script and discuss my opinions on the MCU or whatever anime I’m currently watching, but I intend for the core focus to be video games.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Cant Pause is not supposed to be an example of fine journalism. It’s supposed to be a sometimes casual, sometimes deep, dive into the hobby I love.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+![CantPauseLogoV2.png](/img/cantpauselogov2.png)
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+# Who Runs This Site?
+
+I do. My name is Joseph and I’m a Software Engineer currently living in Seattle. No surprise here, but I love video games just like the billions of other gamers out the.
+
+More importantly, for the context of this website, I love getting into the nitty-gritty of the video games industry. I love to dissect the most exciting rumored projects, the thoughts behind certain gaming-related business decisions, and where the industry is headed as a whole.
+
+That’s why this site exists. 
+
+Because I have a ton of super-niche video game thoughts and not many people to discuss them with.
+
+Instead of posting a picture of me here, I’m going to post a picture of my dog Flora because why not. Hopefully, people don’t skip the text and assume a dog runs this site.
+
+![PXL_20220101_034239615.jpg](/img/pxl_20220101_034239615.jpg)

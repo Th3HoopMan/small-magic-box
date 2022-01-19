@@ -1,7 +1,7 @@
 import React from "react";
 import * as styles from "./Footer.module.css";
-import twitterLogo from "../../img/twitterLogo.png";
-import spotifyLogo from "../../img/spotifyLogo.svg";
+import twitterLogo from "../../img/social/twitterLogo.png";
+import spotifyLogo from "../../img/social/spotifyLogo.svg";
 
 const Footer = () => {
   return (

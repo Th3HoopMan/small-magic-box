@@ -2,7 +2,6 @@ import React from "react";
 import { graphql } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
-import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/review.module.css";
 import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
@@ -108,7 +107,6 @@ export const reviewQuery = graphql`
       frontmatter {
         gametitle
         grade
-        heading
         description
         category
         platforms

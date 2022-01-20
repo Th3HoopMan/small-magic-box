@@ -13,11 +13,12 @@ const Footer = () => {
         </Link>
 
         <div className={styles.socialIcons}>
-          <img src={twitterLogo} href="https://twitter.com/Th3HoopMan" />
-          <img
-            src={spotifyLogo}
-            href="https://open.spotify.com/show/3oNzUYeq8gfRal3MpklVOH?si=3781d5479cce41fe"
-          />
+          <a href="https://twitter.com/Th3HoopMan" target="_blank" rel="noopener noreferrer">
+            <img src={twitterLogo} alt="Twitter Logo"/>
+          </a>
+          <a href="https://open.spotify.com/show/3oNzUYeq8gfRal3MpklVOH?si=3781d5479cce41fe" target="_blank" rel="noopener noreferrer">
+            <img src={spotifyLogo} alt="Spotify Logo"/>
+          </a>
         </div>
       </div>
     </div>

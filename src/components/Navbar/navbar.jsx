@@ -43,13 +43,27 @@ const Navbar = () => {
 
   const navigateHome = () => {
     navigate("/");
-  }
+  };
 
   return (
     <div className={styles.container}>
       <div className={styles.navbarContainer}>
-        <img className={styles.logo} src={logo} alt="logo" onClick={navigateHome}/>
-        <div className={styles.hamburgerContainer} onClick={showMenuHandler}>
+        <input
+          type="image"
+          className={styles.logo}
+          name="navbarLogo"
+          src={logo}
+          alt="logo"
+          onClick={navigateHome}
+          onKeyPress={navigateHome}
+        />
+        <div
+          className={styles.hamburgerContainer}
+          onClick={showMenuHandler}
+          role="button"
+          onKeyPress={showMenuHandler}
+          tabIndex={0}
+        >
           <div className={styles.hamburgerTop} />
           <div className={styles.hamburgerMiddle} />
           <div className={styles.hamburgerBottom} />
@@ -60,6 +74,9 @@ const Navbar = () => {
               <div
                 className={styles.navbarItem}
                 onClick={() => navigateToPage(item.navPath)}
+                role="link"
+                onKeyPress={() => navigateToPage(item.navPath)}
+                tabIndex={0}
               >
                 <p>{item.title}</p>
               </div>
@@ -78,13 +95,16 @@ const Navbar = () => {
         }}
       >
         <div className={styles.menu}>
-        <img className={styles.logo} src={logo} alt="logo"/>
+          <img className={styles.logo} src={logo} alt="logo" />
 
           {navLinks.map((item) => {
             return (
               <div
                 className={styles.menuItem}
                 onClick={() => navigateToPage(item.navPath)}
+                role="link"
+                onKeyPress={() => navigateToPage(item.navPath)}
+                tabIndex={0}
               >
                 <p>{item.title}</p>
               </div>
@@ -102,7 +122,14 @@ const Navbar = () => {
           exitDone: styles.menuBackgroundExitDone,
         }}
       >
-        <div className={styles.menuBackground} onClick={hideMenuHandler} />
+        <div
+          className={styles.menuBackground}
+          onClick={hideMenuHandler}
+          role="link"
+          onKeyPress={hideMenuHandler}
+          tabIndex={0}
+          aria-label="Background to menu"
+        />
       </CSSTransition>
     </div>
   );

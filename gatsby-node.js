@@ -42,9 +42,8 @@ exports.createPages = ({ actions, graphql }) => {
    
     const numArticlePages = Math.ceil(articles.length / postsPerPage);
     Array.from({ length: numArticlePages }).forEach((_, i) => {
-      console.log(`PRINTING-I: ${i}`);
       createPage({
-        path: i === 0 ? `/articles` : `/articles/${i + 1}`,
+        path: i === 0 ? `/articles/` : `/articles/${i + 1}`,
         component: path.resolve("./src/templates/articles-page.js"),
         context: {
           limit: postsPerPage,
@@ -63,7 +62,7 @@ exports.createPages = ({ actions, graphql }) => {
     const numReviewPages = Math.ceil(reviews.length / postsPerPage);
     Array.from({ length: numReviewPages }).forEach((_, i) => {
       createPage({
-        path: i === 0 ? `/reviews` : `/reviews/${i + 1}`,
+        path: i === 0 ? `/reviews/` : `/reviews/${i + 1}`,
         component: path.resolve("./src/templates/reviews-page.js"),
         context: {
           limit: postsPerPage,

@@ -3,10 +3,8 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout/Layout";
 import FeaturePreview from "../components/FeaturePreview/FeaturePreview";
-import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 
 import * as styles from "../templateStyles/index.module.css";
-import ArticleList from "../components/ArticleList/ArticleList";
 import ReviewList from "../components/ReviewList/ReviewList";
 
 // eslint-disable-next-line

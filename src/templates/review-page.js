@@ -32,7 +32,7 @@ export const ReviewTemplate = ({
         <div className={styles.postDetails}>
           <div className={styles.postMetadata}>
             <p className={styles.category}>{`${category}`}</p>
-            <span>//</span>
+            <span>{`//`}</span>
             <p className={styles.date}>{`${publishDate.toLocaleDateString(
               "en-US",
               dateOptions

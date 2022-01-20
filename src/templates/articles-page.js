@@ -41,15 +41,24 @@ export const ArticlesTemplate = ({ articles }) => {
                   );
                   if (articleYear === year) {
                     return (
-                      <div className={styles.articleDetails} onClick={() => {
-                        navigateToArticle(article.slug);
-                      }}>
+                      <div
+                        className={styles.articleDetails}
+                        onClick={() => {
+                          navigateToArticle(article.slug);
+                        }}
+                        role="link"
+                        onKeyPress={() => {
+                          navigateToArticle(article.slug);
+                        }}
+                        tabIndex={0}
+                      >
                         <h4 className={styles.articleTitle}>{article.title}</h4>
 
                         <p className={styles.articleDate}>{articleMonthDay}</p>
                       </div>
                     );
                   }
+                  return null;
                 })}
               </div>
             </div>

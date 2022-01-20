@@ -26,6 +26,13 @@
   margin: var(--medium-margins) auto;
 }
 
+.content a {
+  color: var(--primary-site-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
 @media only screen and (min-width: 768px) {
 }
 

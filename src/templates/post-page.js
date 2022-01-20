@@ -2,7 +2,6 @@ import React from "react";
 import { graphql } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
-import CategoryBanner from "../components/CategoryBanner/CategoryBanner";
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/post.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
@@ -32,7 +31,7 @@ export const PostTemplate = ({
         <div className={styles.postDetails}>
           <div className={styles.postMetadata}>
             <p className={styles.category}>{`${category}`}</p>
-            <span>//</span>
+            <span>{`//`}</span>
             <p className={styles.date}>{`${publishDate.toLocaleDateString(
               "en-US",
               dateOptions

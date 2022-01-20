@@ -1,15 +1,10 @@
 import React from "react";
 import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
-import { Link } from "gatsby";
 import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
 
 const years = [2022];
-const dateOptions = {
-  month: "short",
-  day: "numeric",
-};
 
 const navigateToReview = (slug) => {
   navigate(slug);
@@ -41,6 +36,11 @@ export const ReviewsTemplate = ({ reviews }) => {
                         onClick={() => {
                           navigateToReview(review.slug);
                         }}
+                        role="link"
+                        onKeyPress={() => {
+                          navigateToReview(review.slug);
+                        }}
+                        tabIndex={0}
                       >
                         <h4 className={styles.reviewTitle}>
                           {review.gametitle}
@@ -49,6 +49,7 @@ export const ReviewsTemplate = ({ reviews }) => {
                       </div>
                     );
                   }
+                  return null;
                 })}
               </div>
             </div>

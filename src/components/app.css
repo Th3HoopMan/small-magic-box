@@ -12,6 +12,8 @@ h3 {
 
 p {
   font-family: 'Roboto' !important;
+  word-spacing: var(--deafult-word-spacing);
+  max-width: var(--default-content-width);
 }
 
 body {

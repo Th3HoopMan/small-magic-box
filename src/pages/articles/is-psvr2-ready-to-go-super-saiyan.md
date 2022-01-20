@@ -1,28 +1,10 @@
 ---
 templateKey: post-page
-tldr: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-  * Duis at ante a dolor cursus pellentesque et at ex.
-  * Nulla nec augue id elit molestie consectetur.
-  * Nullam maximus mauris in erat pretium fringilla.
-  * Phasellus ac turpis placerat, efficitur nunc sit amet, lobortis felis.
-  * Integer pellentesque arcu consectetur euismod consectetur.
-  * Praesent elementum risus in bibendum maximus.
-  * Donec non tortor quis mauris tempus pretium.
-  * Etiam dapibus magna et augue gravida posuere.
-  * Nulla nec ex vitae nunc lacinia luctus.
 featuredimage: /img/psvr2.jpg
 featuredpost: false
 title: Is PSVR2 Ready to go Super Saiyan?
 tagline: Sony's newest version of PSVR is unveiled.
 date: 2022-01-05T05:39:41.722Z
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-  ultrices ante quis eros dignissim, at pharetra lectus hendrerit. Curabitur
-  vitae velit est. Cras nec sollicitudin mi, ullamcorper lacinia velit. Praesent
-  accumsan mattis arcu. Vestibulum posuere nunc sit amet bibendum luctus. Cras
-  odio lectus, rutrum quis eleifend sed, fringilla sed odio. Donec pulvinar
-  finibus ipsum, id ullamcorper turpis suscipit eget.
 category: Gaming
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultrices ante quis eros dignissim, at pharetra lectus hendrerit. Curabitur vitae velit est. Cras nec sollicitudin mi, ullamcorper lacinia velit. Praesent accumsan mattis arcu. Vestibulum posuere nunc sit amet bibendum luctus. Cras odio lectus, rutrum quis eleifend sed, fringilla sed odio. Donec pulvinar finibus ipsum, id ullamcorper turpis suscipit eget. Pellentesque ac magna blandit, elementum urna at, ullamcorper felis. Sed vehicula metus nec mauris eleifend vehicula. Aenean ex tortor, rutrum sit amet facilisis eu, pulvinar et urna. Etiam convallis commodo nibh, non elementum nibh auctor ac. Proin in lectus a metus vehicula ullamcorper. Quisque et fermentum nibh. Donec vel augue diam. Donec iaculis tellus vitae auctor bibendum. Nunc interdum facilisis ligula, a fermentum diam sagittis ac.

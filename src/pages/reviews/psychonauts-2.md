@@ -3,7 +3,6 @@ templateKey: review-page
 title: Psychonauts 2 is One of the Most Underrated Games in A Long Time
 tagline: Double Fine returns to the spotlight in spectacular fashion.
 date: 2022-01-06T01:45:58.577Z
-description: This game is good, really good. Like you have no idea. I can't believe how much I like it. Wish I could play it again for the first time tbh. Can we make that happen? Did they announce something that could do that at the most recent CES? Idk we need to get on that though.
 gametitle: Psychonauts 2
 platforms:
   - Xbox, PC, Playstation

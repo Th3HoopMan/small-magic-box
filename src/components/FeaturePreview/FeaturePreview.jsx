@@ -5,8 +5,8 @@ import { navigate } from "gatsby";
 
 const FeaturePreview = ({
   title,
-  description,
   imgSrc,
+  imageAlt,
   slug,
   date,
   category,
@@ -32,7 +32,7 @@ const FeaturePreview = ({
       onKeyPress={navigateToArticlePage}
       tabIndex={0}
     >
-      <GatsbyImage className={styles.thumbnail} image={thumbnail} alt="" />
+      <GatsbyImage className={styles.thumbnail} image={thumbnail} alt={imageAlt} />
       <div className={styles.details}>
         <div className={styles.postMetadata}>
           <p className={styles.category}>{`${category}`}</p>
@@ -43,7 +43,6 @@ const FeaturePreview = ({
           )}`}</p>
         </div>
         <h2>{title}</h2>
-        <p>{description}</p>
       </div>
     </div>
   );

@@ -24,7 +24,7 @@
     height: 100vh;
     background-color: whitesmoke;
     padding: var(--medium-margins);
-    transform: translateX(-100%);
+    transform: translateX(-120%);
     
 }
 
@@ -38,21 +38,21 @@
 }
 
 .menuEnterActive {
-    transform: translateX(-100%);
+    transform: translateX(-120%);
 }
 
 .menuEnterDone {
-    transform: translateX(0);
+    transform: translateX(-5%);
     transition: transform 200ms;
     transition-timing-function: ease-out;
 }
 
 .menuExitActive {
-    transform: translateX(0);
+    transform: translateX(-5%);
 }
 
 .menuExitDone {
-    transform: translateX(-100%);
+    transform: translateX(-120%);
     transition: transform 200ms;
     transition-timing-function: ease-out
 }

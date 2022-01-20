@@ -49,7 +49,7 @@ export const ReviewTemplate = ({
 
         <span className={styles.divider} />
 
-        <div dangerouslySetInnerHTML={{ __html: `${content}` }} />
+        <div className={styles.content} dangerouslySetInnerHTML={{ __html: `${content}` }} />
 
         <ReviewPreview
           title={gameDetails.gameTitle}
@@ -107,13 +107,13 @@ export const reviewQuery = graphql`
       frontmatter {
         gametitle
         grade
-        description
         category
         platforms
         tags
         title
         tagline
         date
+        imagealt
         featuredimage {
           childrenImageSharp {
             gatsbyImageData

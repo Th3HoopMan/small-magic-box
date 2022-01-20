@@ -87,7 +87,6 @@ export const pageQuery = graphql`
   query ArticlePostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        description
         category
         tags
         title

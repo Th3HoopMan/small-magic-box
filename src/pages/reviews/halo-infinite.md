@@ -3,9 +3,6 @@ templateKey: review-page
 title: 343's Halo Infinite Signals A Strong Generation for Xbox
 tagline: The chief is back and better than ever.
 date: 2022-01-02T21:21:04.144Z
-description: Halo Infinite is better than many of us could have ever hoped back
-  in 2020, and while not perfect, seems to signal a strong comeback for 343 and
-  the Xbox first party offerings.
 gametitle: Halo Infinite
 platforms:
   - Xbox

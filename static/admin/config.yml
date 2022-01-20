@@ -26,14 +26,19 @@ collections:
           default: "post-page",
         }
       - { label: "Title", name: "title", widget: "string" }
-      
+
       - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "ImageAlt", name: "imagealt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "select", options: ["Gaming","Film and TV","Off Topic"] }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "select",
+          options: ["Gaming", "Film and TV", "Off Topic"],
+        }
   - name: "reviews"
     label: "Reviews"
     folder: "src/pages/reviews"
@@ -49,14 +54,19 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
       - { label: "Game Title", name: "gametitle", widget: "string" }
       - { label: "Platforms", name: "platforms", widget: "list" }
       - { label: "Grade", name: "grade", widget: "string" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "ImageAlt", name: "imagealt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Category", name: "category", widget: "hidden", default: "Review" }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "hidden",
+          default: "Review",
+        }
   - name: "pages"
     label: "Pages"
     files:
@@ -72,4 +82,3 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-

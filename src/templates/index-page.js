@@ -18,8 +18,8 @@ export const IndexPageTemplate = ({ articles }) => {
         {articles.map((post) => (
           <FeaturePreview
             title={post.title}
-            description={post.description}
             imgSrc={post.featuredimage.childrenImageSharp[0]}
+            imageAlt={post.imagealt}
             slug={post.slug}
             date={post.date}
             category={post.category}
@@ -57,6 +57,7 @@ export default IndexPage;
 export const pageQuery = graphql`
   query IndexPageTemplate {
     allMarkdownRemark(
+      sort: {fields: [frontmatter___date], order: DESC}
       filter: { frontmatter: { category: { ne: null } } }
       limit: 10
     ) {
@@ -65,8 +66,8 @@ export const pageQuery = graphql`
           frontmatter {
             category
             title
-            description
             date
+            imagealt
             featuredimage {
               childrenImageSharp {
                 gatsbyImageData

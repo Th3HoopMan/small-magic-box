@@ -4,6 +4,10 @@
     padding-bottom: var(--content-margins);
 }
 
+.content {
+    margin-bottom: 75px;
+}
+
 .postDetails {
     margin: var(--medium-margins) 0;
 }

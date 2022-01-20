@@ -1,7 +1,6 @@
 ---
 templateKey: review-page
 title: Psychonauts 2 is One of the Most Underrated Games in A Long Time
-<<<<<<< HEAD
 tagline: Double Fine returns to the spotlight in spectacular fashion.
 date: 2022-01-06T01:45:58.577Z
 gametitle: Psychonauts 2

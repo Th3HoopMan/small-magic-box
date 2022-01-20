@@ -1,17 +1,19 @@
 ---
 templateKey: post-page
 title: Psychonauts 2 is One of the Most Underrated Games in A Long Time
-date: 2022-01-06T01:45:58.577Z
-description: This game is good, really
 gametitle: Psychonauts 2
 platforms:
   - Xbox
-grade: A
-featuredimage: /img/psychonauts-2-release-date-preload.jpg
 tldr: |-
   * This game is good
   * I like it
   * I hope we get more
+tagline: Double Fine returns to the spotlight in spectacular fashion.
+date: 2022-01-06T01:45:58.577Z
+description: This game is good, really
+grade: A
+featuredimage: /img/psychonauts-2-release-date-preload.jpg
+imagealt: Psychonauts 2 Cover Art
 tags:
   - DoubleFine
   - Platformer

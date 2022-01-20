@@ -8,6 +8,7 @@ platforms:
   - Xbox
 grade: 8
 featuredimage: /img/reze3folzuq5e8drbpa6aw.jpg
+imagealt: Halo Infinite Cover Art
 tags:
   - halo
   - xbox

@@ -9,6 +9,7 @@ tags:
   - arcane
   - leageoflegends
 category: Film and TV
+imagealt: Arcane show poster art
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum elit, pretium et magna non, hendrerit pretium sapien. Quisque massa ligula, hendrerit eu lacus quis, tincidunt blandit arcu. Aenean elementum dapibus auctor. Donec elementum arcu dolor, a aliquet sem tempor at. Quisque nibh metus, malesuada sit amet lacus vitae, eleifend lacinia diam. Nullam nec nibh ultrices, euismod felis non, cursus elit. Morbi ac urna sed eros tincidunt sagittis.
 

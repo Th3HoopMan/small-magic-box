@@ -1,6 +1,7 @@
 ---
 templateKey: review-page
 title: Psychonauts 2 is One of the Most Underrated Games in A Long Time
+<<<<<<< HEAD
 tagline: Double Fine returns to the spotlight in spectacular fashion.
 date: 2022-01-06T01:45:58.577Z
 gametitle: Psychonauts 2
@@ -8,6 +9,7 @@ platforms:
   - Xbox, PC, Playstation
 grade: 9
 featuredimage: /img/psychonauts-2-release-date-preload.jpg
+imagealt: Psychonauts 2 Cover Art
 tags:
   - DoubleFine
   - Platformer

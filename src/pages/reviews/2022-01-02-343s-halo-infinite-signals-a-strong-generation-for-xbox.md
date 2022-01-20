@@ -8,9 +8,6 @@ description: Halo Infinite is better than many of us could have ever hoped back
 gametitle: Halo Infinite
 platforms:
   - Xbox
-grade: B+
-featuredpost: false
-featuredimage: /img/reze3folzuq5e8drbpa6aw.jpg
 tldr: |-
   Whooooping
 
@@ -19,6 +16,11 @@ tldr: |-
   \-pamwpdmpawdm
 
   \- pamwdopmpawdmpm
+featuredimage: /img/reze3folzuq5e8drbpa6aw.jpg
+featuredpost: false
+tagline: Chief is back and better than ever.
+grade: B+
+imagealt: Halo Infinite Cover Ar
 tags:
   - halo
   - xbox

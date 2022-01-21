@@ -7,6 +7,7 @@ import FeaturePreview from "../components/FeaturePreview/FeaturePreview";
 import * as styles from "../templateStyles/index.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import Seo from "../components/SEO";
+import logo from "../img/CantPauseLogoV2.svg";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({ articles }) => {
@@ -17,10 +18,15 @@ export const IndexPageTemplate = ({ articles }) => {
       <section className={styles.section}>
         <section className={styles.opener}>
           <h1>
-            Welcome to <span className={styles.openerTitle}>CantPause</span>!
+            
+            <img
+              className={styles.logo}
+              src={logo}
+              alt="logo"
+            />
           </h1>
           <p className={styles.openerContent}>
-            A blog discussing news in video games from one hobbyist's
+            This is a blog discussing news in video games from one hobbyist's
             perspective. I will cover a lot of news, but this is{" "}
             <span className={styles.notNews}>not</span> a news site, just my
             take on anything I find interesting. Learn more about the site by

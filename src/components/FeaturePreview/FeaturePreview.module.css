@@ -3,7 +3,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  margin: 0 auto 55px;
+  margin: 0 auto 45px;
   max-width: var(--feature-preview-max-width);
   padding-bottom: 30px;
   border-bottom: 1px solid var(--secondary-site-color);

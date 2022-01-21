@@ -1,6 +1,5 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/review.module.css";

@@ -1,7 +1,7 @@
 import { navigate } from "gatsby";
 import React, { useState } from "react";
 import { CSSTransition } from "react-transition-group";
-import logo from "../../img/CantPauseLogoV2.png";
+import logo from "../../img/CantPauseLogoV2.svg";
 import * as styles from "./navbar.module.css";
 const navLinks = [
   {

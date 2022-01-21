@@ -1,156 +1,154 @@
 .navbarContainer {
-    display: flex;
-    flex-direction: row;
-    padding: var(--small-margins) var(--medium-margins);
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  padding: var(--small-margins) var(--medium-margins);
+  align-items: center;
 }
 
 .hamburgerContainer {
-    margin-left: auto;
+  margin-left: auto;
 }
 
-.hamburgerTop, .hamburgerMiddle, .hamburgerBottom {
-    border-top: 2px solid black;
-    border-radius: 100px;
-    width: 30px;
-    margin: 5px;
+.hamburgerTop,
+.hamburgerMiddle,
+.hamburgerBottom {
+  border-top: 2px solid black;
+  border-radius: 100px;
+  width: 30px;
+  margin: 5px;
 }
 
 .menu {
-    position: fixed;
-    top: 0;
-    z-index: 100;
-    width: 65vw;
-    height: 100vh;
-    background-color: whitesmoke;
-    padding: var(--medium-margins);
-    transform: translateX(-120%);
-    
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 65vw;
+  height: 100vh;
+  background-color: whitesmoke;
+  padding: var(--medium-margins);
+  transform: translateX(-120%);
 }
 
 .menuTitle {
-    margin-top: var(--medium-margins);
-    margin-bottom: var(--large-margins);
+  margin-top: var(--medium-margins);
+  margin-bottom: var(--large-margins);
 }
 
 .menuItem {
-    margin: var(--large-margins) 0;
+  margin: var(--large-margins) 0;
 }
 
 .menuEnterActive {
-    transform: translateX(-120%);
+  transform: translateX(-120%);
 }
 
 .menuEnterDone {
-    transform: translateX(-5%);
-    transition: transform 200ms;
-    transition-timing-function: ease-out;
+  transform: translateX(-5%);
+  transition: transform 200ms;
+  transition-timing-function: ease-out;
 }
 
 .menuExitActive {
-    transform: translateX(-5%);
+  transform: translateX(-5%);
 }
 
 .menuExitDone {
-    transform: translateX(-120%);
-    transition: transform 200ms;
-    transition-timing-function: ease-out
+  transform: translateX(-120%);
+  transition: transform 200ms;
+  transition-timing-function: ease-out;
 }
 
 .menuBackground {
-    position: fixed;
-    opacity: 0;
-    top: 0;
-    z-index: 50;
-    background-color: rgba(0, 0, 0, 0.479);
-    width: 100vw;
-    height: 100vh;
-    display: none;
+  position: fixed;
+  opacity: 0;
+  top: 0;
+  z-index: 50;
+  background-color: rgba(0, 0, 0, 0.479);
+  width: 100vw;
+  height: 100vh;
+  display: none;
 }
 
 .menuBackgroundEnterActive {
-    opacity: 0;
-    display: block;
+  opacity: 0;
+  display: block;
 }
 
 .menuBackgroundEnterDone {
-    opacity: 1;
-    transition: opacity 200ms;
-    transition-timing-function: ease-out;
-    display: block;
+  opacity: 1;
+  transition: opacity 200ms;
+  transition-timing-function: ease-out;
+  display: block;
 }
 
 .menuBackgroundExitActive {
-    opacity: 1;
-    display: block;
+  opacity: 1;
+  display: block;
 }
 
 .menuBackgroundExitDone {
-    opacity: 0;
-    transition: opacity 200ms;
-    transition-timing-function: ease-out;
-    display: none;
+  opacity: 0;
+  transition: opacity 200ms;
+  transition-timing-function: ease-out;
+  display: none;
 }
 
 .navbarLinks {
-    display: none;
+  display: none;
 }
 
 .logo {
-    height: 50px;
+  height: 25px;
 }
 
 .logo:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .menuItem {
-    font-size: var(--small-font);
-    font-weight: bold;
-    color: var(--primary-site-color);
-    padding-left: 15px;
+  font-size: var(--small-font);
+  font-weight: bold;
+  color: var(--primary-site-color);
+  padding-left: 15px;
 }
 
 .menuItem:hover {
-    cursor: pointer;
-    color: var(--secondary-site-color);
+  cursor: pointer;
+  color: var(--secondary-site-color);
 }
 
 @media only screen and (min-width: 768px) {
-
-    .menu {
-        display: none;
-      }
-
-    .navbarContainer {
-        vertical-align: middle;
-    }
-
-    .navbarLinks {
-        display: flex;
-        flex-direction: row;
-        margin-left: var(--medium-margins);
-    
-    }
-
-    .hamburgerContainer {
-        display: none;
-    }
-
-    .navbarItem {
-        margin: auto var(--large-margins);
-    }
-
-    .navbarItem {
-        font-weight: bold;
-    }
-
-    .navbarItem:hover {
-        color: var(--secondary-site-color);
-        cursor: pointer;
-    }
+  .menu {
+    display: none;
   }
-  
-  @media only screen and (min-width: 1024px) {
 
+  .navbarContainer {
+    vertical-align: middle;
+  }
+
+  .navbarLinks {
+    display: flex;
+    flex-direction: row;
+    margin-left: var(--medium-margins);
+  }
+
+  .hamburgerContainer {
+    display: none;
+  }
+
+  .navbarItem {
+    margin: auto var(--large-margins);
+  }
+
+  .navbarItem {
+    font-weight: bold;
+  }
+
+  .navbarItem:hover {
+    color: var(--secondary-site-color);
+    cursor: pointer;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
 }

@@ -1,12 +1,12 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout/Layout";
-import * as styles from "../templateStyles/post.module.css";
+import * as styles from "../templateStyles/postpage.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
 import Seo from "../components/SEO";
+import Post from "../components/Post/Post";
 
 // eslint-disable-next-line
 export const PostTemplate = ({
@@ -17,48 +17,21 @@ export const PostTemplate = ({
   content,
   date,
 }) => {
-  const publishDate = new Date(date);
-  const dateOptions = {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  };
-
-  const featuredImage = getImage(imgSrc);
 
   return (
     <div className={styles.container}>
-      <div className={styles.mainContent}>
-        <div className={styles.postDetails}>
-          <div className={styles.postMetadata}>
-            <p className={styles.category}>{`${category}`}</p>
-            <span>{`//`}</span>
-            <p>{`${publishDate.toLocaleDateString(
-              "en-US",
-              dateOptions
-            )}`}</p>
-          </div>
-          <h1 className={styles.title}>{title}</h1>
-          <h4 className={styles.tagline}>{tagline}</h4>
-          <GatsbyImage
-            className={styles.headerImage}
-            image={featuredImage}
-            alt=""
-          />
-        </div>
-
-        <span className={styles.divider} />
-
-        <div dangerouslySetInnerHTML={{ __html: `${content}` }} />
-      </div>
+      <Post
+        title={title}
+        tagline={tagline}
+        category={category}
+        imgSrc={imgSrc}
+        content={content}
+        date={date}
+      />
 
       <div className={styles.additionContent}>
-        <div>
           <ArticleList />
-        </div>
-        <div>
           <ReviewList />
-        </div>
       </div>
     </div>
   );

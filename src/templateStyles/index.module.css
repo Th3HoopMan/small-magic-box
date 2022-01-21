@@ -3,6 +3,50 @@
   flex-direction: column;
 }
 
+.opener {
+  margin: var(--large-margins) var(--small-margins);
+  margin-bottom: var(--very-large-margins);
+}
+
+.openerTitle {
+  color: var(--primary-site-color);
+  max-width: var(--small-margins);
+  margin: 0;
+}
+
+.openerContent {
+  font-size: var(--medium-font);
+}
+
+.learnMore {
+  text-decoration: none;
+  color: black;
+}
+
+.learnMoreButton {
+  background-color: var(--secondary-site-color);
+  width: 150px;
+  padding: var(--small-margins);
+  border-radius: 7px;
+  box-shadow: var(--box-shadow);
+  margin: var(--large-margins) 0;
+}
+
+.notNews {
+  color: red;
+  font-style: italic;
+}
+
+.opener h1 {
+  font-size: var(--very-large-font);
+  color: var(--default-text-color);
+}
+
+.opener h2 {
+  font-size: var(--medium-font);
+  color: var(--default-text-colo);
+}
+
 .section {
   margin: 0 0 var(--content-margins);
 }

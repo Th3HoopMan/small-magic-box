@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: var(--medium-margins) 0;
+  padding-bottom: var(--content-margins);
+}
+
+.additionContent {
+  margin: var(--very-large-margins) auto;
+}
+
+@media only screen and (min-width: 1024px) {
+  .container {
+    flex-direction: row;
+  }
+
+  .additionContent {
+    margin: var(--large-margins);
+  }
+}

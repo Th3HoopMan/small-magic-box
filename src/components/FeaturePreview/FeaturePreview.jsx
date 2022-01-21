@@ -2,26 +2,13 @@ import React from "react";
 import * as styles from "./FeaturePreview.module.css";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import { navigate } from "gatsby";
+import CategorySubheading from "../CategorySubheading/CategorySubheading";
 
-const FeaturePreview = ({
-  title,
-  imgSrc,
-  imageAlt,
-  slug,
-  date,
-  category,
-}) => {
+const FeaturePreview = ({ title, imgSrc, imageAlt, slug, date, category }) => {
   const thumbnail = getImage(imgSrc);
 
   const navigateToArticlePage = () => {
     navigate(slug);
-  };
-
-  const publishDate = new Date(date);
-  const dateOptions = {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
   };
 
   return (
@@ -32,16 +19,13 @@ const FeaturePreview = ({
       onKeyPress={navigateToArticlePage}
       tabIndex={0}
     >
-      <GatsbyImage className={styles.thumbnail} image={thumbnail} alt={imageAlt} />
+      <GatsbyImage
+        className={styles.thumbnail}
+        image={thumbnail}
+        alt={imageAlt}
+      />
       <div className={styles.details}>
-        <div className={styles.postMetadata}>
-          <p className={styles.category}>{`${category}`}</p>
-          <span>{`//`}</span>
-          <p className={styles.date}>{`${publishDate.toLocaleDateString(
-            "en-US",
-            dateOptions
-          )}`}</p>
-        </div>
+        <CategorySubheading category={category} date={date} />
         <h2>{title}</h2>
       </div>
     </div>

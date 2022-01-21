@@ -1,7 +1,7 @@
 .navbarContainer {
     display: flex;
     flex-direction: row;
-    padding: var(--large-margins) var(--medium-margins);
+    padding: var(--small-margins) var(--medium-margins);
     align-items: center;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .hamburgerTop, .hamburgerMiddle, .hamburgerBottom {
-    border-top: 3px solid black;
+    border-top: 2px solid black;
     border-radius: 100px;
     width: 30px;
     margin: 5px;
@@ -105,9 +105,10 @@
 }
 
 .menuItem {
-    font-size: var(--medium-font);
+    font-size: var(--small-font);
     font-weight: bold;
     color: var(--primary-site-color);
+    padding-left: 15px;
 }
 
 .menuItem:hover {

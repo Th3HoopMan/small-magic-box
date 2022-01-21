@@ -1,0 +1,27 @@
+
+.postMetadata {
+    color: var(--primary-site-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-style: italic;
+    vertical-align: middle;
+    margin-bottom: var(--small-margins);
+  }
+  
+  .postMetadata span {
+    color: var(--secondary-site-color);
+    margin: auto 0;
+    margin-bottom: var(--small-margins);
+  }
+  
+  .date {
+    margin-left: 5px;
+    margin-bottom: var(--small-margins);
+  }
+  
+  .category {
+    margin-right: 5px;
+    font-weight: bold;
+    margin-bottom: var(--small-margins);
+  }

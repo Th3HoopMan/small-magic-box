@@ -8,6 +8,7 @@ import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
 import Seo from "../components/SEO";
+import Post from "../components/Post/Post";
 
 // eslint-disable-next-line
 export const ReviewTemplate = ({
@@ -18,40 +19,20 @@ export const ReviewTemplate = ({
   content,
   date,
   gameDetails,
+  imagealt,
 }) => {
-  const publishDate = new Date(date);
-  const dateOptions = {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  };
-
-  const featuredImage = getImage(imgSrc);
   return (
     <div className={styles.container}>
       <div className={styles.mainContent}>
-        <div className={styles.postDetails}>
-          <div className={styles.postMetadata}>
-            <p className={styles.category}>{`${category}`}</p>
-            <span>{`//`}</span>
-            <p>{`${publishDate.toLocaleDateString(
-              "en-US",
-              dateOptions
-            )}`}</p>
-          </div>
-          <h1 className={styles.title}>{title}</h1>
-          <h2 className={styles.tagline}>{tagline}</h2>
-          <GatsbyImage
-            className={styles.headerImage}
-            image={featuredImage}
-            alt=""
-          />
-        </div>
-
-        <span className={styles.divider} />
-
-        <div className={styles.content} dangerouslySetInnerHTML={{ __html: `${content}` }} />
-
+        <Post
+          title={title}
+          tagline={tagline}
+          category={category}
+          imgSrc={imgSrc}
+          content={content}
+          date={date}
+          imagealt={imagealt}
+        />
         <ReviewPreview
           title={gameDetails.gameTitle}
           platforms={gameDetails.platforms}
@@ -60,12 +41,8 @@ export const ReviewTemplate = ({
       </div>
 
       <div className={styles.additionContent}>
-        <div>
-          <ReviewList />
-        </div>
-        <div>
-          <ArticleList />
-        </div>
+        <ReviewList />
+        <ArticleList />
       </div>
     </div>
   );
@@ -83,7 +60,7 @@ const ReviewPage = ({ data }) => {
 
   return (
     <Layout>
-            <Seo
+      <Seo
         customTitle={post.frontmatter.title}
         customDescription={post.frontmatter.tagline}
       />
@@ -94,6 +71,7 @@ const ReviewPage = ({ data }) => {
         imgSrc={post.frontmatter.featuredimage.childrenImageSharp[0]}
         content={post.html}
         date={post.frontmatter.date}
+        imagealt={post.frontmatter.imagealt}
         gameDetails={{
           gameTitle: post.frontmatter.gametitle,
           platforms: post.frontmatter.platforms,

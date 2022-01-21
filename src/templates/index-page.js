@@ -14,25 +14,42 @@ export const IndexPageTemplate = ({ articles }) => {
 
   return (
     <div className={styles.container}>
-      <div className={styles.section}>
-        <h2 className={styles.sectionHeader}>Latest Articles</h2>
-        {articles.map((post) => (
-          <FeaturePreview
-            title={post.title}
-            imgSrc={post.featuredimage.childrenImageSharp[0]}
-            imageAlt={post.imagealt}
-            slug={post.slug}
-            date={post.date}
-            category={post.category}
-          />
-        ))}
-        <Link className={styles.viewArticlesLink} to="/articles">
-          <p>View All Articles →</p>
-        </Link>
-      </div>
-      <div className={styles.section}>
+      <section className={styles.section}>
+        <section className={styles.opener}>
+          <h1>
+            Welcome to <span className={styles.openerTitle}>CantPause</span>!
+          </h1>
+          <p className={styles.openerContent}>
+            A blog discussing news in video games from one hobbyist's
+            perspective. I will cover a lot of news, but this is{" "}
+            <span className={styles.notNews}>not</span> a news site, just my
+            take on anything I find interesting. Learn more about the site by
+            clicking the button below.
+          </p>
+          <Link to="/about" className={styles.learnMore}>
+            <h2 className={styles.learnMoreButton}>About the Site</h2>
+          </Link>
+        </section>
+        <section>
+          <h2 className={styles.sectionHeader}>Latest Articles</h2>
+          {articles.map((post) => (
+            <FeaturePreview
+              title={post.title}
+              imgSrc={post.featuredimage.childrenImageSharp[0]}
+              imageAlt={post.imagealt}
+              slug={post.slug}
+              date={post.date}
+              category={post.category}
+            />
+          ))}
+          <Link className={styles.viewArticlesLink} to="/articles">
+            <p>View All Articles →</p>
+          </Link>
+        </section>
+      </section>
+      <section className={styles.section}>
         <ReviewList />
-      </div>
+      </section>
     </div>
   );
 };

@@ -6,6 +6,7 @@ import FeaturePreview from "../components/FeaturePreview/FeaturePreview";
 
 import * as styles from "../templateStyles/index.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
+import Seo from "../components/SEO";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({ articles }) => {
@@ -47,6 +48,7 @@ const IndexPage = ({ data }) => {
   console.dir(articles);
   return (
     <Layout>
+      <Seo />
       <IndexPageTemplate articles={articles} />
     </Layout>
   );
@@ -57,7 +59,7 @@ export default IndexPage;
 export const pageQuery = graphql`
   query IndexPageTemplate {
     allMarkdownRemark(
-      sort: {fields: [frontmatter___date], order: DESC}
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { category: { ne: null } } }
       limit: 10
     ) {

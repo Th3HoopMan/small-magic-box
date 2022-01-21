@@ -3,6 +3,7 @@ import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/articles.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
+import Seo from "../components/SEO";
 
 // eslint-disable-next-line
 export const ArticlesTemplate = ({ articles }) => {
@@ -85,6 +86,7 @@ const ArticlesPage = ({ data, pageContext }) => {
 
   return (
     <Layout>
+      <Seo customTitle="Articles" customDescription="Articles Page" />
       <ArticlesTemplate articles={articles} />
     </Layout>
   );

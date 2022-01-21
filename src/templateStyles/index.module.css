@@ -9,7 +9,7 @@
 
 .viewArticlesLink {
   text-decoration: none;
-  font-size: var(--medium-font);
+  font-size: var(--small-font);
   margin: auto;
   color: var(--primary-site-color);
 }

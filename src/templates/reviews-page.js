@@ -3,6 +3,7 @@ import { graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
+import Seo from "../components/SEO";
 
 const years = [2022];
 
@@ -79,6 +80,7 @@ const ReviewsPage = ({ data }) => {
 
   return (
     <Layout>
+      <Seo customTitle="Reviews" customDescription="Reviews Page" />
       <ReviewsTemplate reviews={reviews} />
     </Layout>
   );
@@ -87,11 +89,9 @@ const ReviewsPage = ({ data }) => {
 export default ReviewsPage;
 
 export const reviewsQuery = graphql`
-  query ReviewsTemplate($skip: Int!, $limit: Int!) {
+  query ReviewsTemplate {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: $limit
-      skip: $skip
       filter: { frontmatter: { category: { eq: "Review" } } }
     ) {
       edges {
@@ -108,6 +108,7 @@ export const reviewsQuery = graphql`
             gametitle
             platforms
             date
+            imagealt
           }
           fields {
             slug

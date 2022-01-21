@@ -6,6 +6,7 @@ import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/post.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
+import Seo from "../components/SEO";
 
 // eslint-disable-next-line
 export const PostTemplate = ({
@@ -32,7 +33,7 @@ export const PostTemplate = ({
           <div className={styles.postMetadata}>
             <p className={styles.category}>{`${category}`}</p>
             <span>{`//`}</span>
-            <p className={styles.date}>{`${publishDate.toLocaleDateString(
+            <p>{`${publishDate.toLocaleDateString(
               "en-US",
               dateOptions
             )}`}</p>
@@ -52,10 +53,10 @@ export const PostTemplate = ({
       </div>
 
       <div className={styles.additionContent}>
-        <div className={styles.moreReviews}>
+        <div>
           <ArticleList />
         </div>
-        <div className={styles.moreReviews}>
+        <div>
           <ReviewList />
         </div>
       </div>
@@ -69,6 +70,11 @@ const ArticlesPage = ({ data }) => {
   console.dir(post);
   return (
     <Layout>
+      <Seo
+        customTitle={post.frontmatter.title}
+        customDescription={post.frontmatter.tagline}
+      />
+
       <PostTemplate
         title={post.frontmatter.title}
         tagline={post.frontmatter.tagline}

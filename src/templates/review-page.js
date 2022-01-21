@@ -7,6 +7,7 @@ import * as styles from "../templateStyles/review.module.css";
 import ReviewPreview from "../components/ReviewPreview/ReviewPreview";
 import ReviewList from "../components/ReviewList/ReviewList";
 import ArticleList from "../components/ArticleList/ArticleList";
+import Seo from "../components/SEO";
 
 // eslint-disable-next-line
 export const ReviewTemplate = ({
@@ -33,7 +34,7 @@ export const ReviewTemplate = ({
           <div className={styles.postMetadata}>
             <p className={styles.category}>{`${category}`}</p>
             <span>{`//`}</span>
-            <p className={styles.date}>{`${publishDate.toLocaleDateString(
+            <p>{`${publishDate.toLocaleDateString(
               "en-US",
               dateOptions
             )}`}</p>
@@ -59,10 +60,10 @@ export const ReviewTemplate = ({
       </div>
 
       <div className={styles.additionContent}>
-        <div className={styles.moreReviews}>
+        <div>
           <ReviewList />
         </div>
-        <div className={styles.moreReviews}>
+        <div>
           <ArticleList />
         </div>
       </div>
@@ -82,6 +83,10 @@ const ReviewPage = ({ data }) => {
 
   return (
     <Layout>
+            <Seo
+        customTitle={post.frontmatter.title}
+        customDescription={post.frontmatter.tagline}
+      />
       <ReviewTemplate
         title={post.frontmatter.title}
         tagline={post.frontmatter.tagline}

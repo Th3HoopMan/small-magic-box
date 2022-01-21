@@ -46,7 +46,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div>
       <div className={styles.navbarContainer}>
         <input
           type="image"

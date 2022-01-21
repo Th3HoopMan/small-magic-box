@@ -1,8 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "CantPause",
+    titleTemplate: "%s | CantPause.com",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "A blog discussing opinions on video games and other entertainment",
+    author: `Joseph Hooper`,
+    keywords: `video games, microsoft, xbox, playstation, sony, nintendo, PC, Steam, Valve, Epic, Marvel, Disney, Anime, Movies`,
+    url: "https://www.cantpause.com", // No trailing slash allowed!
+    twitterUsername: "@Th3Hoopman",
+    image: "src/img/CantPauseLogoV2.png",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -81,5 +87,17 @@ module.exports = {
       },
     }, // must be after other CSS plugins
     "gatsby-plugin-netlify", // make sure to keep it last in the array
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `CantPause`,
+        short_name: `CantPause`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icon: `src/img/PauseLogo.png`,
+      },
+    },
   ],
 };

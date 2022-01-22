@@ -44,6 +44,10 @@ Who doesn't like pie? Well, I guess me (It's an average dessert), but that's bes
 
 These are the main three factors I think about when I play games. Let's run through them.
 
+
+
+![Apple Pie in Zelda](/img/applepiezelda.jpg)
+
 ### Polish
 
 In my opinion, polish is crucial to immersion. A great game makes you forget you are playing someone’s code and reminds you that you are experiencing someone’s art.

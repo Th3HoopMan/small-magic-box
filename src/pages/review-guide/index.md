@@ -8,9 +8,6 @@ Everyone has their own view about what makes a game good, worth buying, worth re
 When I give a game a score between 1-10 what does that mean? Well first of all I’ll tell you right now I will most likely never give a game a 1-5. This is for two reasons:
 
 * I do not do this as a job, which means I only play games I want to play. I have limited time so there is almost a zero chance I play a game that I think is truly garbage. If it does happen I’ll definitely make a big deal about it.
-
-
-
 * Nobody uses rating scales properly so there’s really no point for me to either. People have been conditioned to think a 6 or below means a game is pure doo-doo when technically it should still mean “above average”. I’m not going to fight this battle on my passion project blog, especially considering maybe 1% of people will even read this page of the blog, so I just won’t use those numbers. Dumb, I know.
 
 For the rest of the ratings, I have provided this helpful graphic to understand what I’m trying to tell you with my scores.
@@ -29,8 +26,6 @@ I’ll keep that in mind and bring it up as necessary when I review games.
 
 ![Shut up and taky my money meme](/img/takemymoney.jpg)
 
-
-
 ## I Buy My Own Games
 
 This is a hobbyist blog. I don’t get free games, but if I do I’ll disclose it.
@@ -46,8 +41,6 @@ Who doesn't like pie? Well, I guess me (It's an average dessert), but that's bes
 ### E = Enjoyment
 
 These are the main three factors I think about when I play games. Let's run through them.
-
-
 
 ![Apple Pie in Zelda](/img/applepiezelda.jpg)
 
@@ -66,11 +59,17 @@ Polish comes in many forms, for example:
 
 At the end of the day, it’s all about removing friction between the game and the player, and there are countless things games do to remove those barriers and provide a comfortable experience for the player.
 
+![Ratchet and Clank Rift Apart](/img/racra_rivet_molonoth.jpg)
+
 ### Innovation
 
 In a world where time is limited and video games are (usually) a pretty big time investment, I don’t want to always play the same experience with different skins. Whenever I can play a game that does something unique I’m all for it. 
 
 Every now and then a game comes around that catches everyone off guard. It presents a gameplay experience that is fresh, exciting, and inevitably paves way for future games in its genre. When playing games like this it almost feels like seeing an incredibly impressive magic trick.
+
+![Super Maro 64](/img/super-mario-64.jpg)
+
+
 
 ### Enjoyment
 
@@ -81,3 +80,7 @@ I chase that high of getting sucked into a game only to feel a tiny bit of disap
 It doesn’t matter how long the game is, how cutting edge the tech in the game is, or how much the game costs as long as it’s fun.
 
 What people find enjoyment in is clearly subjective, and I will review games with some inherent bias towards what I find fun.
+
+
+
+![God of War](/img/gow_09.jpg)

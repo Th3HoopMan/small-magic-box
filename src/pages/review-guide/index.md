@@ -13,22 +13,22 @@ Games are luxury items. I believe $70 is a lot of money, especially for a source
 
 I’ll keep that in mind and bring it up as necessary when I review games.
 
+![Shut up and taky my money meme](/img/takemymoney.jpg)
+
+
+
 ## I Buy My Own Games
 
 This is a hobbyist blog. I don’t get free games, but if I do I’ll disclose it.
-
 
 ## The Rating Scale
 
 When I give a game a score between 1-10 what does that mean? Well first of all I’ll tell you right now I will most likely never give a game a 1-5. This is for two reasons:
 
 * I do not do this as a job, which means I only play games I want to play. I have limited time so there is almost a zero chance I play a game that I think is truly garbage. If it does happen I’ll definitely make a big deal about it.
-
 * Nobody uses rating scales properly so there’s really no point for me to either. People have been conditioned to think a 6 or below means a game is pure doo-doo when technically it should still mean “above average”. I’m not going to fight this battle on my passion project blog, especially considering maybe 1% of people will even read this page of the blog, so I just won’t use those numbers. Dumb, I know.
 
 For the rest of the ratings, I have provided this helpful graphic to understand what I’m trying to tell you with my scores.
-
-
 
 ![CantPause Review Scale](/img/reviewchart.png)
 

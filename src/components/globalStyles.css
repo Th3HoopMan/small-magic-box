@@ -19,12 +19,12 @@ html *
 
     --compact-preview-width: 100%;
     --banner-width: 70%;
-    --compact-preview-max-width: 500px;
+    --compact-preview-max-width: 600px;
     --feature-preview-max-width: 800px;
     --grade-width: 20%;
     --very-small-font: .9em;
     --small-font: 1.1em;
-    --medium-font: 1.3em;
+    --medium-font: 1.4em;
     --large-font: 1.5em;
     --very-large-font: 2em;
     --box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
@@ -41,5 +41,5 @@ html *
     --bottom-page-padding: 200px;
     --max-site-width: 1200px;
     --deafult-word-spacing: 2px;
-    --default-content-width: 550px;
+    --default-content-width: 575px;
 }

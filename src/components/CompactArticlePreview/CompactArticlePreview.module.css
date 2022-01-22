@@ -23,7 +23,7 @@
 .title {
   font-size: var(--small-font);
   font-weight: bold;
-  padding-top: var(--small-margins);
+  padding-top: var(--very-small-margins);
 }
 
 .details {
@@ -32,8 +32,8 @@
 
 .category {
   font-size: var(--medium-font);
-  margin-top: var(--very-small-margins);
-  padding: 0;
+  margin-top: var(--small-margins);
+  padding-bottom: var(--small-margins);
   color: var(--primary-site-color);
   font-weight: bold;
   width: 50%;

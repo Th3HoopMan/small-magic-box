@@ -26,10 +26,10 @@ export const IndexPageTemplate = ({ articles }) => {
             />
           </h1>
           <p className={styles.openerContent}>
-            This is a blog discussing news in video games from one hobbyist's
-            perspective. I will cover a lot of news, but this is{" "}
-            <span className={styles.notNews}>not</span> a news site, just my
-            take on anything I find interesting. Learn more about the site by
+            This is a blog that discusses video game news from one hobbyist's
+            perspective. I will cover a lot of news, but this is 
+            <span className={styles.notNews}> not</span> a news site. At the end of the day it's just my
+            take on anything in video games (and other media) I find interesting. Learn more about the site by
             clicking the button below.
           </p>
           <Link to="/about" className={styles.learnMore}>

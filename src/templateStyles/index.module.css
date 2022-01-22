@@ -70,7 +70,7 @@
 
 .viewArticlesLink p {
   color: var(--primary-site-color);
-  margin: var(--small-margins) auto;
+  margin: var(--small-margins) 0;
 }
 
 .sectionHeader {
@@ -84,7 +84,6 @@
 @media only screen and (min-width: 1024px) {
   .container {
     flex-direction: row;
-    padding-bottom: var(--bottom-page-padding);
   }
 
   .sectionHeader {

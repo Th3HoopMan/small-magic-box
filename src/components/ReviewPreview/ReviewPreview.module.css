@@ -17,11 +17,13 @@
 
 .details {
   padding: var(--small-margins);
+  padding-bottom: var(--medium-margins);
   margin: auto 0;
 }
 
 .details h2 {
   font-size: var(--medium-font);
+  margin-bottom: 5px;
   font-weight: bold;
 }
 

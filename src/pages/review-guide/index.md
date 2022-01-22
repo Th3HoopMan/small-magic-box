@@ -38,11 +38,11 @@ For the rest of the ratings, I have provided this helpful graphic to understand 
 
 Who doesn't like pie? Well, I guess me (It's an average dessert), but that's beside the point because I'm talking about a different pie.
 
-P = Polish
+### P = Polish
 
-I = Innovation
+### I = Innovation
 
-E = Enjoyment
+### E = Enjoyment
 
 These are the main three factors I think about when I play games. Let's run through them.
 

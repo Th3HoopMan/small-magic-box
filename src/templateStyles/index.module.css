@@ -26,12 +26,12 @@
 
 .learnMore {
   text-decoration: none;
-  color: black;
+  color: var(--primary-font-color);
 }
 
 .learnMoreButton {
   background-color: var(--secondary-site-color);
-  width: 150px;
+  width: 170px;
   padding: var(--small-margins);
   border-radius: 7px;
   box-shadow: var(--box-shadow);

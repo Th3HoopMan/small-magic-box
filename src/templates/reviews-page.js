@@ -1,5 +1,5 @@
 import React from "react";
-import { graphql, navigate } from "gatsby";
+import { Link, graphql, navigate } from "gatsby";
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
@@ -18,8 +18,9 @@ export const ReviewsTemplate = ({ reviews }) => {
       <div className={styles.mainContent}>
         <h1 className={styles.header}>Reviews</h1>
         <p className={styles.details}>
-          My opinions and reccomendations concerning all the games I've played
-          on the platforms I played them on. Please see my post explaining my
+          My opinions and recommendations concerning all the games I've played
+          on the platforms I played them on. Please see{" "}
+          <Link className={styles.link} to="/review-guide">my review guide</Link> which explains my
           thought process for reviewing games.
         </p>
         {years.map((year) => {

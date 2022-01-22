@@ -4,6 +4,11 @@
   justify-content: center;
 }
 
+.link {
+  text-decoration: none;
+  color: var(--primary-site-color);
+}
+
 .header {
   color: var(--primary-site-color);
   font-weight: bold;

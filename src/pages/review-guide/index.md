@@ -3,6 +3,21 @@ title: Review Guide
 ---
 Everyone has their own view about what makes a game good, worth buying, worth recommending etc. As a result when you go to read a review and see that a game got a 9 or a 7 or whatever it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to get to my review scores.
 
+## Time vs Money
+
+People like to debate what is more important when recommending a game nowadays. Is it really worth the price? Even if it’s free, is it worth your time?
+
+I think both are important. 
+
+Games are luxury items. I believe $70 is a lot of money, especially for a source of entertainment you may not fully enjoy.  Additionally, nobody wants to invest 50+ hours only to end up feeling like they would have rather spent that time doing something else. 
+
+I’ll keep that in mind and bring it up as necessary when I review games.
+
+## I Buy My Own Games
+
+This is a hobbyist blog. I don’t get free games, but if I do I’ll disclose it.
+
+
 ## The Rating Scale
 
 When I give a game a score between 1-10 what does that mean? Well first of all I’ll tell you right now I will most likely never give a game a 1-5. This is for two reasons:

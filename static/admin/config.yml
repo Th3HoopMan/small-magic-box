@@ -87,7 +87,7 @@ collections:
     files:
       - file: "src/pages/review-guide/index.md"
         label: "Review Guide"
-        name: "review_guide"
+        name: "review-guide"
         fields:
           - {
               label: "Template Key",

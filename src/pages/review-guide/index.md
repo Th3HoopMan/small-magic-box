@@ -3,16 +3,16 @@ title: Review Guide
 templateKey: review-guide-page
 path: /review-guide
 ---
-Everyone has their own view about what makes a game good, worth buying, worth recommending etc. As a result when you go to read a review and see that a game got a 9 or a 7 or whatever it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to get to my review scores.
+Everyone has their own view about what makes a game worth playing, worth buying, worth recommending etc. So when you go to read a review and see that a game got a 9 or a 7 (or whatever rating they use) it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to determine my review scores.
 
 ## The Rating Scale
 
 When I give a game a score between 1-10 what does that mean? Well first of all I’ll tell you right now I will most likely never give a game a 1-5. This is for two reasons:
 
 * I do not do this as a job, which means I only play games I want to play. I have limited time so there is almost a zero chance I play a game that I think is truly garbage. If it does happen I’ll definitely make a big deal about it.
-* Nobody uses rating scales properly so there’s really no point for me to either. People have been conditioned to think a 6 or below means a game is pure doo-doo when technically it should still mean “above average”. I’m not going to fight this battle on my passion project blog, especially considering maybe 1% of people will even read this page of the blog, so I just won’t use those numbers. Dumb, I know.
+* Nobody uses rating scales properly so there’s really no point for me to either. People have been conditioned to think a 6 or below means a game is pure doo-doo when technically it should still mean “above average”. I’m not going to fight this battle on my passion project blog, especially considering maybe 1% of people who read my reviews will even read this page of the blog, so I just won’t use those numbers.
 
-For the rest of the ratings, I have provided this helpful graphic to understand what I’m trying to tell you with my scores.
+For the rest of the ratings, I have provided this helpful graphic to understand what I’m trying to tell you when I attach a number to a review.
 
 ![CantPause Review Scale](/img/reviewchart.png)
 
@@ -22,7 +22,7 @@ People like to debate what is more important when recommending a game nowadays. 
 
 I think both are important. 
 
-Games are luxury items. I believe $70 is a lot of money, especially for a source of entertainment you may not fully enjoy.  Additionally, nobody wants to invest 50+ hours only to end up feeling like they would have rather spent that time doing something else. 
+Games are luxury items. They are expensive, especially for a source of entertainment you may not fully enjoy.  Additionally, nobody wants to invest 50+ hours only to end up feeling like they would have rather spent that time doing something else. 
 
 I’ll keep that in mind and bring it up as necessary when I review games.
 
@@ -48,9 +48,9 @@ These are the main three factors I think about when I play games. Let's run thro
 
 ### Polish
 
-In my opinion, polish is crucial to immersion. A great game makes you forget you are playing someone’s code and reminds you that you are experiencing someone’s art.
+Polish is crucial to immersion. A great game makes you forget you are playing someone’s code and reminds you that you are experiencing someone’s art.
 
-You can’t get lost in a game when you constantly run into game bugs, physics glitches, and other weird things during your gaming experience. 
+You can’t get lost in a game when you constantly run into bugs, physics glitches, and other weird things during your gaming experience. 
 
 Polish comes in many forms, for example:
 
@@ -59,7 +59,7 @@ Polish comes in many forms, for example:
 * Believable physics
 * Smart and Organic Writing
 
-At the end of the day, it’s all about removing friction between the game and the player, and there are countless things games do to remove those barriers and provide a comfortable experience for the player.
+At the end of the day, it’s all about removing friction between the game and the player, and there are countless things games do to remove those barriers and provide a comfortable experience for t.
 
 ![Ratchet and Clank Rift Apart](/img/racra_rivet_molonoth.jpg)
 
@@ -77,9 +77,9 @@ Every now and then a game comes around that catches everyone off guard. It prese
 
 Games are supposed to be entertainment. Plain and simple. Yes, you can learn, you can laugh, you can cry, but it’s entertainment. 
 
-I chase that high of getting sucked into a game only to feel a tiny bit of disappointment that the journey is over when I finish it.
+I love the feeling of getting sucked into a game. I dread that sadness that comes when I realize the journey is over.
 
-It doesn’t matter how long the game is, how cutting edge the tech in the game is, or how much the game costs as long as it’s fun.
+It doesn’t matter how long the game is, how cutting edge the tech is, or how much the game costs as long as it’s fun.
 
 What people find enjoyment in is clearly subjective, and I will review games with some inherent bias towards what I find fun.
 

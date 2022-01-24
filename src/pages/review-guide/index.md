@@ -3,13 +3,15 @@ title: Review Guide
 templateKey: review-guide-page
 path: /review-guide
 ---
-Everyone has their own view about what makes a game worth playing, worth buying, worth recommending etc. So when you go to read a review and see that a game got a 9 or a 7 (or whatever rating they use) it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to determine my review scores.
+Everyone has their own view about what makes a game worth playing, worth buying, worth recommending etc. So when you go to read a review and see that a game gets a 9 or a 7 (or whatever rating they use) it's hard to really know what that means. That's why I'm going to do my best to explain what I consider when I try to determine my review scores.
 
 ## The Rating Scale
 
 When I give a game a score between 1-10 what does that mean? Well first of all I’ll tell you right now I will most likely never give a game a 1-5. This is for two reasons:
 
 * I do not do this as a job, which means I only play games I want to play. I have limited time so there is almost a zero chance I play a game that I think is truly garbage. If it does happen I’ll definitely make a big deal about it.
+
+
 * Nobody uses rating scales properly so there’s really no point for me to either. People have been conditioned to think a 6 or below means a game is pure doo-doo when technically it should still mean “above average”. I’m not going to fight this battle on my passion project blog, especially considering maybe 1% of people who read my reviews will even read this page of the blog, so I just won’t use those numbers.
 
 For the rest of the ratings, I have provided this helpful graphic to understand what I’m trying to tell you when I attach a number to a review.

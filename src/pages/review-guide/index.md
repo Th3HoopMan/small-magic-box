@@ -1,7 +1,7 @@
 ---
 title: Review Guide
 ---
-Everyone has their own view about what makes a game good, worth buying, worth recommending etc. As a result when you go to read a review and see that a game got a 9 or a 7 or whatever it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to get to my review scores.
+Everyone has their own view about what makes a game good, worth buying, worth recommending etc. So when you go to read a review and see that a game got a 9 or a 7 or whatever it's hard to really know what that means. That's why I'm going to do my best to explain the checklist I go through in my mind to get to my review scores.
 
 ## The Rating Scale
 

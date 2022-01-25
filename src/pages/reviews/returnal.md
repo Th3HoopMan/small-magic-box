@@ -34,7 +34,7 @@ The game is a roguelike, which means each time you die, you essentially start at
 
 I’m going to be honest, I didn’t like Returnal at first. Every moment of it stressed me out, and it felt like a chore to play. It eventually clicked for me, and I’ll explain why, but before that let me talk about my biggest complaint with the game.
 
-Now I know what you may be thinking. He’s going to complain the game was too hard. He’s going to cry that there was no easy mode. He’s a big baby boy. While you are correct I’m a big baby boy, it’s not for the reasons you’re assuming.
+Now I know what you may be thinking. He’s going to complain that the game was too hard. He’s going to cry that there was no easy mode. He’s a big baby boy. While you are correct I’m a big baby boy, it’s not for the reasons you’re assuming.
 
 Yes, the game was hard, but I’ve played plenty of hard games that I’ve enjoyed. My biggest problem turned out to be the pacing of the runs. For a while, it really felt like the game was designed without consideration for the player’s time.
 

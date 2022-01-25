@@ -42,9 +42,7 @@ Yes, the game was hard, but I’ve played plenty of hard games that I’ve enjoy
 
 Like I mentioned before, when you die, you lose pretty much everything with almost nothing to show for it. There are very few checkpoints and shortcuts in the game, and you’ll have to fight hard to earn every single one of them. 
 
-Imagine playing for over an hour, getting ten sentences of story-related dialogue (if you’re lucky), dying, starting with a fresh character, and having to do that hour over, and over, and over again.
-
-Maybe Housmarque was really trying to immerse the mein the game and make them really feel what Selene was feeling, but honestly it was just annoying. 
+Imagine playing for over an hour, getting ten sentences of story-related dialogue (if you’re lucky), dying, starting with a fresh character, and having to do that hour over, and over, and over again. It gets annoying.
 
 Returnal is not like other games where you may be stuck on a boss, you respawn five or so minutes away from the fight, and you go back to try again. There are points where it may take you **30** **or more minutes** just to prepare and get back to the boss fight, and there’s a decent chance you might die on the way. 
 

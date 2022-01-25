@@ -18,8 +18,6 @@ tags:
   - Rougelike
 category: Review
 ---
-# Returnal
-
 At points, it seemed like it was a near-impossible task, but I finally beat **Returnal**. This game was a unique beast that I gained a lot of appreciation for by the time I had reached the credits. It comes packaged with exhilarating combat, interesting levels, and a mysterious story. While Returnal is certainly not for everyone, I ended up enjoying it much more than I initially expected. The (now Playstation-owned) studio Housemarque deserves a lot of praise for how they were able to evolve the roguelike genre with their latest project. 
 
 ## What Kind of Game is Returnal?

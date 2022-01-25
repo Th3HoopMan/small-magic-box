@@ -23,7 +23,7 @@ html *
     --feature-preview-max-width: 800px;
     --grade-width: 20%;
     --very-small-font: .9em;
-    --small-font: 1.1em;
+    --small-font: 1.2em;
     --medium-font: 1.4em;
     --large-font: 1.5em;
     --very-large-font: 2em;
@@ -40,6 +40,6 @@ html *
     --site-background-color: #fafafa;
     --bottom-page-padding: 200px;
     --max-site-width: 1200px;
-    --deafult-word-spacing: 2px;
+    --deafult-word-spacing: 1px;
     --default-content-width: 575px;
 }

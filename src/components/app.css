@@ -10,11 +10,11 @@ h3 {
   font-size: var(--small-font) !important;
 }
 
-p {
+p, li {
   font-family: 'Roboto' !important;
   word-spacing: var(--deafult-word-spacing);
   max-width: var(--default-content-width);
-  font-size: 1.2em;
+  font-size: var(--small-font);
 }
 
 body {

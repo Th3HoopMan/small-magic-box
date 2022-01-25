@@ -50,13 +50,6 @@ export const ReviewTemplate = ({
 const ReviewPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
-  console.dir(post);
-  console.dir(post);
-
-  console.dir(post);
-
-  console.dir(post);
-
   return (
     <Layout>
       <Seo

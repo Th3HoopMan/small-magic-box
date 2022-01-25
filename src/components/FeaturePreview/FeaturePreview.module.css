@@ -30,7 +30,7 @@
 }
 
 .details p {
-  font-size: 1em;
+  font-size: var(--small-font);
 }
 
 .postMetadata {

@@ -14,17 +14,17 @@
   }
   
   .content h2 {
-    font: 1.6em;
+    font-size: 1.6em;
     font-weight: bold;
   }
   
   .content h3 {
-    font: var(--large-font);
+    font-size: var(--large-font);
     font-weight: bold;
   }
 
   .content p {
-    font: var(--medium-font);
+    font-size: var(--small-font);
   }
   
   .content img {
@@ -36,15 +36,5 @@
     color: var(--primary-site-color);
     text-decoration: none;
     font-weight: bold;
-  }
-  
-  
-  @media only screen and (min-width: 768px) {
-  }
-  
-  @media only screen and (min-width: 768px) {
-  }
-  
-  @media only screen and (min-width: 1024px) {
   }
   

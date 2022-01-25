@@ -30,7 +30,7 @@ export const Post = ({
 
       <span className={styles.divider} />
 
-      <div dangerouslySetInnerHTML={{ __html: `${content}` }} />
+      <div className={styles.content} dangerouslySetInnerHTML={{ __html: `${content}` }} />
     </div>
   );
 };

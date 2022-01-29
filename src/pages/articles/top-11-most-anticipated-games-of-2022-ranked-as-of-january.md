@@ -56,7 +56,7 @@ I’m cautiously excited for this game. WB Games Montreal has always done right 
 
 ## 6. Somerville
 
-![Somerville landscape shot](Top%2011%20Most%20Anticipated%20Games%20of%202022%20-%20Ranked%20(As%207c3022477be74d2bb1770f33e301ce83/static1.squarespace.0.jpg "Somerville landscape shot")
+![Somerville landscape shot](/img/static1.squarespace.0.jpg "Somerville landscape shot")
 
 I love these stylistic side scrolling narrative games. Limbo, Inside, and Little Nightmares all struck the perfect chord with me. The reduction in scope allows me to relax, appreciate every screen, and get consumed by the different story-telling mechanics. I’m not sure how this game could disappoint me and I hope I never get an answer.
 

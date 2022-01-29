@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: 1
+title: Welcome to CantPause!
 ---
 This site is an archive of all my video game thoughts and opinions. Topics will span (and sometimes go beyond) the entire games industry. I’ll discuss game rumors, development updates, and of course the games themselves once they reach my hands. 
 

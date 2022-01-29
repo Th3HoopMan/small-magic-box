@@ -1,0 +1,35 @@
+.container {
+    margin: 0 0  var(--content-margins);
+}
+
+.header {
+    color: var(--primary-site-color);
+    font-weight: bold;
+    font-size: var(--large-font);
+    width: 100%;
+    border-bottom: 3px solid var(--secondary-site-color);
+}
+
+.details {
+    font-size: var(--medium-font);
+}
+
+.subscribe {
+    text-decoration: none;
+    color: var(--primary-font-color);
+}
+
+.subscribeButton {
+    background-color: var(--secondary-site-color);
+    width: 200px;
+    padding: var(--small-margins) var(--medium-margins);
+    border-radius: 7px;
+    box-shadow: var(--box-shadow);
+    margin: var(--large-margins) 0;
+    text-align: center;
+}
+
+.noSpam {
+    color: var(--primary-site-color);
+    font-weight: bold;
+}

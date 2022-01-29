@@ -20,6 +20,10 @@ const navLinks = [
   {
     title: "About",
     navPath: "/about",
+  },
+  {
+    title: "Newsletter",
+    navPath: "https://cantpause.substack.com/",
   }
 ];
 

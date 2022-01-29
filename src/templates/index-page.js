@@ -8,6 +8,7 @@ import * as styles from "../templateStyles/index.module.css";
 import ReviewList from "../components/ReviewList/ReviewList";
 import Seo from "../components/SEO";
 import logo from "../img/CantPauseLogoV2.svg";
+import Newsletter from "../components/Newletter/Newsletter";
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({ articles }) => {
@@ -15,22 +16,18 @@ export const IndexPageTemplate = ({ articles }) => {
 
   return (
     <div className={styles.container}>
-      <section className={styles.section}>
+      <div className={styles.mainContent}>
         <section className={styles.opener}>
           <h1>
-            
-            <img
-              className={styles.logo}
-              src={logo}
-              alt="logo"
-            />
+            <img className={styles.logo} src={logo} alt="logo" />
           </h1>
           <p className={styles.openerContent}>
             This is a blog that discusses video game news from one hobbyist's
-            perspective. I will cover a lot of news, but this is 
-            <span className={styles.notNews}> not</span> a news site. At the end of the day it's just my
-            take on anything in video games (and other media) I find interesting. Learn more about the site by
-            clicking the button below.
+            perspective. I will cover a lot of news, but this is
+            <span className={styles.notNews}> not</span> a news site. At the end
+            of the day it's just my take on anything in video games (and other
+            media) I find interesting. Learn more about the site by clicking the
+            button below.
           </p>
           <Link to="/about" className={styles.learnMore}>
             <h2 className={styles.learnMoreButton}>About the Site</h2>
@@ -52,10 +49,15 @@ export const IndexPageTemplate = ({ articles }) => {
             <p>View All Articles →</p>
           </Link>
         </section>
-      </section>
-      <section className={styles.section}>
-        <ReviewList />
-      </section>
+      </div>
+      <div className={styles.sidebarContent}>
+        <section className={styles.section}>
+          <ReviewList />
+        </section>
+        <section>
+          <Newsletter />
+        </section>
+      </div>
     </div>
   );
 };

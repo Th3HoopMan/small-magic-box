@@ -50,6 +50,8 @@ Like I’m sure everyone might say, I believe I grew up in the golden years of g
 * Witcher 2 - 2011 - CD Projekt Red
 * Witcher 3 - 2015 - CD Projekt Red
 
+
+
 **Bungie** - **5 Quality Games** in a **10 Year Span**
 
 **Bethesda** - **5 Quality Games** in a **11 Year Span**
@@ -62,6 +64,8 @@ Like I’m sure everyone might say, I believe I grew up in the golden years of g
 
 **CD Projekt Red** - **2 Quality Games** in a **4 Year Span**
 
+
+
 Am I crazy or were we getting banger AAA installments year after year? We got the entire Mass Effect Trilogy in five years. We got Skyrim and Fallout 3 just three years apart. I really hope I’m getting across how insane that is.
 
 ![Skyrim cover art](/img/skyrim.jpg "Skyrim cover art")
@@ -70,11 +74,23 @@ Now let’s take a look at what some of the same studios have done recently. The
 
 *Note*: Bungie has been in the unique situation of launching and managing an MMO so I’ll exclude them from the conversation and focus on studios that are primarily working on single-player focused games.
 
+
+
 * **Bethesda Studios** (Todd Howard’s team specifically) has released **ONE** new game since the launch of Fallout 4 in 2015. That game was the MMO Fallout 76 which was released in 2018. That game was by far the worst release in the studio’s history. Their long-awaited space-themed single-player game Starfield is set to launch in November of 2022, making that a **7 year gap** between single-player titles.
+
+
 * **Rockstar** has released **ONE** new game since GTA V in 2013. They released Red Dead Redemption 2 in 2018, a **7 year gap** between new titles.
+
+
 * **Bioware** has released **TWO** new **games since their big 2014 hit, Dragon Age Inquisition. Mass Effect Andromeda dropped in 2017 and Anthem in 2019,** **both of which were spectacular flops for the developer**.
+
+
 * **CD Projekt Red** has released **ONE** game since their (inserting bias here) masterpiece that was The Witcher 3. Cyberpunk 2077 dropped **5 years later** at the tail end of 2020 and was **arguably the worst AAA game launch in the past 15 years**.
+
+
 * **Naughty Dog** has released **THREE** new games since the critical darling The Last of Us. Uncharted 4 dropped in 2016, Uncharted Lost Legacy dropped in 2017, and The Last of Us 2 dropped in 2020. **Naughty Dog is the only studio on this list that has been able to consistently maintain their game output without catastrophic dips in qualit**y.
+
+
 
 ## **The AAA Plague**
 
@@ -149,6 +165,7 @@ Throughout the PS4 generation, Playstation rose to dominance in the single-playe
 * Ratchet and Clank: Rift Apart - 2021
 * Spiderman 2 - Announced
 * Wolverine - Announced
+*
 
 This is the quality and output I’m talking about. All three of Insomniac’s projects released in the past 4 years have been met with high praise, and fans can’t wait for what they’re cooking next. 
 
@@ -170,6 +187,8 @@ I hate for this to be a shut up and dribble situation, but a lot of these studio
 
 That’s not to say studios shouldn’t innovate, but there’s a reason those developers were so beloved back in the day, and there’s a reason Playstation has been seeing repeated success. It’s because well-crafted narratives and experiences resonate with people. For my sports fans out there, it’s why Seahawks fans were so pissed when their team threw the ball at the - yard line with the Superbowl on the line after they had successfully run the ball up to that point. Don’t fix what’s not broken. Continue to reward supporters by giving them experiences similar to what brought them to you in the first place.
 
+
+
 ### Changing of the Guard
 
 ![Respawn Entertainment Logo](/img/respawn-entertainment-black-logo-1200x675.jpg "Respawn Entertainment Logo")
@@ -187,6 +206,8 @@ It does seem like there are studios that starting to become the new gold standar
 * The Coalition
 
 And many more that I’ve left out. Hopefully, after teams are able to get their tools and engines ramped up for the newest generation of hardware we’ll start to see what they have been cooking for us.
+
+
 
 ## Settling Back Into Place
 

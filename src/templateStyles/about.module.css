@@ -1,5 +1,4 @@
 .container {
-  padding-bottom: 200px;
   max-width: 800px;
   margin: auto;
 }
@@ -13,17 +12,18 @@
   font-size: 3em;
 }
 
-.content h2 {
-  font: var(--very-large-font);
-}
-
-.content p {
-  font: var(--medium-font);
+.content {
+  padding: auto var(--small-margins);
 }
 
 .content img {
   width: 100%;
-  margin: var(--medium-margins) auto;
+  max-width: 600px;
+  margin: var(--medium-margins) 0;
+}
+
+.content li p {
+  font-size: 1em;
 }
 
 .content a {

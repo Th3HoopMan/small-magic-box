@@ -12,16 +12,16 @@
   .postMetadata span {
     color: var(--secondary-site-color);
     margin: auto 0;
-    margin-bottom: var(--small-margins);
   }
   
   .date {
     margin-left: 5px;
-    margin-bottom: var(--small-margins);
+    margin: auto var(--small-margins);
   }
   
   .category {
     margin-right: 5px;
     font-weight: bold;
-    margin-bottom: var(--small-margins);
+    margin: auto var(--small-margins);
+    margin-left: 0;
   }

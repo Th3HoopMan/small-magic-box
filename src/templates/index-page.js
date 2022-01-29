@@ -36,7 +36,7 @@ export const IndexPageTemplate = ({ articles }) => {
             <h2 className={styles.learnMoreButton}>About the Site</h2>
           </Link>
         </section>
-        <section>
+        <section className={styles.articlesSection}>
           <h2 className={styles.sectionHeader}>Latest Articles</h2>
           {articles.map((post) => (
             <FeaturePreview

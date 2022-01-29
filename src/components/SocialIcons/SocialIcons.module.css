@@ -1,0 +1,11 @@
+.socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: var(--small-margins);
+}
+
+.socialIcons img{
+    width: 25px;
+    margin: var(--small-margins);
+}

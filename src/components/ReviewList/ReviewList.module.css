@@ -5,7 +5,7 @@
 .sectionHeader {
   color: var(--primary-site-color);
   font-weight: bold;
-  font-size: var(--very-large-font);
+  font-size: var(--large-font);
   width: 100%;
   border-bottom: 3px solid var(--secondary-site-color);
 }
@@ -21,6 +21,7 @@
 
 .link p {
   color: var(--primary-site-color);
+  font-size: var(--very-small-font)
 }
 
 @media only screen and (min-width: 1024px) {

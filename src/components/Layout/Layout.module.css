@@ -4,7 +4,7 @@
 }
 .content {
   margin: 0 auto -80px;
-  padding-bottom: 200px;
+  padding-bottom: 50px;
   max-width: var(--max-site-width);
   height: 100%;
 }

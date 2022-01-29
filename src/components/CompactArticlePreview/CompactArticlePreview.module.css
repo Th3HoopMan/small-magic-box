@@ -23,7 +23,7 @@
 .title {
   font-size: var(--small-font);
   font-weight: bold;
-  padding-top: var(--very-small-margins);
+  padding-right: var(--medium-margins);
 }
 
 .details {

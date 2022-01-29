@@ -16,7 +16,7 @@ export const Post = ({
   const featuredImage = getImage(imgSrc);
 
   return (
-    <div className={styles.mainContent}>
+    <div className={styles.container}>
       <div className={styles.postDetails}>
         <CategorySubheading category={category} date={date} />
         <h1 className={styles.title}>{title}</h1>

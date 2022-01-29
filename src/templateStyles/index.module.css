@@ -30,6 +30,10 @@
   color: var(--primary-font-color);
 }
 
+.articlesSection {
+ margin-right: var(--medium-margins);
+}
+
 .learnMoreButton {
   background-color: var(--secondary-site-color);
   width: 170px;
@@ -61,7 +65,6 @@
 
 .viewArticlesLink {
   text-decoration: none;
-  font-size: var(--small-font);
   color: var(--primary-site-color);
 }
 
@@ -72,6 +75,7 @@
 .viewArticlesLink p {
   color: var(--primary-site-color);
   margin: var(--small-margins) 0;
+  font-size: var(--very-small-font);
 }
 
 .sectionHeader {

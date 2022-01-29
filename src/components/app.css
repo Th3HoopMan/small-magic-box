@@ -15,6 +15,7 @@ p, li {
   word-spacing: var(--deafult-word-spacing);
   max-width: var(--default-content-width);
   font-size: var(--small-font);
+  line-height: 1.5;
 }
 
 body {

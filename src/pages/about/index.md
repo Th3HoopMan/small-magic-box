@@ -29,4 +29,4 @@ Instead of posting a picture of me here, I’m going to post a picture of my dog
 
 At the end of the day I just want to talk about video games. If you read an opinion you like (or dislike) go ahead and tweet me about it so we can talk! I eventually want to implement a comment system but until then let's exchange DMs. [Here's a link to  my Twitter.](https://twitter.com/th3hoopman)
 
-![In game photo from It Takes Two](/img/ittakestwotalking.png)
+![Kratos and Atreus talking in God of War](/img/nace5lcsfwsenknupkeja5.jpg "Kratos and Atreus talking in God of War")

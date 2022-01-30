@@ -3,11 +3,9 @@ templateKey: about-page
 path: /about
 title: Welcome to CantPause!
 ---
-This site is an archive of all my video game thoughts and opinions. Topics will span (and sometimes go beyond) the entire games industry. I’ll discuss game rumors, development updates, and of course the games themselves once they reach my hands. 
+This site is an archive of all my video game thoughts and opinions. I want it to be for those looking to learn and discuss the latest happenings of the video game industry. Topics will span (and sometimes go beyond) the entire games industry. I’ll discuss game rumors, development updates, and of course the games themselves once they reach my hands. 
 
-This site is mainly for me, but it is also for those looking to learn and discuss the latest happenings of the video game industry. Sometimes I’ll go off script and discuss my opinions on the MCU or whatever anime I’m currently watching, but I intend for the core focus to be video games.
-
-Cant Pause is not supposed to be an example of fine journalism. It’s supposed to be a sometimes casual, sometimes deep, dive into the hobby I love. That means you may see the occasional rogue typo, or sometimes the writing might sound a bit off. I'm always open for improvement though, so please email me your feedback if you have any.
+Cant Pause is not supposed to be an example of fine journalism. It’s supposed to be a sometimes casual, sometimes deep, dive into the hobby I love. I'm always open for improvement though, so please email me your feedback or suggestions if you have any.
 
 ![Can't Pause Logo](/img/cantpauselogov2.png)
 
@@ -22,8 +20,6 @@ That’s why this site exists.
 Because I have a ton of super-niche video game thoughts and don't feel like always talking someone's ear off about this one hobby I'm obsessed over.
 
 Instead of posting a picture of me here, I’m going to post a picture of my dog Flora because why not. Also, I want the people that skip this explanation to think a dog runs this site.
-
-
 
 ![A picture of my dog Flora](/img/pxl_20220101_034239615.jpg)
 

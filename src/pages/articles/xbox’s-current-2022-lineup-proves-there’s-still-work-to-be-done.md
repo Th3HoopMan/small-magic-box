@@ -14,7 +14,7 @@ tags:
   - Redfall
 category: Gaming
 ---
-The team at Xbox has been making *all* the right moves lately. Between their [masterful social media presence](https://gamerant.com/xbox-series-s-leak-meme/), [their strategic and wide range of acquisition](https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming/)s, and the incredible work they’ve done to build GamePass into a must-have service, it seems like they are poised for one of the most impressive comebacks of all time. 
+The team at Xbox has been making *all* the right moves lately. Between their [masterful social media presence](https://gamerant.com/xbox-series-s-leak-meme/), [their strategic and wide range of acquisitions](https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming/), and the incredible work they’ve done to build GamePass into a must-have service, it seems like they are poised for one of the most impressive comebacks of all time. 
 
 I’m talking Brady and the Patriots [coming back after being down 28-3 in the Super Bowl](https://www.youtube.com/watch?v=gY8exXZgyqc). I’m talking Lebron and the Cavaliers [coming back after being down 3-1 in the NBA Finals](https://www.youtube.com/watch?v=fSl0vnLIqak). I’m talking about Stark and Rodgers [coming back after being down half the universe and an Infinity Gauntlet to Thanos](https://www.youtube.com/watch?v=dE1P4zDhhqw). I think soon we’ll be talking about Phil Spencer and his team coming back from the [near self-destruction of the Xbox brand](https://arstechnica.com/gaming/2020/11/spencer-microsoft-almost-abandoned-xbox-brand-after-the-xbox-one-launch/). 
 
@@ -68,7 +68,7 @@ The bad thing is that the pandemic is still alive and well, and developers’ li
 
 So let’s talk about the most likely scenario: What we see is what we get and the one big Xbox exclusive everybody is waiting for won’t arrive for another 10 months. 
 
-How does Xbox provide value to the early next-generation adopters that are looking for something to play this year? 
+How does Xbox provide value to the early Xbox Series owners that are looking for something to play this year? 
 
 Well, the answer is simple enough. GamePass. It is Xbox’s golden goose and coupled with the seismic wallet of Microsoft, they can easily buy exciting 3rd party titles to keep players happy.
 

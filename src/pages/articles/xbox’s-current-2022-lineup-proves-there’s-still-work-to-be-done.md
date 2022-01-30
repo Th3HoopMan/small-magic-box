@@ -24,25 +24,19 @@ But not yet.
 
 I was recently watching an episode of [IGN’s Next-Gen Console Watch](https://www.youtube.com/watch?v=Ywlt4W6oCos) where they were comparing each company's (Playstation, Xbox, Nintendo) game lineups for 2022.
 
-
-
 As of now, Xbox is publishing **two** tentpole titles this year:
 
 * Redfall, which doesn't have a date (just "summer") and only has a concept trailer so far
 * Starfield, which comes in the last two months of the year
 
-
-
-This is coming off a year where they published some of the biggest games of the year:
+This is coming off a year where they published some of the biggest games in the industry:
 
 * Forza 5
 * Halo Infinite
 * Psychonauts 2 (Not exclusive but Xbox published)
 * And to some extent Deathloop (Not released on Xbox, but it was Xbox published)
 
-
-
-This is in no way breaking news, we’ve known this was the situation since E3 2021 (RIP) last June. The thing is, coming off of a particularly strong end of 2021 for Xbox, it definitely seems like they're going to lose a lot of that momentum in 2022.
+This is in no way breaking news, we’ve known this was the situation since E3 (RIP) last June. The thing is, coming off of a strong end of the year for Xbox, it definitely seems like they're going to lose a lot of that momentum throughout 2022.
 
 ![Starfield Gameplay Teaser](/img/ktytbeesjzlb3gggfuq33e.jpg "Starfield Gameplay Teaser")
 
@@ -52,21 +46,27 @@ For the entire Xbox One generation, Xbox has been fighting for its life to comba
 
 Thanks to Microsoft’s practically limitless bank account, Xbox has finally defeated its demons. With the acquisition of studios like Double Fine, Ninja Theory, Playground Games, the entirety of Bethesda, and soon enough, Activision/Blizzard, it’s hard to argue that “Xbox has no games”. 
 
-But when will we start to see these fabled exclusive games at a consistent cadence? Well, studios take time to build up and games take time to develop, so even though we’d all love to start to see the fruits of these acquisitions right now, we may have to wait a little longer. 
+But when will we start to see these exclusive games at a consistent cadence? Well, studios take time to build up and games take time to develop, so even though we’d all love to start to see the fruits of these acquisitions right now, we may have to wait a little longer. 
 
-Matt Booty was quoted saying that [he wants to see a big release every quarter](https://www.videogameschronicle.com/news/xbox-says-it-will-continue-to-buy-studios-and-wants-to-release-games-every-quarter/), but it doesn’t seem like we’re there yet. According to reports from insiders [like Jeff Grubb](https://twitter.com/jeffgrubb/status/1404143222264193025?lang=en), the ball will likely get rolling in 2023, and then it should be full throttle from there.
+## Something to Prove
+
+Xbox is still in this weird place where no one is quite sure about the level of quality we're going to get from their first-party titles. 
+
+Unlike Playstation, which has proven time and time again that their studios will meet a certain level of polish, Xbox's track record is all over the place. In fact, with the exception of Hellblade 2, I don't believe we've seen a lick of gameplay from any upcoming Xbox projects.
+
+If the Forza 5 and Halo Infinite releases are any indication of the future, Xbox is trending in the right direction, but they'll need Redfall and Starfield to continue to build that trust with fans.
 
 ## It’s Still Early
 
-The good thing is that there’s plenty of time for the list of 2022 releases to be updated. Xbox can still add some unexpected or previously announced games in the Summer and Fall windows to keep things lively. 
+The good thing is that there’s plenty of time for the list of 2022 releases to get filled out. Xbox can still add some unexpected or previously announced games in the summer and fall windows to keep things lively. 
 
-The bad thing is that the pandemic is still alive and well, and developers’ lives aren’t getting much easier. It’s unclear how far along in the development of some of the projects Xbox has previously announced (such as Avowed and Fable) are, but honestly, with the way the industry has been looking, I think we’re more likely to see games get dropped than added. 
+The bad thing is that the pandemic is still alive and well, and developers’ lives aren’t getting much easier. It’s unclear how far along in the development of some of the projects Xbox has previously announced are, but with the way the industry has been looking, I think we’re more likely to see games get dropped than added. 
 
 ![Fable announcement](/img/ealdjxcz9b46rz9gk9recl.png "Fable announcement")
 
 ## **Big Brother GamePass**
 
-So let’s talk about the most likely scenario: This list (give or take maybe one game) is the list and the main Xbox exclusive everybody is waiting for won’t arrive for nearly another year. 
+So let’s talk about the most likely scenario: What we see is what we get and the one big Xbox exclusive everybody is waiting for won’t arrive for another 10 months. 
 
 How does Xbox provide value to the early next-generation adopters that are looking for something to play this year? 
 
@@ -74,7 +74,7 @@ Well, the answer is simple enough. GamePass. It is Xbox’s golden goose and cou
 
 ![Xbox GamePass Art](/img/xbox-game-pass-pc-family_key-art.jpg "Xbox GamePass Art")
 
-January has already started by being arguably the best month in GamePass history, so if they can keep up the tempo the year actually starts to look pretty good.
+January has already started by being arguably the best month in GamePass history, so if they can keep up that tempo the year actually starts to look pretty good.
 
 They can add any of the following games to GamePass over the next couple of months to keep things exciting:
 
@@ -90,6 +90,24 @@ They can add any of the following games to GamePass over the next couple of mont
 
 *(After making this list I’m honestly shocked at how little we know about what big 3rd party games we can actually expect to come out this year, so clearly, this isn’t just a Microsoft problem.)*
 
-I think if Xbox can make a push to get a lot of the games on this list and make a strong case that each year’s best titles have to make their way through GamePass, that might go even further than putting out an extra exclusive this year.
+I think if Xbox can get a lot of the games on this list and make a strong case that each year’s best titles have to make their way through GamePass, that might go even further than putting out an extra exclusive this year.
 
-Either way, I’m excited to see what the team over at Xbox is cooking this year because I doubt they’ll want the insane momentum they’ve built thus far to die off with a quiet year for GamePass subscribers.
+
+
+## **Looking Beyond 2022**
+
+It seems like for the past five years we've been thinking, "Next year will be Xbox's year", but I truly believe 2023 will be the beginning of a new era at Xbox. 
+
+Matt Booty was quoted saying that [he wants to see a big release every quarter](https://www.videogameschronicle.com/news/xbox-says-it-will-continue-to-buy-studios-and-wants-to-release-games-every-quarter/). Obviously, they're not there yet, but maybe next year they will be.
+
+User Crusader346 compiled a [list of known Xbox projects and release dates ](https://www.reddit.com/r/GamingLeaksAndRumours/comments/se6z59/the_state_of_xbox_game_studios_bethesda_softworks/)and it is truly insane how many games are scheduled to drop in 2023. This post is worthy of its own write-up, so I won't dive too deep into it here, but as of right now insiders are speculating that Xbox will publish **8 new first-party titles** in 2023. 
+
+I'm sure many projects will be shifted and delayed, but if we even get half of that we're looking at one of the most impressive years from Xbox in the last decade.
+
+If Xbox drops some solid announcements to build hype for 2023, nail their two big releases of the year, and keep GamePass consistent, they'll be alright this year.
+
+Either way, I’m excited to see what the team over at Xbox is cooking up because I doubt they’ll want the insane momentum they’ve built thus far to die off with a quiet year for GamePass subscribers.
+
+
+
+![Perfect Dark Concept Art](/img/perfect-dark-remake-crystal-dynamics-developer.jpg "Perfect Dark Concept Art")

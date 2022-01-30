@@ -16,39 +16,41 @@ category: Gaming
 ---
 The team at Xbox has been making *all* the right moves lately. Between their [masterful social media presence](https://gamerant.com/xbox-series-s-leak-meme/), [their strategic and wide range of acquisition](https://news.xbox.com/en-us/2022/01/18/welcoming-activision-blizzard-to-microsoft-gaming/)s, and the incredible work they’ve done to build GamePass into a must-have service, it seems like they are poised for one of the most impressive comebacks of all time. 
 
-I’m talking Brady and the Patriots [coming back after being down 28-3 in the Super Bowl](https://www.youtube.com/watch?v=gY8exXZgyqc). I’m talking Lebron and the Cavaliers [coming back after being down 3-1 in the NBA Finals](https://www.youtube.com/watch?v=fSl0vnLIqak). I’m talking about Stark and Rodgers [coming back after being down half the universe and an Infinity Gauntlet to Thanos](https://www.youtube.com/watch?v=dE1P4zDhhqw). I think soon we’ll be talking about Phil Spencer’s coming back from their [near self-destruction of the Xbox brand](https://arstechnica.com/gaming/2020/11/spencer-microsoft-almost-abandoned-xbox-brand-after-the-xbox-one-launch/). 
+I’m talking Brady and the Patriots [coming back after being down 28-3 in the Super Bowl](https://www.youtube.com/watch?v=gY8exXZgyqc). I’m talking Lebron and the Cavaliers [coming back after being down 3-1 in the NBA Finals](https://www.youtube.com/watch?v=fSl0vnLIqak). I’m talking about Stark and Rodgers [coming back after being down half the universe and an Infinity Gauntlet to Thanos](https://www.youtube.com/watch?v=dE1P4zDhhqw). I think soon we’ll be talking about Phil Spencer and his team coming back from the [near self-destruction of the Xbox brand](https://arstechnica.com/gaming/2020/11/spencer-microsoft-almost-abandoned-xbox-brand-after-the-xbox-one-launch/). 
 
 But not yet.
 
 ## Xbox’s Current 2022 Lineup
 
-I was recently watching an episode of [IGN’s Next-Gen Console Watch](https://www.youtube.com/watch?v=Ywlt4W6oCos) where they compared 2022 lineups from the Big Three (Playstation, Xbox, Nintendo) and Xbox’s exclusive 2022 lineup was pretty dry. Let’s take a look at Xbox’s interesting exclusives that what we know so far.
+I was recently watching an episode of [IGN’s Next-Gen Console Watch](https://www.youtube.com/watch?v=Ywlt4W6oCos) where they were comparing each company's (Playstation, Xbox, Nintendo) game lineups for 2022.
 
-* Tunic (March)
-* Redfall (Summer)
-* Starfield (November)
-* STALKER 2 (December)
-* Sommerville (2022)
-* Replaced (2022)
 
-This is coming off a year where we got:
+
+As of now, Xbox is publishing **two** tentpole titles this year:
+
+* Redfall, which doesn't have a date (just "summer") and only has a concept trailer so far
+* Starfield, which comes in the last two months of the year
+
+
+
+This is coming off a year where they published some of the biggest games of the year:
 
 * Forza 5
 * Halo Infinite
 * Psychonauts 2 (Not exclusive but Xbox published)
-* And to some extent Deathloop (Not even on the Xbox but it is Xbox published)
+* And to some extent Deathloop (Not released on Xbox, but it was Xbox published)
 
-Comparatively, 2022 seems pretty weak, especially for those not very interested in the long-awaited Starfield. Not to mention, the two biggest titles with confirmed dates for 2022, Starfield and Stalker (and I’m not even sure Stalker has hype like that), are dropping at the *very* end of the year.
 
-This is in no way breaking news, we’ve known this was the situation since E3 2021 (RIP) last June. The thing is, coming off of a strong Fall with Forza 5 and Halo Infinite it definitely feels like we’re in a free fall coming into 2022, and the parachute is coming really late.
+
+This is in no way breaking news, we’ve known this was the situation since E3 2021 (RIP) last June. The thing is, coming off of a particularly strong end of 2021 for Xbox, it definitely seems like they're going to lose a lot of that momentum in 2022.
 
 ![Starfield Gameplay Teaser](/img/ktytbeesjzlb3gggfuq33e.jpg "Starfield Gameplay Teaser")
 
 ## Xbox Has No Games
 
-For the entire Xbox One generation, Xbox has been fighting for its life to combat the “Xbox has no games” narrative. They’ve struggled to create exciting new IPs and failed to nurture the ones that they already have. Fortunately for them, they have one ace in the hole that no one else in the industry has. 
+For the entire Xbox One generation, Xbox has been fighting for its life to combat the “Xbox has no games” narrative. They’ve struggled to create exciting new IPs and failed to nurture the ones that they already have. Fortunately for them, they have an ace in the hole that no one else in the industry has. 
 
-Thanks to Microsoft’s seemingly limitless bank account, Xbox has finally defeated its demons. With the acquisition of studios like Double Fine, Ninja Theory, Playground Games, the entirety of Bethesda, and soon enough, Activision/Blizzard, it’s hard to argue that “Xbox has no games”. 
+Thanks to Microsoft’s practically limitless bank account, Xbox has finally defeated its demons. With the acquisition of studios like Double Fine, Ninja Theory, Playground Games, the entirety of Bethesda, and soon enough, Activision/Blizzard, it’s hard to argue that “Xbox has no games”. 
 
 But when will we start to see these fabled exclusive games at a consistent cadence? Well, studios take time to build up and games take time to develop, so even though we’d all love to start to see the fruits of these acquisitions right now, we may have to wait a little longer. 
 

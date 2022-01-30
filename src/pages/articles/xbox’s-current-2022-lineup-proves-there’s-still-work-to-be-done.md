@@ -90,7 +90,7 @@ They can add any of the following games to GamePass over the next couple of mont
 
 *(After making this list I’m honestly shocked at how little we know about what big 3rd party games we can actually expect to come out this year, so clearly, this isn’t just a Microsoft problem.)*
 
-I think if Xbox can get a lot of the games on this list and make a strong case that each year’s best titles have to make their way through GamePass, that might go even further than putting out an extra exclusive this year.
+I think if Xbox can get a lot of the games on this list and make a strong case that every year the industry's best titles have to make their way through GamePass, that might go even further than putting out an extra exclusive this year.
 
 
 

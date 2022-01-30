@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "CantPause",
-    titleTemplate: "%s | CantPause.com",
+    titleTemplate: "%s | CantPause",
     description:
       "A blog discussing opinions on video games and other entertainment",
     author: `Joseph Hooper`,

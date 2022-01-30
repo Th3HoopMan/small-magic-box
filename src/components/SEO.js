@@ -27,6 +27,14 @@ const SEO = ({ customTitle, customDescription, customImage = null, article = fal
     image,
     twitterUsername,
   } = data.site.siteMetadata;
+
+  let template = titleTemplate;
+  if (!customTitle) {
+    template = "Video Game News & Reviews | CantPause";
+  } else {
+    template = `${customTitle} | CantPause`
+  }
+
   const seo = {
     title: title || customTitle,
     description: description || customDescription,
@@ -34,7 +42,7 @@ const SEO = ({ customTitle, customDescription, customImage = null, article = fal
     url: `${siteUrl}${pathname}`,
   };
   return (
-    <Helmet title={seo.title} titleTemplate={titleTemplate}>
+    <Helmet title={seo.title} titleTemplate={template}>
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
       {seo.url && <meta property="og:url" content={seo.url} />}

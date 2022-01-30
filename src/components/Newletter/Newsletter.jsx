@@ -10,7 +10,7 @@ const Newsletter = () => {
         site newsletter.
         <br/>
         <br/>
-        <span className={styles.noSpam}>Ubsubscribe at any time.</span> 
+        <span className={styles.noSpam}>Unsubscribe at any time.</span> 
       </p>
       <a
         href="https://cantpause.substack.com/"

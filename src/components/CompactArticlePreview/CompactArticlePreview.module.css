@@ -2,7 +2,7 @@
 
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   box-shadow: var(--box-shadow);
   height: var(--compact-preview-height);
   width: var(--compact-preview-width);
@@ -16,8 +16,7 @@
 }
 
 .thumbnail {
-  max-height: var(--compact-preview-height);
-  max-width: 150px;
+  height: 200px;
 }
 
 .title {

@@ -66,7 +66,7 @@ Am I crazy or were we getting banger AAA installments year after year? We got th
 
 ![Skyrim cover art](/img/skyrim.jpg "Skyrim cover art")
 
-Now let’s take a look at what some of the same studios have done recently. These companies have only grown larger. The technology and tools have only gotten better. So that means logically we must be getting the same if not more amount of breath-taking adventures from these iconic studios right...right??
+Now let’s take a look at what some of the same studios have done recently. These companies have only grown larger. The technology and tools have only gotten better. So that means logically we must be getting the same amount of, if not more, breath-taking adventures from these iconic studios...right??
 
 *Note*: Bungie has been in the unique situation of launching and managing an MMO so I’ll exclude them from the conversation and focus on studios that are primarily working on single-player focused games.
 
@@ -149,8 +149,6 @@ Throughout the PS4 generation, Playstation rose to dominance in the single-playe
 * Ratchet and Clank: Rift Apart - 2021
 * Spiderman 2 - Announced
 * Wolverine - Announced
-
-
 
 This is the quality and output I’m talking about. All three of Insomniac’s projects released in the past 4 years have been met with high praise, and fans can’t wait for what they’re cooking next. 
 

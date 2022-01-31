@@ -72,7 +72,7 @@ Now let’s take a look at what some of the same studios have done recently. The
 
 * **Bethesda Studios** (Todd Howard’s team specifically) has released **ONE** new game since the launch of Fallout 4 in 2015. That game was the MMO Fallout 76 which was released in 2018. That game was by far **the worst release in the studio’s history**. Their long-awaited space-themed single-player game Starfield is set to launch in November of 2022, making that a **7 year gap** between single-player titles.
 * **Rockstar** has released **ONE** new game since GTA V in 2013. They released Red Dead Redemption 2 in 2018, a **7 year gap** between new titles.
-* **Bioware** has released **TWO** new **games since their big 2014 hit, Dragon Age Inquisition. Mass Effect Andromeda dropped in 2017 and Anthem in 2019,** **both of which were [spectacular flops](https://www.bbc.com/news/newsbeat-56070175) for the developer**.
+* **Bioware** has released **TWO** new games since their big 2014 hit, Dragon Age Inquisition. Mass Effect Andromeda dropped in 2017 and Anthem in 2019, **both of which were [spectacular flops](https://www.bbc.com/news/newsbeat-56070175) for the developer**.
 * **CD Projekt Red** has released **ONE** game since their (inserting bias here) masterpiece that was The Witcher 3. Cyberpunk 2077 dropped **5 years later** at the tail end of 2020 and was[ **arguably the worst AAA game launch in the past 15 years**](https://www.denofgeek.com/games/cyberpunk-2077-playstation-store-sony-worst-launch/).
 * **Naughty Dog** has released **THREE** new games since the critical darling The Last of Us. Uncharted 4 dropped in 2016, Uncharted Lost Legacy dropped in 2017, and The Last of Us 2 dropped in 2020. **Naughty Dog is the only studio on this list that has been able to consistently maintain their game output without catastrophic dips in quality**.
 
@@ -94,17 +94,17 @@ I’m not always looking for every big developer to release a larger-than-life e
 
 I don’t want to come off like I’m unappreciative of these once-in-a-generation, super ambitious projects, but when these games bring studio output down from roughly 5 games a decade to one it’s both concerning and a bit disappointing. 
 
-Imagine going to your favorite restaurant once a month, and one day they add one of the top 10 best meals you’ve ever had to the menu. Sounds great right? Well right after you finish that meal they tell you to continue to serve it they’re going to remove every other item on the menu and they can now only afford to open once every two years, oh and there’s no guarantee that it’ll taste as good as this time. Not sure that’s the best analogy but that’s what I feel is happening to a lot of the veteran AAA gaming studios now.
+Imagine going to your favorite restaurant once a month, and one day they add one of the top 10 best meals you’ve ever had to the menu. Sounds great right? Well maybe until right after you finish it they tell you that to continue to serve it they’re going to remove every other item on the menu. They also can only afford to open once every two years, oh and there’s no guarantee that it’ll taste as good as this time. Not sure that’s the best analogy but that’s what I feel is happening to a lot of the veteran AAA gaming studios now.
 
 ![Red Dead Remption 2 View of Map](/img/rdr2.jpg "Red Dead Remption 2 View of Map")
 
 ### Creative Sparks
 
-Take a second look at the timeline a posted. Do you notice anything interesting?
+Take a second look at the list of games I posted. Do you notice anything interesting?
 
 Yeah. There are *a lot* of sequels.
 
-That’s because when you have a story and design that has already proven it can capture gamers’ attention your job becomes a lot easier. The world, characters, and gameplay mechanics already have a foundation that can be built upon. 
+That’s because when you have a story and design that has already proven it can capture a player's attention your job becomes a lot easier. The world, characters, and gameplay mechanics already have a foundation that can be built upon. 
 
 The problem is a lot of those franchises we reminisce on have happily concluded and their creators have had to go back to the drawing board. As we’ve seen with Bioware and CD Projekt Red, it’s not easy to make a compelling and unique story that pairs well with innovative and dynamic gameplay. 
 
@@ -116,7 +116,7 @@ But until that golden IP is found it’s almost as if we’re all looking at a d
 
 ![Starfield logo](/img/starfield.jpeg "Starfield logo")
 
-### Money
+### Unwieldy Budgets
 
 AAA games are called AAA because of their massive budgets. They are the blockbuster movies of the games industry. They require both an insane amount of effort and money to get made, which is why there are only a few that get made each year. 
 
@@ -124,9 +124,9 @@ Remember when I talked about how ambitious some of these games are becoming? Wel
 
 To meet those ambitious goals developers need a surplus of time, often more than they originally budgeted for. So now these projects are over-budget and way off schedule. That means the pressure is on. The budget isn’t infinite, but the game needs to be perfect if they want to make that money back right? The game has to fulfill the promises it made when it was revealed, but it turns out those things are way harder to implement in a game than they thought. I can only imagine how vicious the cycle can become.
 
-Let’s say we’ve finally made it to the finish line. The 7-year, multi-million dollar project is finally out the door. What happens when if [that project flops](https://www.nme.com/features/gaming-features/adieu-anthem-2916293)? Now there’s no funding for the next project. The publisher needs to make that money back somehow right? So nowadays it seems the answer is to chase the live service game. Something that can keep the money printing while the studios work on what they really want to.
+Let’s say we’ve finally made it to the finish line. The 7-year, multi-million dollar project is finally out the door. What happens when if [that project flops](https://www.nme.com/features/gaming-features/adieu-anthem-2916293)? Now there’s no funding for the next project and the publisher needs to recoup its investment. So nowadays it seems the answer is to chase the live service game. Something that can keep the money printing while the studios work on what they really want to.
 
-As the video game industry grows, ironically we’re at the point where fewer and fewer studios have the financial support to take risks on interesting AAA projects. These projects are too expensive and often have no way to generate revenue beyond the initial game sale. So they get passed up in favor of an online game that can easily serve microtransactions.
+As the video game industry grows, ironically we’re at the point where fewer and fewer studios have the financial support to take risks on interesting AAA projects. May of these projects are too expensive and often have no way to generate revenue beyond the initial game sale. So they get passed up in favor of an online game that can easily serve microtransactions.
 
 ![Anthem2.jpg](/img/anthem2.jpg "Anthem2.jpg")
 
@@ -134,7 +134,7 @@ As the video game industry grows, ironically we’re at the point where fewer an
 
 So what is the fix? How can our favorite studios make more games with a consistent level of quality like back in the old days?
 
-While I don’t think there is a magic bullet that solves all of the struggles of the AAA conundrum, I do think there’s a solution. I’m not in the video game industry and at the end of the day I’m just observing the little bit of inside baseball that I can find, but there is clear proof in the industry that there is an answer to this problem. While it seems like all of the big publishers are having identity crises looking for the next big thing, one lone company has stood tall.
+While I don’t think there is a magic bullet that solves all of the struggles of the AAA conundrum, I do think there’s a solution. I’m not in the video game industry and at the end of the day I’m just observing the little bit of inside baseball that I can find, but there is clear proof in the industry that there is an answer to this problem. While it seems like all of the big publishers are having identity crises rying looking for the next big thing, one lone company has stood tall.
 
 **Playstation Studios.** 
 
@@ -168,7 +168,7 @@ Games like Ghost of Tsushima, God of War, Bloodborne, and Horizon Forbidden West
 
 I hate for this to be a shut up and dribble situation, but a lot of these studios should continue to have a foot planted where they started. Every game doesn’t need to have a sprawling open world. Every game doesn’t need to be online. Every game doesn’t need to be a live service. Sometimes people just want a good story and a fun mechanic. 
 
-That’s not to say studios shouldn’t innovate, but there’s a reason those developers were so beloved back in the day, and there’s a reason Playstation has been seeing repeated success. It’s because well-crafted narratives and experiences resonate with people. For my sports fans out there, it’s why Seahawks fans were so pissed when their team threw the ball at the - yard line with the Superbowl on the line after they had successfully run the ball up to that point. Don’t fix what’s not broken. Continue to reward supporters by giving them experiences similar to what brought them to you in the first place.
+That’s not to say studios shouldn’t innovate, but there’s a reason those developers were so beloved back in the day, and there’s a reason Playstation has been seeing repeated success. It’s because well-crafted narratives and experiences resonate with people. For my sports fans out there, it’s why everyone was so baffled when the Seahwaks threw the ball at the 1-yard line with the Superbowl on the line. They had successfully run the ball up to that point and yet decided to abandon that strategy. Don’t fix what’s not broken. Continue to reward supporters by giving them experiences similar to what brought them to you in the first place.
 
 ### Changing of the Guard
 
@@ -176,7 +176,7 @@ That’s not to say studios shouldn’t innovate, but there’s a reason those d
 
 We’ve already seen Playstation champion these ideas for over a decade, but it’s time for other publishers to step up and start also funding these types of projects. It’s not about always hitting the billion-dollar GTA V home run, sometimes it’s about building a solid swathe of series to choose from. Let’s get more Bioshocks, more Fables, more Sly Coopers.
 
-It does seem like there are studios that starting to become the new gold standard. I’ve already mentioned Insomniac and Naughty Dog but there’s also:
+It does seem like there is a new group of studios that are starting to be seen as the gold standard. I’ve already mentioned Insomniac and Naughty Dog but there’s also:
 
 * Arcane
 * Respawn
@@ -186,11 +186,11 @@ It does seem like there are studios that starting to become the new gold standar
 * Playground Games
 * The Coalition
 
-And many more that I’ve left out. Hopefully, after teams are able to get their tools and engines ramped up for the newest generation of hardware we’ll start to see what they have been cooking for us.
+And many more that I’ve left out. Hopefully, after teams are able to get their tools and engines ramped up for the newest generation of hardware we’ll start to see what they have been preparing for us.
 
 ## Settling Back Into Place
 
-I don’t think it’s over for the studios I touched on at the beginning of this article. I just think they and their publishers needed a bit of time to do some soul searching. Luckily, it seems like a lot of publishers are coming back around to support a lot of the teams and franchises that we’ve come to know and love over the past couple of decades.
+I don’t think it’s over for the studios I touched on at the beginning of this article. I just think they and their publishers needed a bit of time to do some soul searching. Luckily, it seems like a lot of big publishers are coming back around to support teams and franchises that we’ve come to know and love over the past couple of decades.
 
 With Microsoft’s gargantuan investment in gaming studios, I hope their game output ramps up and becomes a AAA powerhouse alongside Playstation. 
 
@@ -198,7 +198,7 @@ EA hit a home run with Hazelight, and they seem to be trying to get Bioware and 
 
 Ubisoft...is still making Ubisoft games.
 
-Take Two looks like they have no incentive to move with a purpose as long as GTA Online is printing money, but maybe we’ll get a new Bioshock announcement someday.
+Take Two looks like they have no incentive to move with a purpose as long as GTA Online and NBA 2k are printing money, but maybe we’ll get a new Bioshock announcement someday.
 
 Only time will tell if the AAA industry will shift back to the single-player juggernaut that it once was, but I am hopeful.
 
@@ -206,7 +206,7 @@ Only time will tell if the AAA industry will shift back to the single-player jug
 
 ## Side Note: About Nintendo, AA Games, and Others
 
-I wanted to focus this article on the few AAA studios that were leading the industry when I was growing up. I know the AAA space is much larger than the big RPG and single-player that I covered. Many publishers like Epic and Activision have seen success with their free-to-play multiplayer behemoths, and Ubisoft has held strong with their big open-world experiences. I think of all that can be their own discussions.
+I wanted to focus this article on a few AAA studios that were leading the industry when I was growing up. I know the AAA space is much larger than the big RPG and single-player makers that I covered. Many publishers like Epic and Activision have seen success with their free-to-play multiplayer behemoths, and Ubisoft has held strong with their big open-world experiences. I think they are all very different and can be their own discussions.
 
 As for the others...
 

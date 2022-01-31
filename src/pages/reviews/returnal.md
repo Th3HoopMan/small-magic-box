@@ -50,7 +50,7 @@ There is one area specifically that is home to what I think most people would ag
 
 I did this enough times that this section alone was justification enough to knock a point off of my score for this game.
 
-What’s worse is that when Returnal was first released, there was no way to save the state of your game. You just had to rely on your PS5’s sleep function. This means that if the game auto-updated or your system got powered off you just were out of luck. Months later they added a suspend feature, but I can’t imagine how many players bounced off in frustration before then.
+What’s worse is that when Returnal was first released, there was no way to save the state of your game. You just had to rely on your PS5’s sleep function. This means that if the game auto-updated or your system got powered off during the middle of a run you just were out of luck. Months later they added a suspend feature, but I can’t imagine how many players bounced off in frustration before then.
 
 If you are the type of person that doesn’t like hard games, stay away, because this one is worse than the others. The amount of time you can waste getting nowhere in this game is absurd. I wouldn’t recommend this to a casual player with limited time if they didn’t think they were up for the challenge.
 
@@ -78,13 +78,13 @@ I called the enemies “Lovecraftian” earlier because they’re so hard to des
 
 ![50826660412_71c9837773_k.jpg](/img/50826660412_71c9837773_k.jpg "Returnal plant monster")
 
-The levels and art style was interesting enough, but I didn’t really love the theme of Helios. The monsters were weird looking and felt devoid of any real exciting backstory.
+The levels and art styles were interesting, but I didn’t really love the theme of Helios. The monsters were weird looking and felt devoid of any real exciting backstory.
 
-Where the enemies really shined was their abilities. Every enemy brought their own challenge. Attack patterns for the standard enemies were simple enough, but large swarms of several different enemy types would get hectic. 
+Where the enemies really shined was their abilities. Every enemy brought their own challenge. Attack patterns for the standard enemies were relatively simple, but large swarms of several different enemy types would get hectic. 
 
 Almost every enemy featured some ranged attack that could consume the screen with deadly (and colorful) orbs and rings. Lots of fights definitely felt overwhelming on the eyes, but when I was locked in and dodging everything I always felt a rush of energy.
 
-The bosses took that feeling and amplified it ten-fold. Like many of these types of challenging games, the bosses were my favorite part. The series of attacks that they constantly threw at me were just as beautiful as they were deadly. Fights that seemed impossible to keep up with at first somehow felt like they were playing out in slow motion when I was at the top of my game. They had a certain rhythm to them that eventually just felt natural. 
+The bosses took that feeling and amplified it ten-fold. Like with most of these types of games, the bosses were my favorite part. The series of attacks that they constantly threw at me were just as beautiful as they were deadly. Fights that seemed impossible to keep up with at first somehow felt like they were playing out in slow motion when I was at the top of my game. They had a certain rhythm to them that eventually just felt natural. 
 
 ![Returnal_boss_guide___Ixion___3_.png](/img/returnal_boss_guide___ixion___3_.png "Returnal blue light orb attacks")
 
@@ -98,13 +98,13 @@ But the mystery of Returnal didn’t really work for me. There were points where
 
 ![Returnal_20210505120817.jpg](/img/returnal_20210505120817.jpg "Returnal astronaut")
 
-Everything was just too abstract and symbolic. The enemies were abstract. The environments were abstract. The alien texts and translations you find were abstract. The major story beats and cutscenes were abstract. The only things that weren’t overly abstract were the audio log you’d find from Selene and she almost always sounded as confused as I felt.
+Everything was just too abstract and symbolic. The enemies were abstract. The environments were abstract. The alien texts and translations you find were abstract. The major story beats and cutscenes were abstract. The only things that weren’t overly abstract were the audio logs you’d find from Selene and she almost always sounded as confused as I felt.
 
 They just made it way too difficult for the average person to parse through the story. By the end of the game some things were cleared up, but not enough to justify all of the theatrics they pulled with the lore in my opinion. 
 
-Since I felt like the story progression was a bummer, the driving force for me became the challenge. What area were they going to throw at me next? What will the next boss have in store for me? What will the game do for it’s big send off?
+Since I felt like the story progression was a bummer, the driving force for me became the challenge. What area were they going to throw at me next? What will the next boss have in store for me? What will the game do for its big send-off?
 
-The game did a great job at upping the ante with each new level. The enemies got harder, the enemies got more complicated, and the areas got mot more treacherous. It was this constant push and pull of frustration and empowerment that I have only felt in games like Sekiro and Cuphead. Something that I think Housemarque should be applauded for getting right.
+The game did a great job at upping the ante with each new level. The enemies got harder, their attacks got more complicated, and the areas got mot more treacherous. It was this constant push and pull of frustration and empowerment that I have only felt in games like Sekiro and Cuphead. Something that I think Housemarque should be applauded for getting right.
 
 ## The Final Verdict
 

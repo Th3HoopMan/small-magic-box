@@ -12,7 +12,7 @@ tags:
   - Bethesda
   - Rockstar
   - NaughtyDog
-  - Playstation
+  - PlayStation
   - Insomniac
   - Bungie
 category: Gaming
@@ -134,15 +134,15 @@ As the video game industry grows, ironically we’re at the point where fewer an
 
 So what is the fix? How can our favorite studios make more games with a consistent level of quality like back in the old days?
 
-While I don’t think there is a magic bullet that solves all of the struggles of the AAA conundrum, I do think there’s a solution. I’m not in the video game industry and at the end of the day I’m just observing the little bit of inside baseball that I can find, but there is clear proof in the industry that there is an answer to this problem. While it seems like all of the big publishers are having identity crises rying looking for the next big thing, one lone company has stood tall.
+While I don’t think there is a magic bullet that solves all of the struggles of the AAA conundrum, I do think there’s a solution. I’m not in the video game industry and at the end of the day I’m just observing the little bit of inside baseball that I can find, but there is clear proof in the industry that there is an answer to this problem. While it seems like all of the big publishers are having identity crises trying looking for the next big thing, one lone company has stood tall.
 
-**Playstation Studios.** 
+**PlayStation Studios.** 
 
 ![Last of US 2 Promotional Art](/img/tlou2conceptart.jpg "Last of US 2 Promotional Art")
 
-### Playstation Studios has Perfected the Formula
+### PlayStation Studios has Perfected the Formula
 
-Throughout the PS4 generation, Playstation rose to dominance in the single-player action-adventure genre. They have seen success after success with an array of studios. They have done so well that **Insomniac Games** is seen as the gold standard in the industry right now, having released or announced:
+Throughout the PS4 generation, PlayStation rose to dominance in the single-player action-adventure genre. They have seen success after success with an array of studios. They have done so well that **Insomniac Games** is seen as the gold standard in the industry right now, having released or announced:
 
 * Spiderman - 2018
 * Spiderman: Miles Morales - 2020
@@ -152,13 +152,13 @@ Throughout the PS4 generation, Playstation rose to dominance in the single-playe
 
 This is the quality and output I’m talking about. All three of Insomniac’s projects released in the past 4 years have been met with high praise, and fans can’t wait for what they’re cooking next. 
 
-So how has Playstation been able to build this unrivaled stable of both old and new IPs across countless studios? What’s their secret formula?
+So how has PlayStation been able to build this unrivaled stable of both old and new IPs across countless studios? What’s their secret formula?
 
 ### Reducing Scope
 
 The reason studios like Insomniac and Naughty Dog are able to pump out titles so fast is because they aren’t afraid to release a contained experience. They look at the IPs and technology they have at their disposal and they put them to good use. 
 
-Playstation is the only AAA publisher letting their studios consistently put out smaller bite-sized projects. For example, take a look at Uncharted: Lost Legacy, Infamous Second Son, Spiderman Miles Morales, and Astro’s Playroom. These games were all much smaller than their predecessors and built on existing engines and mechanics, but they were fantastic nonetheless.
+PlayStation is the only AAA publisher letting their studios consistently put out smaller bite-sized projects. For example, take a look at Uncharted: Lost Legacy, Infamous Second Son, Spiderman Miles Morales, and Astro’s Playroom. These games were all much smaller than their predecessors and built on existing engines and mechanics, but they were fantastic nonetheless.
 
 Games like Ghost of Tsushima, God of War, Bloodborne, and Horizon Forbidden West are big, but they’re not trying to be a dozen different things in one. They provide just enough gameplay and story telling mechanisms to hook the player, and nothing more.
 
@@ -168,13 +168,13 @@ Games like Ghost of Tsushima, God of War, Bloodborne, and Horizon Forbidden West
 
 I hate for this to be a shut up and dribble situation, but a lot of these studios should continue to have a foot planted where they started. Every game doesn’t need to have a sprawling open world. Every game doesn’t need to be online. Every game doesn’t need to be a live service. Sometimes people just want a good story and a fun mechanic. 
 
-That’s not to say studios shouldn’t innovate, but there’s a reason those developers were so beloved back in the day, and there’s a reason Playstation has been seeing repeated success. It’s because well-crafted narratives and experiences resonate with people. For my sports fans out there, it’s why everyone was so baffled when the Seahwaks threw the ball at the 1-yard line with the Superbowl on the line. They had successfully run the ball up to that point and yet decided to abandon that strategy. Don’t fix what’s not broken. Continue to reward supporters by giving them experiences similar to what brought them to you in the first place.
+That’s not to say studios shouldn’t innovate, but there’s a reason those developers were so beloved back in the day, and there’s a reason PlayStation has been seeing repeated success. It’s because well-crafted narratives and experiences resonate with people. For my sports fans out there, it’s why everyone was so baffled when the Seahwaks threw the ball at the 1-yard line with the Superbowl on the line. They had successfully run the ball up to that point and yet decided to abandon that strategy. Don’t fix what’s not broken. Continue to reward supporters by giving them experiences similar to what brought them to you in the first place.
 
 ### Changing of the Guard
 
 ![Respawn Entertainment Logo](/img/respawn-entertainment-black-logo-1200x675.jpg "Respawn Entertainment Logo")
 
-We’ve already seen Playstation champion these ideas for over a decade, but it’s time for other publishers to step up and start also funding these types of projects. It’s not about always hitting the billion-dollar GTA V home run, sometimes it’s about building a solid swathe of series to choose from. Let’s get more Bioshocks, more Fables, more Sly Coopers.
+We’ve already seen PlayStation champion these ideas for over a decade, but it’s time for other publishers to step up and start also funding these types of projects. It’s not about always hitting the billion-dollar GTA V home run, sometimes it’s about building a solid swathe of series to choose from. Let’s get more Bioshocks, more Fables, more Sly Coopers.
 
 It does seem like there is a new group of studios that are starting to be seen as the gold standard. I’ve already mentioned Insomniac and Naughty Dog but there’s also:
 
@@ -192,7 +192,7 @@ And many more that I’ve left out. Hopefully, after teams are able to get their
 
 I don’t think it’s over for the studios I touched on at the beginning of this article. I just think they and their publishers needed a bit of time to do some soul searching. Luckily, it seems like a lot of big publishers are coming back around to support teams and franchises that we’ve come to know and love over the past couple of decades.
 
-With Microsoft’s gargantuan investment in gaming studios, I hope their game output ramps up and becomes a AAA powerhouse alongside Playstation. 
+With Microsoft’s gargantuan investment in gaming studios, I hope their game output ramps up and becomes a AAA powerhouse alongside PlayStation. 
 
 EA hit a home run with Hazelight, and they seem to be trying to get Bioware and their other studios back on track and making titles that people have been asking for.
 

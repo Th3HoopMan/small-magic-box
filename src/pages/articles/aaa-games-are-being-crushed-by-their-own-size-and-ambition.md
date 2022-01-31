@@ -1,8 +1,8 @@
 ---
 templateKey: post-page
 title: AAA Games Are Being Crushed By Their Own Size and Ambition
-tagline: It seems no amount of money can solve the struggles plaguing AAA studio
-  in the last several years.
+tagline: Industry legends from the past couple decades struggle to create the
+  same magic they did in years past.
 date: 2022-01-29T01:48:56.548Z
 featuredimage: /img/anthem_art.jpg
 imagealt: Anthen cover art

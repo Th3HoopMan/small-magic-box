@@ -14,39 +14,40 @@ tags:
   - GodofWar
 category: Gaming
 ---
-It seems like 2022 might be the best year of video games ever...*maybe*. There are a lot of extremely hype games that we’re assuming will release this year, but as of now, we’ve only gotten solid dates and announcements for a handful. 
+It seems like 2022 might be the best year of video games ever...*maybe*. There are a lot of long-awaited games that we’re assuming will release at some point, but as of now, we’ve only gotten solid dates and announcements for a handful. 
 
-As the year goes on, I’d like to keep track of my most anticipated games that I believe will release this year. These games are the ones I’m personally interested in and genuinely expect to buy. To keep this list somewhat reasonable I’m going to try and be realistic about what I think I might actually get around to playing.
+As the year goes on, I’d like to keep track of my most anticipated games that I believe will be released in 2022. These games are the ones I’m personally interested in and realistically expect to buy. 
 
-As we get more information about certain releases this list will expand and shrink, so if you’re wondering why you’re most anticipated game is not mentioned it might be because:
+As we get more information about certain games and release dates this list will expand and shrink, so if you’re wondering why your most anticipated game is not mentioned it might be because:
 
-* I’m not completely sold yet
+* I’m not completely sold on it yet
 * I’ve seen enough and it doesn’t look like my cup of tea
 * I doubt it’ll actually be released this year
+* I forgot about it
 
 ## 11. Tunic
 
-![Tunic in game photo](/img/tunic.jpg "Tunic in game photo")
+![Tunic in-game photo](/img/tunic.jpg "Tunic in game photo")
 
-Last summer I played a demo of Tunic and that game **kicked my butt.** The art style is super cute but that gameplay is ***brutal.*** That being said I’m still interested in this little Fox’s journey and I’m hoping there are some interesting surprises and battles along the way.
+Last summer I played a demo of Tunic and that game **kicked my butt.** The art style is super cute but that gameplay is ***brutal.*** It's essentially like a mini souls-like in that everything can kill you. Even though it's not what I initially expected, I’m still interested in this little fox’s journey and I’m hoping there are some cool surprises and battles along the way.
 
 ## 10.  A Plague Tale: Requiem
 
 ![A Plague Tale Requiem in game photo](/img/sxj7yptuxjxgxkzkszpikm.jpg "A Plague Tale Requiem in game photo")
 
-I had heard a lot of good things about A Plague Tale: Innocence, so when the team released a 4K patch last summer I took the opportunity to play through it. While the game wasn’t perfect, it featured a very unique gameplay style and a surprisingly compelling story. Asobo Studio absolutely brought the hype with their trailer that was shown during the Microsoft Showcase last year. Couple that with the fact that it’s coming to GamePass and I’m in.
+I had heard a lot of good things about A Plague Tale: Innocence, so when the team released a 4K patch last summer I took the opportunity to play through it. While the game wasn’t perfect, it featured a very unique gameplay style and a surprisingly compelling story. Asobo Studio brought the razzle-dazzle with [their trailer](https://www.youtube.com/watch?v=GlqJ6oKo8to) that was shown during the Microsoft Showcase last year. Couple that with the fact that it’s coming to GamePass and I’m in.
 
 ## 9. Shovel Knight Dig
 
 ![Shovel Knight Dig in game photo](/img/shovel_knight_dig_08.png "Shovel Knight Dig in game photo")
 
-I’ve actually played this game. Yacht Club had a demo of it at PAX West 2019. It was awesome. That’s why I’m so shocked this game isn’t out yet. I’m not sure we’ve even heard anything about it since then. Fortunately, Yacht Club is making some announcements very soon, so by the time you read this, we may even have a solid release date.
+I’ve actually played this game. Yacht Club had a demo of it at PAX West 2019. It might have been the best game I played at PAX that year. If you had asked me after playing that currated slice of the game I would've told you it was practically done. That’s why I’m so shocked this game isn’t out yet. I’m not sure we’ve even heard anything about it since then. Fortunately, Yacht Club is making some announcements very soon, so by the time you read this, we may even have a solid release date.
 
 ## 8. Redfall
 
 ![Layla from Redfall](/img/layla_book.jpg "Layla from Redfall")
 
-Arcane might be my favorite studio in the industry right now, so naturally I cling to their every word, waiting patiently for whatever they put out next. Well, Redfall is next. The fact that this game is co-op kind of takes some of the sauce off of it for me, just because I’m just not as big into multiplayer experiences anymore (an article for another time). That being said, the trailer they dropped last summer looked cool enough and I trust the team, so I’m looking forward to whatever this game turns out to be.
+Arcane might be my favorite studio in the industry right now, so naturally, I cling to their every word, waiting patiently for whatever they put out next. Well, Redfall is next. The fact that this game is co-op kind of takes some of the sauce off of it for me, just because I’m just not as big into multiplayer experiences anymore (an article for another time). That being said, [the concept trailer](https://www.youtube.com/watch?v=3pWjcqXnP2g) they dropped last summer looked cool enough and I trust the team, so I’m looking forward to whatever this game turns out to be.
 
 ## 7. Gotham Knights
 
@@ -58,29 +59,29 @@ I’m cautiously excited for this game. WB Games Montreal has always done right 
 
 ![Somerville landscape shot](/img/static1.squarespace.0.jpg "Somerville landscape shot")
 
-I love these stylistic side scrolling narrative games. Limbo, Inside, and Little Nightmares all struck the perfect chord with me. The reduction in scope allows me to relax, appreciate every screen, and get consumed by the different story-telling mechanics. I’m not sure how this game could disappoint me and I hope I never get an answer.
+I love these stylistic side-scrolling narrative games. Limbo, Inside, and Little Nightmares all struck the perfect chord with me. The reduction in scope allows me to relax, appreciate the beauty of every screen, and get consumed by the different story-telling and puzzle mechanics. I’m not sure how this game could disappoint me and I hope to never get an answer.
 
 ## 5. Sea of Stars
 
 ![Sea of Stars gameplay](/img/sea-of-stars-17_feature.png "Sea of Stars gameplay")
 
-This game looks awesome. The art is stunning. It sounds incredible. The turn-based combat looks fun. Sea of Stars jumped to the top of my most anticipated list as soon as I finished the trailer. No promises it will stay this high as the year goes on, but for now I’m riding high on it.
+This game looks fantastic. The art is stunning. It sounds incredible. The turn-based combat looks fun. Sea of Stars jumped to the top of my most anticipated list as soon as I finished the trailer. No promises it will stay in the top 5 as the year goes on, but for now, I’m riding high on it.
 
 ## 4. Hollow Knight Silksong
 
 ![Hollow Knight Silksong gameplay](/img/ss_4c9cc3320086b199da64a4283f45ff41fe873d5e.1920x1080.jpg "Hollow Knight Silksong gameplay")
 
-I almost left this game off the list because I just completely forgot about it. I’ve waited so long for this game that I’ve repressed it to avoid any more pain. This year is our year though. Hollow Knight Silksong *has* to be released this year, it’s only a matter of time.
+I almost left this game off the list because I just completely forgot about it. I’ve waited so long for this game that I’ve repressed it to avoid any more pain. This year is our year though. Hollow Knight Silksong *has* to be released in 2022, it’s only a matter of time.
 
-Last year they did a feature with Edge magazine and I was thinking, “This is it. They just did a huge cover story. This game has to be one or two months away, max”. Almost a year later and there’s still no sign of this game, but there’s no way they did a cover story for a game that wasn’t going to release for another two years...right?
+Last year they did a feature with Edge magazine and I was thinking, “This is it. They just did a huge cover story. This game has to be one or two months away, max”. Almost a year later and there’s still no sign of this game, but there’s no way they did a cover story for a game that wasn’t going to release for another two years...right...right??
 
-Hollow Knight is what I would consider the pinnacle of modern Metroidvanias. Its unique style and tight controls are unrivaled. I can’t understand how difficult making a follow-up to something like that must be, but I believe Team Cherry has done it, and we’ll be seeing for ourselves later this year.
+Hollow Knight is what I would consider the pinnacle of modern Metroidvanias. Its unique style and tight controls are unrivaled. I can’t understand how difficult it must be to create a follow-up to something like that, but I believe Team Cherry has done it, and we’ll be seeing for ourselves later this year.
 
 ## 3. Horizon Forbidden West
 
 ![Horizon Forbidden West in-game screenshot](/img/dbbef2c0-f164-11eb-97f7-812b4cf086e6.jpg "Horizon Forbidden West in-game screenshot")
 
-Alloy is back and better than ever is how I’d start a marketing pitch for this game. Seriously though, I had a blast with the first Horizon and this one just looks so much better. The suite of animations look awesome, the combat seems to be incredibly improved, the environments look beautiful and fresh, and the robo-dinos somehow look cooler than the group we had in the first game. With only a couple more weeks before release, my excitement is building. There’s a very good chance the first game I buy this year might end up being my game of the year. 
+"Alloy is back and better than ever!" is how I’d start a marketing pitch for this game. Seriously though, I had a blast with the first Horizon and this one just looks so much better. The suite of animations look awesome, the combat seems to be improved across the board, the environments look beautiful and fresh, and the robo-dinos somehow look cooler than the group we had in the first game. With only a couple more weeks before release, my excitement is building. There’s a very good chance the first game I buy this year might end up being my game of the year. 
 
 ## 2. Elden Ring
 
@@ -92,11 +93,11 @@ I can’t fight it any longer. I must give in to the hype. Coming off of my firs
 
 ![Starfield gameplay tease](/img/starfield_screen.png "Starfield gameplay tease")
 
-Unlike the previous 2 games on my list, I’m not positive Starfield will be a hit. It’s honestly a bit of a toss-up. Bethesda hasn’t released a single-player RPG in a *looong* time. They’re coming off the disaster launch that was Fallout 76. People are starting to wonder, does Bethesda still have the stuff?
+Unlike the previous 2 games on my list, I’m not positive Starfield will be a hit. It’s honestly a bit of a toss-up. Bethesda hasn’t released a single-player RPG in a *looong* time and they’re coming off the disaster launch that was Fallout 76. People are starting to wonder, does Bethesda still have the stuff?
 
 The thing is, they have Todd Howard. That’s like having 13 seconds on the clock with Patrick Mahomes. Even though things seem like they could be shaky, there’s also certain confidence knowing they have an industry legend at the helm. 
 
-I haven’t played an epic western RPG in so long. Cyberpunk 2077 was supposed to scratch that itch, but we all know how that went. So the weight falls on Starfield. If I’m being honest, the fact that we’ve seen so little is why this is my most anticipated game right now. All of the teases and developer interviews are working exactly as intended. The fact that they called their shot and put a date on the game, during the pandemic, over a year before the release was just so sick.  I can’t wait until we finally get our first deep dive into this game. 
+I haven’t played an epic western RPG in so long. Cyberpunk 2077 was supposed to scratch that itch, but we all know how that went, so the weight falls on Starfield. If I’m being honest, the fact that we’ve seen so little is why this is my most anticipated game right now. All of the teases and developer interviews are working exactly as intended. The fact that they called their shot and put a date on the game, during the pandemic, over a year before the release was just such a baller move. I can’t wait until we finally get our first deep dive into this game. 
 
 ## **Honorable Mentions**
 
@@ -113,4 +114,4 @@ I haven’t played an epic western RPG in so long. Cyberpunk 2077 was supposed t
 * Planet of Lana - I’m not sure what the gameplay is...but it looks neat
 * Little Devil Inside - The latest Playstation State of Play actually cooled me quite a bit on this game, but I’m keeping my eye on it
 * Stray - It looks cute, but I need to see real gameplay
-* Lego Star Wars: The Skywalker Saga - Looks incredible, but I don’t know if I’ll actually get around to playing it.
+* Lego Star Wars: The Skywalker Saga - Looks incredible, but I don’t know if I’ll actually get around to playing it

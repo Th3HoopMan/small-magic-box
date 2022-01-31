@@ -18,7 +18,7 @@ tags:
   - Rougelike
 category: Review
 ---
-At points, it seemed like it was a near-impossible task, but I finally beat **Returnal**. This game was a unique beast that I gained a lot of appreciation for by the time I had reached the credits. It comes packaged with exhilarating combat, interesting levels, and a mysterious story. While Returnal is certainly not for everyone, I ended up enjoying it much more than I initially expected. The (now Playstation-owned) studio Housemarque deserves a lot of praise for how they were able to evolve the roguelike genre with their latest project. 
+At points, it seemed like it was a near-impossible task, but I finally beat **Returnal**. This game was a unique beast that I gained a lot of appreciation for by the time I had reached the credits. It comes packaged with exhilarating combat, interesting levels, and a mysterious story. While Returnal is certainly not for everyone, I ended up enjoying it much more than I initially expected. The (now PlayStation-owned) studio Housemarque deserves a lot of praise for how they were able to evolve the roguelike genre with their latest project. 
 
 ## What Kind of Game is Returnal?
 
@@ -108,7 +108,7 @@ The game did a great job at upping the ante with each new level. The enemies got
 
 ## The Final Verdict
 
-Returnal is the first of its kind. A third person, over the shoulder, action/adventure shooter, mixed with a bullet-hell, rougelike. It’s an unexpected mutation of genres that turned out brilliantly. I know I may have sounded down on it at different points in this review, but in the end I came away feeling very satisfied.
+PlayStation has once again done what many other publishers have struggled with for years. They have added another creative IP into their exclusive stable of quality franchises. Returnal is the first of its kind. A third person, over the shoulder, action/adventure shooter, mixed with a bullet-hell, rougelike. It’s an unexpected mutation of genres that turned out brilliantly. I know I may have sounded down on it at different points in this review, but in the end I came away feeling very satisfied.
 
 The core gameplay is where this game shines. I can easily forgive most of my issues with the game when I get one of the most polished combat systems I've ever gotten to play with. I wish I could wax poetic about it for several more paragraphs but it would be a waste of my time. To truly understand what I mean you'll need to play it for yourself.
 

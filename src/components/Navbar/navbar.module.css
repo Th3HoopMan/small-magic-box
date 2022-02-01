@@ -125,6 +125,7 @@
   .navbarContainer {
     vertical-align: middle;
     border-bottom: 1px solid var(--secondary-site-color);
+    margin-bottom: var(--large-margins);
   }
 
   .navbarLinks {
@@ -143,6 +144,10 @@
 
   .navbarItem {
     font-weight: bold;
+  }
+
+  .navbarItem p {
+    margin: auto;
   }
 
   .navbarItem:hover {

@@ -9,12 +9,12 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    border-top: 1px black solid;
+    border-top: 1px var(--primary-site-color) solid;
 }
 
 .branding {
     display: flex;
-    margin: var(--small-margins);
+    margin: var(--medium-margins);
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -22,8 +22,9 @@
 
 .siteName {
     padding-right: var(--medium-margins);
+    margin: auto;
     margin-right: var(--small-margins);
-    border-right: 3px solid black;
+    border-right: 3px solid var(--secondary-site-color);
     font-weight: bold;
     font-size: var(--small-font);
 }

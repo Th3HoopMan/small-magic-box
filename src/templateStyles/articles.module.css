@@ -53,7 +53,9 @@
   }
 
   .articleDate {
-    margin: auto 0 auto auto;
+    margin: auto;
+    margin-left: var(--large-margins);
+    color: var(--primary-site-color);
     font-weight: bold;
   }
   

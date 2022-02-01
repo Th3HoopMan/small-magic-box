@@ -17,9 +17,9 @@ const ReviewPreview = ({ title, platforms, grade, slug }) => {
     >
       <div className={styles.details}>
         <h2>{title}</h2>
-        <h5>
+        <h3>
           {typeof platforms === "object" ? platforms.join(", ") : platforms}
-        </h5>
+        </h3>
       </div>
       <div className={styles.grade}>
         <h3>{grade}</h3>

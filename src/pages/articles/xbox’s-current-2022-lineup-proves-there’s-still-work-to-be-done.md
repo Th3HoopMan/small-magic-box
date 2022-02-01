@@ -42,7 +42,7 @@ This is in no way breaking news, we’ve known this was the situation since E3 (
 
 ## Xbox Has No Games
 
-For the entire Xbox One generation, Xbox has been fighting for its life to combat the “Xbox has no games” narrative. They’ve struggled to create exciting new IPs and failed to nurture the ones that they already have. Fortunately for them, they have an ace in the hole that no one else in the industry has. 
+For the entire Xbox One generation, Xbox has been fighting for its life to combat the “Xbox has no games” narrative. They’ve struggled to create exciting new IPs and failed to nurture the ones that they already have. Fortunately for them, they have an ace in the hole that no one else in the industry has: a trillion dollars. 
 
 Thanks to Microsoft’s practically limitless bank account, Xbox has finally defeated its demons. With the acquisition of studios like Double Fine, Ninja Theory, Playground Games, the entirety of Bethesda, and soon enough, Activision/Blizzard, it’s hard to argue that “Xbox has no games”. 
 

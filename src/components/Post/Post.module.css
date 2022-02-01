@@ -53,3 +53,8 @@
 .content li p {
   font-size: 1em;
 }
+
+.content a {
+  color: var(--primary-site-color);
+  text-decoration: none;
+}

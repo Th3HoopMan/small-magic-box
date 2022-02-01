@@ -13,28 +13,22 @@
     font-size: 3em;
   }
   
-  .content h2 {
-    font-size: 1.6em;
-    font-weight: bold;
-  }
-  
-  .content h3 {
-    font-size: var(--large-font);
-    font-weight: bold;
-  }
-
-  .content p {
-    font-size: var(--small-font);
+  .content {
+    margin-bottom: 75px;
+    padding: auto var(--small-margins);
   }
   
   .content img {
     width: 100%;
-    margin: var(--medium-margins) auto;
+    max-width: 600px;
+    margin: var(--medium-margins) 0;
+  }
+  
+  .content li p {
+    font-size: 1em;
   }
   
   .content a {
     color: var(--primary-site-color);
     text-decoration: none;
-    font-weight: bold;
   }
-  

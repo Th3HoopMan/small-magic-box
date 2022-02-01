@@ -142,10 +142,6 @@
     margin: auto var(--large-margins);
   }
 
-  .navbarItem {
-    font-weight: bold;
-  }
-
   .navbarItem p {
     margin: auto;
   }

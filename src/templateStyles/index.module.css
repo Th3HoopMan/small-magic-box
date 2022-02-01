@@ -1,6 +1,8 @@
 .container {
   display: flex;
   flex-direction: column;
+  margin: var(--medium-margins);
+
 }
 
 .opener {
@@ -26,10 +28,6 @@
 .learnMore {
   text-decoration: none;
   color: var(--primary-font-color);
-}
-
-.articlesSection {
-  margin-right: var(--medium-margins);
 }
 
 .learnMoreButton {

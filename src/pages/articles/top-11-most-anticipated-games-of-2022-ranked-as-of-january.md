@@ -33,15 +33,15 @@ Last summer I played a demo of Tunic and that game **kicked my butt.** The art s
 
 ## 10.  A Plague Tale: Requiem
 
-![A Plague Tale Requiem in game photo](/img/sxj7yptuxjxgxkzkszpikm.jpg "A Plague Tale Requiem in game photo")
+![A Plague Tale Requiem in-game photo](/img/sxj7yptuxjxgxkzkszpikm.jpg "A Plague Tale Requiem in-game photo")
 
 I had heard a lot of good things about A Plague Tale: Innocence, so when the team released a 4K patch last summer I took the opportunity to play through it. While the game wasn’t perfect, it featured a very unique gameplay style and a surprisingly compelling story. Asobo Studio brought the razzle-dazzle with [their trailer](https://www.youtube.com/watch?v=GlqJ6oKo8to) that was shown during the Microsoft Showcase last year. Couple that with the fact that it’s coming to GamePass and I’m in.
 
 ## 9. Shovel Knight Dig
 
-![Shovel Knight Dig in game photo](/img/shovel_knight_dig_08.png "Shovel Knight Dig in game photo")
+![Shovel Knight Dig in-game photo](/img/shovel_knight_dig_08.png "Shovel Knight Dig in-game photo")
 
-I’ve actually played this game. Yacht Club had a demo of it at PAX West 2019. It might have been the best game I played at PAX that year. If you had asked me after playing that currated slice of the game I would've told you it was practically done. That’s why I’m so shocked this game isn’t out yet. I’m not sure we’ve even heard anything about it since then. Fortunately, Yacht Club is making some announcements very soon, so by the time you read this, we may even have a solid release date.
+I’ve actually played this game. Yacht Club had a demo of it at PAX West 2019. It might have been the best game I played at PAX that year. If you had asked me after playing that curated slice of the game I would've told you it was practically done. That’s why I’m so shocked this game isn’t out yet. I’m not sure we’ve even heard anything about it since then. Fortunately, Yacht Club is making some announcements very soon, so by the time you read this, we may even have a solid release date.
 
 ## 8. Redfall
 

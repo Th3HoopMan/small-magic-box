@@ -10,6 +10,7 @@
     bottom: 0;
     right: 0;
     border-top: 1px var(--primary-site-color) solid;
+    margin-top: var(--medium-margins);
 }
 
 .branding {
@@ -34,7 +35,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: var(--small-margins);
+    margin-top: auto;
 }
 
 .socialIcons img{

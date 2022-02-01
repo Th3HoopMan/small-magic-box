@@ -6,7 +6,7 @@
     justify-content: flex-start;
     font-style: italic;
     vertical-align: middle;
-    margin-bottom: var(--small-margins);
+    margin: var(--medium-margins) 0 var(--small-margins);
   }
   
   .postMetadata span {

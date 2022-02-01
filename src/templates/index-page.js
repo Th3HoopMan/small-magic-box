@@ -49,11 +49,11 @@ export const IndexPageTemplate = ({ articles }) => {
             <p>View All Articles →</p>
           </Link>
         </section>
-      </div>
-      <div className={styles.sidebarContent}>
         <section className={styles.section}>
           <ReviewList />
         </section>
+      </div>
+      <div className={styles.sidebarContent}>
         <section>
           <Newsletter />
         </section>

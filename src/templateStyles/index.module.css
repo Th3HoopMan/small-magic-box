@@ -10,7 +10,6 @@
 
 .openerTitle {
   color: var(--primary-site-color);
-  max-width: var(--small-margins);
   margin: 0;
 }
 
@@ -21,7 +20,7 @@
 }
 
 .openerContent {
-  font-size: var(--medium-font);
+  font-size: var(--small-font);
 }
 
 .learnMore {
@@ -40,6 +39,7 @@
   border-radius: 7px;
   box-shadow: var(--box-shadow);
   margin: var(--large-margins) 0;
+  text-align: center;
 }
 
 .notNews {
@@ -58,10 +58,6 @@
   color: var(--default-text-colo);
 }
 
-.mainContent {
-  margin: 0 0 var(--content-margins);
-}
-
 .viewArticlesLink {
   text-decoration: none;
   color: var(--primary-site-color);
@@ -73,8 +69,8 @@
 
 .viewArticlesLink p {
   color: var(--primary-site-color);
-  margin: var(--small-margins) 0;
-  font-size: var(--very-small-font);
+  font-size: var(--small-font);
+  margin-bottom: 70px;
 }
 
 .sectionHeader {
@@ -107,5 +103,15 @@
   .opener {
     margin: var(--large-margins) var(--large-margins);
     margin-bottom: var(--very-large-margins);
+  }
+
+  .mainContent {
+    flex-grow: 2;
+    max-width: 70%;
+  }
+
+  .sidebarContent {
+    width: 25%;
+    flex-grow: 1;
   }
 }

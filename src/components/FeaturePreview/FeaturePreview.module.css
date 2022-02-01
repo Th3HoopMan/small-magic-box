@@ -9,6 +9,10 @@
   border-bottom: 1px solid var(--secondary-site-color);
 }
 
+.container:last-of-type {
+  margin-bottom: 0;
+}
+
 .container:hover {
   cursor: pointer;
 }
@@ -89,5 +93,6 @@
 @media only screen and (min-width: 1024px) {
   .container {
     margin: var(--large-margins) 0;
+    height: 230px;
   }
 }

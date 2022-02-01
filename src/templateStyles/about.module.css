@@ -13,7 +13,7 @@
 }
 
 .content {
-  padding: auto var(--small-margins);
+  padding: auto var(--large-margins);
 }
 
 .content img {

@@ -8,7 +8,6 @@
   width: var(--compact-preview-width);
   max-width: var(--compact-preview-max-width);
   margin: var(--medium-margins) 0;
-  min-width: 400px;
 }
 
 .container:hover {

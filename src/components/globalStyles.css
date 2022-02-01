@@ -24,6 +24,8 @@ html *
     --grade-width: 20%;
     --very-small-font: .9em;
     --small-font: 1.2em;
+    --article-font: 1em;
+
     --medium-font: 1.4em;
     --large-font: 1.5em;
     --very-large-font: 2em;

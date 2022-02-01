@@ -14,7 +14,7 @@ p, li {
   font-family: 'Roboto' !important;
   word-spacing: var(--deafult-word-spacing);
   max-width: var(--default-content-width);
-  font-size: var(--small-font);
+  font-size: var(--article-font);
   line-height: 1.5;
 }
 

@@ -51,7 +51,7 @@
 }
 
 .content li p {
-  font-size: 1em;
+  font-size: var(--article-font);
 }
 
 .content a {

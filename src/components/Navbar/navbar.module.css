@@ -124,6 +124,7 @@
 
   .navbarContainer {
     vertical-align: middle;
+    border-bottom: 1px solid var(--secondary-site-color);
   }
 
   .navbarLinks {

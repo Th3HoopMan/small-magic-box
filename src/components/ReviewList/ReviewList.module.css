@@ -21,11 +21,15 @@
 
 .link p {
   color: var(--primary-site-color);
-  font-size: var(--very-small-font)
+  font-size: var(--very-small-font);
 }
 
 @media only screen and (min-width: 1024px) {
   .container {
     flex-direction: row;
+  }
+
+  .sectionHeader {
+    width: 75%;
   }
 }

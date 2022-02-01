@@ -1,7 +1,7 @@
 .navbarContainer {
   display: flex;
   flex-direction: row;
-  padding: var(--small-margins) var(--medium-margins);
+  padding: var(--large-margins) var(--medium-margins);
   align-items: center;
 }
 
@@ -107,7 +107,6 @@
 
 .menuItem {
   font-size: var(--small-font);
-  font-weight: bold;
   color: var(--primary-site-color);
   padding-left: 15px;
 }

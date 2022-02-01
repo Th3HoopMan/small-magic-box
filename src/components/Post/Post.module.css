@@ -11,7 +11,7 @@
   color: var(--secondary-text-color);
   margin: var(--small-margins) 0 var(--large-margins);
   font-weight: normal;
-  font-size: 1.3em;
+  font-size: var(--small-font);
   max-width: var(--default-content-width);
 }
 

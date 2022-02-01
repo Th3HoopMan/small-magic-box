@@ -11,7 +11,7 @@ Cant Pause is not supposed to be an example of fine journalism. It’s supposed 
 
 # Who Runs This Site?
 
-My name is Joseph and I’m a Software Engineer currently living in Seattle. No surprise here, but I have an extreme passion for video games and the process of making them.
+My name is Joseph and I’m a Software Engineer currently living in Seattle. No surprise here, but I like video games.
 
 I love getting into the nitty-gritty of the video games industry. I love dissecting the most exciting upcoming projects, gaming-related business decisions, and where the industry is headed as a whole.
 
@@ -25,6 +25,6 @@ Now instead of posting a picture of me here, I’m going to post a picture of my
 
 # Let's Have a Discussion!
 
-At the end of the day, I just want to talk about video games. If you read an opinion you like (or dislike) go ahead and [tweet me about it](https://twitter.com/th3hoopman) so we can talk! If you want a more extended discussion, feel free to join[ the discord](https://discord.gg/mgkfacFZxk) I run with [my podcast](https://open.spotify.com/show/3oNzUYeq8gfRal3MpklVOH?si=b98d172f3c314ba6) cohost.
+At the end of the day, I just want to talk about video games. If you read an opinion you like (or dislike) go ahead and [tweet me about it](https://twitter.com/th3hoopman) so we can talk! If you want a more extended discussion, feel free to join [the discord](https://discord.gg/mgkfacFZxk) I run with [my podcast](https://open.spotify.com/show/3oNzUYeq8gfRal3MpklVOH?si=b98d172f3c314ba6) cohost.
 
 ![Kratos and Atreus talking in God of War](/img/nace5lcsfwsenknupkeja5.jpg "Kratos and Atreus talking in God of War")

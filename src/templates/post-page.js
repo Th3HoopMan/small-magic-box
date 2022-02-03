@@ -46,7 +46,7 @@ const ArticlesPage = ({ data }) => {
       <Seo
         customTitle={post.frontmatter.title}
         customDescription={post.frontmatter.tagline}
-        customImage={post.frontmatter.featuredimage.relativepath}
+        customImage={post.frontmatter.featuredimage.relativePath}
       />
 
       <PostTemplate

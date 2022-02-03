@@ -8,7 +8,7 @@ module.exports = {
     keywords: `video games, microsoft, xbox, playstation, sony, nintendo, PC, Steam, Valve, Epic, Marvel, Disney, Anime, Movies`,
     url: "https://www.cantpause.com", // No trailing slash allowed!
     twitterUsername: "@Th3Hoopman",
-    image: "src/img/CantPauseLogoV2.png",
+    image: "/PauseLogo.png",
   },
   plugins: [
     {

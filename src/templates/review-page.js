@@ -55,6 +55,8 @@ const ReviewPage = ({ data }) => {
       <Seo
         customTitle={post.frontmatter.title}
         customDescription={post.frontmatter.tagline}
+        customImage={post.frontmatter.featuredimage.relativepath}
+
       />
       <ReviewTemplate
         title={post.frontmatter.title}
@@ -90,6 +92,7 @@ export const reviewQuery = graphql`
         date
         imagealt
         featuredimage {
+          relativepath
           childrenImageSharp {
             gatsbyImageData
           }

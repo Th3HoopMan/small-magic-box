@@ -46,6 +46,7 @@ const ArticlesPage = ({ data }) => {
       <Seo
         customTitle={post.frontmatter.title}
         customDescription={post.frontmatter.tagline}
+        customImage={post.frontmatter.featuredimage.relativepath}
       />
 
       <PostTemplate
@@ -72,6 +73,7 @@ export const pageQuery = graphql`
         tagline
         date
         featuredimage {
+          relativePath
           childrenImageSharp {
             gatsbyImageData
           }

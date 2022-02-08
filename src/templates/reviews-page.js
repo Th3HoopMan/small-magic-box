@@ -107,7 +107,6 @@ export const reviewsQuery = graphql`
             }
             grade
             gametitle
-            platforms
             date
             imagealt
           }

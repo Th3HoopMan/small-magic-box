@@ -9,6 +9,7 @@ const ArticleList = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: DESC }
         filter: {
           frontmatter: {
             category: { in: ["Gaming", "Film and Tv", "Off Topic"] }

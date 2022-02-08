@@ -17,20 +17,13 @@
 
 .details {
   padding: var(--small-margins);
-  padding-bottom: var(--medium-margins);
   margin: auto 0;
 }
 
 .details h2 {
   font-size: var(--medium-font);
-  margin-bottom: 5px;
+  margin-bottom: auto var(--medium-margins);
   font-weight: bold;
-}
-
-.details h3 {
-  font-size: var(--small-font);
-  font-weight: normal;
-  margin: 0;
 }
 
 .grade {

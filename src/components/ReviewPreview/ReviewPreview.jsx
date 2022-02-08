@@ -2,7 +2,7 @@ import React from "react";
 import * as styles from "./ReviewPreview.module.css";
 import { navigate } from "gatsby";
 
-const ReviewPreview = ({ title, platforms, grade, slug }) => {
+const ReviewPreview = ({ title, grade, slug }) => {
   const navigateToReviewPage = () => {
     navigate(slug);
   };
@@ -17,9 +17,6 @@ const ReviewPreview = ({ title, platforms, grade, slug }) => {
     >
       <div className={styles.details}>
         <h2>{title}</h2>
-        <h3>
-          {typeof platforms === "object" ? platforms.join(", ") : platforms}
-        </h3>
       </div>
       <div className={styles.grade}>
         <h3>{grade}</h3>

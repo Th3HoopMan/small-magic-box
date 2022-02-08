@@ -1,5 +1,5 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 
 import Layout from "../components/Layout/Layout";
 import * as styles from "../templateStyles/review.module.css";
@@ -34,9 +34,9 @@ export const ReviewTemplate = ({
         />
         <ReviewPreview
           title={gameDetails.gameTitle}
-          platforms={gameDetails.platforms}
           grade={gameDetails.grade}
         />
+        <p>Want more insight in how I score games? Read my review guide which can be found <Link className={styles.link}  to="/review-guide">here</Link>.</p>
       </div>
 
       <div className={styles.additionContent}>
@@ -68,7 +68,6 @@ const ReviewPage = ({ data }) => {
         imagealt={post.frontmatter.imagealt}
         gameDetails={{
           gameTitle: post.frontmatter.gametitle,
-          platforms: post.frontmatter.platforms,
           grade: post.frontmatter.grade,
         }}
       />
@@ -85,7 +84,6 @@ export const reviewQuery = graphql`
         gametitle
         grade
         category
-        platforms
         tags
         title
         tagline

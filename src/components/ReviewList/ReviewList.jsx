@@ -9,6 +9,7 @@ const ReviewList = () => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: DESC }
         filter: { frontmatter: { category: { eq: "Review" } } }
       ) {
         edges {
@@ -17,7 +18,6 @@ const ReviewList = () => {
             frontmatter {
               gametitle
               grade
-              platforms
             }
             fields {
               slug
@@ -41,7 +41,6 @@ const ReviewList = () => {
       {reviews.map((review) => (
         <ReviewPreview
           title={review.gametitle}
-          platforms={review.platforms}
           grade={review.grade}
           slug={review.slug}
         />

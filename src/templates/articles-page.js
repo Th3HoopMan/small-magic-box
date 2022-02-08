@@ -116,7 +116,6 @@ export const articlesTemplateQuery = graphql`
             }
             grade
             gametitle
-            platforms
             date
           }
           fields {

@@ -35,7 +35,6 @@ const Search = ({ review = false, data, searchFilter }) => {
             {review && (
               <ReviewPreview
                 title={result.gametitle}
-                platforms={result.platforms}
                 grade={result.grade}
                 slug={result.slug}
               />

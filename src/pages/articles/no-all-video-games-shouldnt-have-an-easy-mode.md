@@ -21,7 +21,7 @@ Just like any form of media, video games can be both product and art at the same
 
 Personally, I believe video games are not much different than any other form of art. The one very big caveat is that some people just physically aren’t able to do certain things on a controller due to a disability or extreme discomfort. Let’s table that for the end of the discussion. There are players that just do not want to invest the time and effort to get good at one specific game in order to enjoy it. Just like some people don’t care to try and unravel a director’s vision from some artsy Oscar-Award nominated movie, or how some would rather not try and understand how certain abstract art is supposed to convey an artist’s inner thoughts.
 
-![Bloodborne blood moon](/img/fwvmfztus3xhkf4gktes3f.jpg "Bloodborne blood moon")
+![Bloodborne blood moon](/img/1_u___b_h_______b________.0.0.jpg "Bloodborne blood moon")
 
 If a game is too hard for some people, that’s okay.  Of course, that comes with the tradeoff of fewer people enjoying that body of work, but as long as the creator understands that going in I don’t see the issue. Every game does not need to be made to ensure anyone and everyone can complete it. Just like every song doesn’t need a clean version and every painting doesn’t need an in-depth explanation. It would be nice, sure, but it’s completely unnecessary. The fantastic thing about video games is that if a certain game is too hard, there is a neverending list of other games to choose from. 
 

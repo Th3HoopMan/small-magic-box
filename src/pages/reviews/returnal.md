@@ -6,7 +6,7 @@ date: 2022-01-25T07:50:38.501Z
 gametitle: Returnal
 platforms:
   - PS5
-grade: 8
+grade: "8"
 featuredimage: /img/735623-returnal-playstation-5-front-cover.jpg
 imagealt: Returnal Cover Art
 tags:

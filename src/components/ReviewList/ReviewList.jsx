@@ -16,6 +16,7 @@ const ReviewList = () => {
           node {
             id
             frontmatter {
+              date
               gametitle
               grade
             }

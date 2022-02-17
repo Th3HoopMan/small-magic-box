@@ -61,7 +61,7 @@ Outside of combat, the gameplay feels like you’re going through the motions. T
 
 This is what I meant when I said the gameplay felt dated. While there were some genuinely fun moments in combat, most of the mechanics just seemed like busy work in between story beats.
 
-![Marvels Guardians of the Galaxy combat](Marvel%E2%80%99s%20Guardians%20of%20the%20Galaxy%20739188fca41244edb681e091ab0892f0/combat.jpg "Marvels Guardians of the Galaxy combat")
+![Marvels Guardians of the Galaxy combat](/img/guardians-of-the-galaxy-combat.jpg "Marvels Guardians of the Galaxy combat")
 
 ## Rough Around the Edges
 
@@ -75,4 +75,4 @@ Unfortunately, I was brought down from my highs by rather underwhelming action-a
 
 I had a ton of fun because of how much I enjoyed the overall story and characters. I personally resonated strongly with the narrative so by personal standards this came in around the 8 range for me. Unfortunately, I can't give this game an 8 overall. I know if the story doesn’t hit for someone Marvel's Guardians of the Galaxy doesn’t have much left to stand on. For that, it’s a 7. It’s a game that deserves a chance from those interested, but the lack of depth and polish in the gameplay ultimately keeps a good game from being great.
 
-![Marvels Guardians of the Galaxy Cover Art](Marvel%E2%80%99s%20Guardians%20of%20the%20Galaxy%20739188fca41244edb681e091ab0892f0/guardians-of-the-galaxy-square-enix_0.jpg "Marvels Guardians of the Galaxy Cover Art")
+![Marvels Guardians of the Galaxy Cover Art](/img/social_share-i7tz7xcwn.png "Marvels Guardians of the Galaxy Cover Art")

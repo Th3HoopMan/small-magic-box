@@ -23,7 +23,7 @@ My biggest compliment to this game is that the map is stunning. It feels alive a
 
 ![Aloy using her grappling hook](/img/17f0e1ac09d96-screenshoturl.jpg "Aloy using her grappling hook")
 
-I found myself using this game’s photo mode more than any game I’ve ever played. Every few minutes I would stumble into a beautiful frame. Whether it was swimming in a sunken cavern, gliding over the landscape, or talking with characters in one of the numerous settlements scattered across the land. I was always excited to exist in this world.
+I found myself using this game’s photo mode more than any game I’ve ever played. Every few minutes I would stumble into a beautiful frame. Whether it was swimming in a sunken cavern, gliding over the landscape, or talking with characters in one of the numerous settlements scattered across the land. All of the pictures used in this review were from my personal playthrough. I honestly wish I had taken more to capture some of the other environments, but often times I was too engrossed in the game. I was always excited to exist in this world.
 
 ![Forbidden West at night](/img/17f6f9963e433-screenshoturl.jpg "Forbidden West at night")
 

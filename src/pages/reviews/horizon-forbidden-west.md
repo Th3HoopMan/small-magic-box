@@ -6,8 +6,8 @@ tagline: Aloy's latest journey outclasses Zero Dawn in every way, but also
 date: 2022-03-09T17:13:29.473Z
 gametitle: Horizon Forbidden West
 grade: "8"
-featuredimage: /img/17f0e1ac09d96-screenshoturl.jpg
-imagealt: Aloy using her grappling hook
+featuredimage: /img/17f0e1ae2b546-screenshoturl.jpg
+imagealt: Aloy overlooking the lands before the Forbidden West
 tags:
   - PS5
   - Horizon
@@ -21,7 +21,7 @@ Guerilla has returned to the stage with PlayStation’s premiere red-headed prot
 
 My biggest compliment to this game is that the map is stunning. It feels alive and lived-in. The numerous climates and geographical set pieces you encounter throughout the story are both soothing to look at and intriguing to explore. The different herds of machines that inhabit the wild areas mimic a futuristic episode of Planet Earth. The several tribes that lay claim to the varying terrains are thoughtfully integrated into their environments. It’s almost as if the map is a character itself.
 
-![Aloy overlooking the lands before the Forbidden West](/img/17f0e1ae2b546-screenshoturl.jpg "Aloy overlooking the lands before the Forbidden West")
+![Aloy using her grappling hook](/img/17f0e1ac09d96-screenshoturl.jpg "Aloy using her grappling hook")
 
 I found myself using this game’s photo mode more than any game I’ve ever played. Every few minutes I would stumble into a beautiful frame. Whether it was swimming in a sunken cavern, gliding over the landscape, or talking with characters in one of the numerous settlements scattered across the land. I was always excited to exist in this world.
 
@@ -70,8 +70,6 @@ Unfortunately, it seems like the story suffered the same issue as the rest of th
 ## Horizon Forbidden is Extremely Over-Engineered
 
 I heard the content creator [SkillUp](https://www.youtube.com/watch?v=xdFGdR28Gp8) call Horizon Forbidden West “over-engineered” at one point during his review and I felt like that description perfectly summed up all my major complaints with the game. It’s just doing too much. It seems like the game can’t get out of its own way at times, and as a result, my enjoyment of the game suffered.
-
-
 
 ![Aloy hiding from danger](/img/17f6f906f091-screenshoturl.jpg "Aloy hiding from danger")
 

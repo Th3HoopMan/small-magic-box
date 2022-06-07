@@ -23,7 +23,7 @@ const SEO = ({ customTitle, customDescription, customImage = null, article = fal
     title,
     titleTemplate,
     description,
-    siteUrl,
+    url,
     image,
     twitterUsername,
   } = data.site.siteMetadata;
@@ -38,8 +38,8 @@ const SEO = ({ customTitle, customDescription, customImage = null, article = fal
   const seo = {
     title: customTitle || title,
     description: customDescription || description,
-    image: `${siteUrl}${customImage || image}`,
-    url: `${siteUrl}${pathname}`,
+    image: `${url}${customImage || image}`,
+    url: `${url}${pathname}`,
   };
   return (
     <Helmet title={seo.title} titleTemplate={template}>

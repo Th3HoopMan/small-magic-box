@@ -38,7 +38,7 @@ const SEO = ({ customTitle, customDescription, customImage = null, article = fal
   const seo = {
     title: customTitle || title,
     description: customDescription || description,
-    image: `${url}${customImage || image}`,
+    image: `${url}/img/${customImage || image}`,
     url: `${url}${pathname}`,
   };
   return (

@@ -1,6 +1,6 @@
 ---
 templateKey: post-page
-title: Summer Game Fest 2022 Proves E3’s Crown Up is still Up for Grabs
+title: Summer Game Fest 2022 Proves E3’s Crown up Is Still up for Grabs
 tagline: Have we lost all of the hype that the E3 Week schedule used to bring?
 date: 2022-06-10T01:13:41.874Z
 featuredimage: /img/summer-game-fest-2022.jpeg

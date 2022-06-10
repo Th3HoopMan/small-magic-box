@@ -21,12 +21,42 @@ It’s no secret that just like everything else, Covid threw game development in
 
 This of course means that Geoff and Summer Games Fest take a major blow, as he can’t take the year off. Many people are still on the fence about whether or not he can truly usurp E3, or if Summer Games Fest will just become additional noise among the big publisher conferences. With so many developers left with almost nothing to announce, there wasn’t much to pull from. I’m almost positive that in a traditional year Geoff would have been able to pull together maybe 2-3x times the announcements and premieres that he did this year.
 
+
+
+![Replaced Game](/img/ss_41f681548de388a477a1f930fe3b3997a912098a.jpeg "Replaced Game")
+
+
+
 Even without Covid, how is Summer Game Fest supposed to match the hype of the best E3 conferences? Putting on a two hour long showcase creates expectations, and I’m sorry to say those expectations are astronomically high. The best years of E3 were headlined by first party conferences. They were delivered by companies that have complete and total control over when and how to show the most of the anticipated games of the year. Geoff is completely dependent on others for content. That’s why he got [steam rolled by PlayStation this year](https://cantpause.com/articles/playstation%E2%80%99s-state-of-play-set-a-high-bar-for-not-e3-week/).
+
+
+
+![Playstation State of Play](/img/state-of-play-june-22.jpeg "Playstation State of Play")
+
+
 
 Summer Game Fest Live was supposed to be the summer kickoff event, but PlayStation had a State of Play a week earlier that was only 3rd party announcements, and premiered all of the best games at Summer Game Fest and then some. Geoff needs those premieres for Summer Game Fest to be a success, otherwise, he should just host and commentate over showcases for PlayStation and Microsoft. PlayStation not only used their marketing to secure all of these announcements, but the morning of the showcase they [leaked the last big announcement he had](https://www.ign.com/articles/last-of-us-ps5-remake-leaks-part-1-september-release-date)! I don’t want to run with clickbait narratives but I think that PlayStation single handedly ruined any hype that could have been attached to Summer Games Fest. That’s why I hope in the future Geoff earn’s the trust of these 3rd party publishers to be the single source for their announcements. Convince EA and Ubisoft to come to you instead of doing their own thing or going to first party stages, pull in long awaited titles like Elden Ring and Silk Song, these are the things that will make people say “Summer Game Fest is must watch TV”.
 
+
+
+![Silk Song ](/img/fpkbja7bxmsagldz2tzwje.jpeg "Silk Song ")
+
+
+
 I want to end this rant by saying that the pacing of these shows will be their downfall. I’m not sure how many more 2 hour shows with barely any new content I can do. This showcase should have been an hour. Add a pre-show and post-show or whatever needs to be done to pay the bills, but cut the show down. The [Day of the Devs](https://www.polygon.com/23160020/summer-game-fest-day-of-the-devs-double-fine-iam8bit) and the [Devolver showcases](https://www.ign.com/articles/devolver-summer-showcase-2022-everything-announced-revealed) felt much more enjoyable because they were better paced, which is wild because I’m pretty sure Devolver only showed like 2 new games. Geoff knows what the internet wants to see most. Focus on that. Show other games in some live coverage after the event. Give us smaller chunks of content on Youtube leading up to the big show. Whatever you do, cut the show down if they are going to have announcements like we’ve gotten the past couple years.
 
-On a positive note I will say I enjoyed some moments of the show. Seeing Call of Duty, Calisto Protocol, and Cuphead gameplay during the show were definitely fun highlights. It’s nice to see actual gameplay at these events. I also want to shout out The Last of Us Part One announcement, which would have been a big get if PlayStation hadn’t leaked it the morning of the event. There were also some cool previews of games like Midnight Fight Express and Routine.
+
+
+![Planet of Lana](/img/share_image.jpeg "Planet of Lana")
+
+
+
+On a positive note I will say I enjoyed some moments of the show. Seeing Call of Duty, Calisto Protocol, TMNT, and Cuphead gameplay during the show were definitely fun highlights. It’s nice to see actual gameplay at these events. I also want to shout out The Last of Us Part One announcement, which would have been a big get if PlayStation hadn’t leaked it the morning of the event. There were also some cool previews of games like Midnight Fight Express and Routine.
+
+
+
+![Midnight Fight Express](/img/mfe1.jpeg "Midnight Fight Express")
+
+
 
 I wish Geoff the best in his future attempts at the Summer Game Fest Kickoff event. I think Game Awards have become a great annual event, but I can’t say the same about Summer Game Fest. As of now, I’m convinced all we need is for Sony, Microsoft, and Nintendo showcases in one weekend like we used to get. That or really no hype around the summer at all.

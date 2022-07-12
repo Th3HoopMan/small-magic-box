@@ -1,0 +1,41 @@
+---
+templateKey: review-page
+title: "Should You Play Death Stranding: Director’s Cut?"
+tagline: Death Stranding was at times one of the most boring AAA games I’ve ever
+  played, at other times it was one of my favorites.
+date: 2022-07-12T16:13:24.047Z
+gametitle: "Death Stranding: Director's Cut"
+grade: "7"
+featuredimage: /img/181f3201e7765-screenshoturl.jpg
+imagealt: Sam Porter climbing up a snowy mountain
+category: Review
+---
+With its addition to the PS Plus Extra tier on the newly rebranded PlayStation Plus service, I decided to finally see what all the hype around Death Stranding was. When it was originally released I remembered it being quite polarizing. Some people were claiming it was another Hideo Kojima masterpiece while others criticized it for being no more than a walking simulator with cutscenes. Having never played a Hideo Kojima game before, for years now I’ve been wondering which side of the debate I would fall on, and now I finally have my answer.
+
+Truth be told, I thought that most of Death Stranding did not make for a very fun video game. I would go as far as to say that most people that play games, both frequently and infrequently, will probably not enjoy this game. I found that the core gameplay loop was monotonous and stressful, which ended up being a rather unpleasant mix that felt like it was made to be endured as opposed to enjoyed. That being said, the video game design nerd in me had moments of pure joy dissecting some of the innovative choices that were put into this game. Couple that with a convoluted yet engaging story highlighted by stellar acting performances and I am happy to say I came away with a lot of positives to balance the negatives.
+
+![Sam scaling down a mountain](/img/181f32039647-screenshoturl.jpg "Sam scaling down a mountain")
+
+To set the stage, Death Stranding is centered around a man by the name of Sam Porter Bridges (played by Norman Reedus). Being a porter, one of the few people that brave the outdoors to deliver packages and supplies to people around the country, he is tasked to stop by and connect dozens of different bunkers across America to bring online something called the Chiral Network (effectively the internet) in the last-ditch hope to save society from collapsing. During his journey, he must go face to face with what are essentially crazed UPS lunatics that want to steal your packages, full-blown terrorists, as well as otherworldly beings called B.T.s that pose a threat to the entirety of mankind. This is quite literally the bare minimum of an overview as the story has what seems like a million twists and turns surrounding naked babies in pods, masked people with super powers, and little bug snacks.
+
+![Sam on a motorbike in the intro](/img/181f32085a770-screenshoturl.jpg "Sam on a motorbike in the intro")
+
+Let’s start with the negative and end this review positively. I found the majority of this game boring. Carrying packages to a ton of generic-looking NPCs with generic side stories felt excruciating every time. For most of the game, the journey is tedious. The mechanics go into extreme detail to allow players to manage weight and balance Sam while he’s moving. The slightest shift in weight or hitch on a rock can send Sam tumbling with all of his packages flying off his back. Add the stress of weather that corrodes everything you’re carrying, hostile enemies trying to steal your deliveries, and B.T. zones that kill any momentum you have and you end up with rather a dull and frustrating loop for the majority of the game. I legitimately felt like dropping the game roughly 3 hours in. The daggers that almost sent me over the edge were the several moments where you’re tasked to backtrack on your journey for generic NPC #456 because he doesn’t like the internet for whatever reason so you need to pick up a 100lb sack of rocks to earn his trust. Just absolutely brutal gameplay choices that seem like they only exist to lengthen the game.
+
+![Sam talking to Geoff Keighly NPC](/img/181f320465a98-screenshoturl.jpg "Sam talking to Geoff Keighly NPC")
+
+Luckily, one of the best aspects of Death Stranding is the features that let you skip most of the core gameplay. As you progress, you acquire tools that help you manage the terrain and circumvent many of the painful obstacles the game throws your way. You can place ladders, ropes, tuning forks that launch you across the map, trucks, motorcycles, and even highways. Right when I was about to drop the game due to some backtracking request, I unlocked a truck that allowed me to bulldoze my way through the terrain and get to my destination in about a quarter of the time. To take things a step further, the game has a unique co-op factor that allows you to see other players’ structures in your game. So often you’ll come across a vehicle or a structure that makes traveling significantly easier. This is one of the things that gave me a new appreciation for Kojima’s game design. I have no clue how this online system manages which user structures to show you but I am amazed to see how flawless it felt. You would expect that years after the game was released you’d see maps littered with both helpful and unhelpful structures on top of one another, but my game truly felt people before thoughtfully let tools for future travelers.
+
+![Sam slingshotting across the map](/img/181f3202a2015-screenshoturl.jpg "Sam slingshotting across the map")
+
+While I feel like to the untrained eye Death Stranding might just feel like an overly realistic climbing simulator, I do believe it is a master class in game design. Not only does it introduce a quite remarkable and unique co-op experience, but it also does so much more. For starters, Kojima essentially creates a completely new style of gameplay. To build a AAA game from scratch that stands upon these weight and traversal mechanics that are different than anything being done right now is astounding. The way that everything interacts from a gameplay perspective with little to no friction is mind-blowing. Especially when you realize it copies very little from the popular third and first-person adventure games that are popular today.
+
+![Dark blue landscape](/img/181f32078d674-screenshoturl.jpg "Dark blue landscape")
+
+When I learned the game was built upon the Decima Engine (The game engine used to build Horizon Zero Dawn and Forbidden West) I was pretty shocked. At the moment it truly felt like this game blew Horizon and most other franchises out of the water (Note: Looking back on it [Horizon Forbidden West](https://cantpause.com/reviews/horizon-forbidden-west/) was quite a beautiful game). The landscape was beautifully striking, especially since it was modeled after Iceland, a gorgeous country that I visited earlier this year. The rocks, the water, the snow, and the mud, all looked fantastic at a crisp 60 fps. Even the facial capture was incredible. The facial features of the main characters mimicked their real-life models which only enhanced all of the incredible performances that were given. For this to be the first project that Kojima Productions has put out, I’m not sure I could be more impressed.
+
+![Sam Porting sprinting in an open field](/img/181f32010bb77-screenshoturl.jpg "Sam Porting sprinting in an open field")
+
+By the time my journey with Death Stranding had come to an end, I was pleasantly surprised. The game offered much more than I could have initially guessed and there were quite a few surprising and enjoyable moments along the way. The highlights for me were the story and accompanying performances, as well as some of the truly wild gameplay moments the structures and tools provided me. Sadly though, I don’t think I can recommend this game to most people. Despite the praise I have for the game design, it still stands that most of the core gameplay is not very fun. I would have rather watched a full-length Death Stranding movie of spliced cutscenes that was bundled with a 5-hour game than play over 20 hours of the actual game. It is an experience overrun by filler content to add tension, meaning, and pacing to the cinematic and online experiences, and that is something I cannot overlook. Death Stranding gets a 7 from me.
+
+![Death Stranding title card](/img/181f3206d0e55-screenshoturl.jpg "Death Stranding title card")

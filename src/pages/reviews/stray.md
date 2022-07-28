@@ -1,6 +1,6 @@
 ---
 templateKey: review-page
-title: S
+title: Should You Play Stray?
 tagline: Stray is a charming cat game with a substance issue.
 date: 2022-07-28T04:33:53.676Z
 gametitle: Stray

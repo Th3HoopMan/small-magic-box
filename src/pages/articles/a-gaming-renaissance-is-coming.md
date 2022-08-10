@@ -1,7 +1,7 @@
 ---
 templateKey: post-page
 title: A Gaming Renaissance is Coming
-tagline: Studios are gearing to fight for the "Best of the Best" Crown
+tagline: Studios are gearing to fight for the "Best of the Best" crown.
 date: 2022-08-10T02:57:26.348Z
 featuredimage: /img/eldenringscreenshot.jpg
 imagealt: Elden Ring looking at dragon
@@ -19,8 +19,6 @@ Before you fall out of your chair to argue your favorite indie game like the upc
 
 The problem is that indie games very rarely get a chance to make it in front of the casual gamer. It’s really the AAA games with big marketing budgets that are the face of video games to the outside world, and these are the exact ones that need a makeover. To be even more specific, it’s the 3rd party companies that refuse to change that need to take action. For the most part, Microsoft, PlayStation, and Nintendo are all trying their own strategies to innovate and stay relevant, but it seems like many of the once well-regarded 3rd party companies are frozen in place.
 
-<https://www.notion.so>
-
 I’m genuinely bummed at how many uninspired sequels and remakes we’ve been getting lately. The AAA release calendar for any given year might as well be:
 
 * [Annual Call of Duty Installment](https://www.gamespot.com/articles/cod-modern-warfare-2-multiplayer-warzone-2-0-reveals-coming-in-september/1100-6506221/)
@@ -30,7 +28,9 @@ I’m genuinely bummed at how many uninspired sequels and remakes we’ve been g
 * [Beloved Franchise Is Now A Game That Has A 10-Year Plan](https://www.destructoid.com/halo-infinite-is-apparently-the-start-of-the-next-10-years-of-halo-with-no-sequel-plans/)
 * [Live Service Game That Never Goes Live Or Only Lasts For A Couple Months](https://www.bloomberg.com/news/articles/2021-11-03/take-two-s-2k-cancels-53-million-game-from-developer-hangar-13)
 
-<https://giphy.com/embed/d10dMmzqCYqQ0>
+
+
+![Micheal Scott No](/img/michealscottno.gif "Micheal Scott No")
 
 This sucks, it’s boring, and it doesn’t really motivate me to give my money to these companies. Everybody loses. I hate to be that old guy saying “back in my day”, but there was a Golden Age of new IPs where we were getting multiple creative debuts like BioShock, MassEffect, DeadSpace, Assassin’s Creed, Fable, and Batman Arkham (Just to name a few) per year. Something has to change.
 

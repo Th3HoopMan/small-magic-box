@@ -21,7 +21,7 @@ const SocialIcons = () => {
       >
         <img src={spotifyLogo} alt="Spotify Logo" />
       </a>
-      <a href="mailto:joseph@cantpause.com">
+      <a href="mailto:joseph.cantpause@gmail.com">
         <img src={emailLogo} alt="Email Logo" />
       </a>
     </div>

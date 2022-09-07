@@ -4,7 +4,7 @@ platforms:
   - Playstation
   - PC
 templateKey: review-page
-title: Marvel’s Guardians of the Galaxy Deserves a Chance
+title: "Marvel’s Guardians of the Galaxy: A Game That Deserves a Chance"
 tagline: A mediocre game is elevated by it's fantastic narrative and music.
 date: 2022-02-07T06:18:21.611Z
 gametitle: Marvel's Guardians of the Galaxy

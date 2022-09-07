@@ -3,7 +3,7 @@ templateKey: post-page
 title: "PAX West 2022: 10 Games I’m Ready to Buy Right Now"
 tagline: Here are some of my favorite games from PAX West 2022
 date: 2022-09-07T22:37:37.734Z
-featuredimage: /img/pax-west-logo-yearless.png
+featuredimage: /img/pol_screenshot_17.jpg
 imagealt: Pax West Logo
 tags:
   - PaxWest

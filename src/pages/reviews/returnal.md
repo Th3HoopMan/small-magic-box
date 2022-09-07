@@ -1,11 +1,11 @@
 ---
+platforms:
+  - PS5
 templateKey: review-page
-title: Returnal Guards A Fantastic Roguelike Behind A High Barrier To Entry
+title: "Returnal Review: A Fantastic Roguelike Guarded Behind A High Barrier To Entry"
 tagline: What the hell is up with that astronaut?
 date: 2022-01-25T07:50:38.501Z
 gametitle: Returnal
-platforms:
-  - PS5
 grade: "8"
 featuredimage: /img/735623-returnal-playstation-5-front-cover.jpg
 imagealt: Returnal Cover Art

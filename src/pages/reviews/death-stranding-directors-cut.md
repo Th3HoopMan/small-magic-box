@@ -1,6 +1,7 @@
 ---
 templateKey: review-page
-title: "Should You Play Death Stranding: Director’s Cut?"
+title: "Death Stranding: Director’s Cut Review: Just a Bit of Fun Gameplay Shy
+  From a Masterpiece"
 tagline: Death Stranding was at times one of the most boring AAA games I’ve ever
   played, at other times it was one of my favorites.
 date: 2022-07-12T16:13:24.047Z

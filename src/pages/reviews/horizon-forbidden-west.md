@@ -1,6 +1,6 @@
 ---
 templateKey: review-page
-title: Horizon Forbidden West is a Fantastic Sequel That Tries Too Much
+title: "Horizon Forbidden West Review: A Fantastic Sequel That Tries Too Much"
 tagline: Aloy's latest journey outclasses Zero Dawn in every way, but also
   includes a lot of mediocre open-world fluff.
 date: 2022-03-09T17:13:29.473Z

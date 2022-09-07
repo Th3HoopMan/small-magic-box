@@ -1,6 +1,6 @@
 ---
 templateKey: review-page
-title: Should You Play Cult of the Lamb?
+title: "Cult of the Lamb Review: Indoctrinating Never Felt So Good"
 tagline: Cult of the Lamb poises itself as the indie game of the year.
 date: 2022-08-19T02:43:21.015Z
 gametitle: Cult of the Lamb

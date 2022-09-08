@@ -171,6 +171,28 @@ Publisher: Thunderful
 
 Movement. That’s the standout here. It feels incredible to traverse the map in this game. When trying to come up with comparisons I could only think of swinging through NYC as Spiderman. Within minutes of learning the controls I was diving from atop tall structures and doing flips and flourishes without breaking my momentum. It was nothing less than cathartic. The story seems like a rather mild adventure with some light themes sprinkled on top, almost the exact same vibe as another Thundeful joint, [The Gunk](https://www.ign.com/articles/the-gunk-review). And while The Gunk didn’t quite speak to me, I am already missing my time with Wave Tale and will no doubt pick this game up when it releases on more platforms.
 
+
+
+### Melatonin
+
+![Melatonin trailer gif](/img/melatonin__official_release_date_trailer__summer_of_gaming_.gif "Melatonin trailer gif")
+
+Release Date: Late 2022
+
+Platforms: PC, Switch
+
+Developer: Half Asleep
+
+Publisher: Half Asleep
+
+[Steam Link (Wishlist to Support the Team!)](https://store.steampowered.com/app/1585220/Melatonin/)
+
+Keen-eyed readers and math savants alike will notice there are 11 titles listed instead of 10 because I decided I couldn’t leave this next game off. That weekend of PAX no discussion could end without mention of Melatonin, literally, everyone was talking about it. Melatonin is a soothing rhythm game that takes inspiration from old-school titles like Rhythm Heaven, presenting timing challenges in an assortment of dream-like settings. To be honest, I’m somewhat convinced it was developed by a magical person because everyone that played it seemed to be mesmerized and glued to the screen, including myself. Within minutes the soft color palette, simple gameplay, and absolutely stellar soundtrack came together to transport me to a place where it was just me and positive vibes.
+
+My favorite aspect of the gameplay was that it didn’t follow the traditional formula of prompting the user of the upcoming rhythm with a scrolling track. Instead, the game opts to teach the user patterns through the use of visual cues. This not only makes some of the levels a little more challenging but also declutters the screen and allows the user to immerse themselves in the music and art. I can’t wait to get my hands on the full product later this year.
+
+
+
 ## Honorable Mentions
 
 I played over 20 games at PAX and I can’t cover them all in this one article. As I said, I’ll try and continue coverage through the site and the [Player Player podcast](https://podcasts.apple.com/us/podcast/player-player-a-video-game-podcast/id1407038144) over the coming weeks and months. Until then, here are some additional games that I thought were pretty fun or interesting.

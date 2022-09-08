@@ -171,9 +171,9 @@ Publisher: Thunderful
 
 Movement. That’s the standout here. It feels incredible to traverse the map in this game. When trying to come up with comparisons I could only think of swinging through NYC as Spiderman. Within minutes of learning the controls I was diving from atop tall structures and doing flips and flourishes without breaking my momentum. It was nothing less than cathartic. The story seems like a rather mild adventure with some light themes sprinkled on top, almost the exact same vibe as another Thundeful joint, [The Gunk](https://www.ign.com/articles/the-gunk-review). And while The Gunk didn’t quite speak to me, I am already missing my time with Wave Tale and will no doubt pick this game up when it releases on more platforms.
 
-
-
 ### Melatonin
+
+![Melatonin trailer gif](/img/melatonin__official_release_date_trailer__summer_of_gaming_.gif "Melatonin trailer gif")
 
 Release Date: Late 2022
 

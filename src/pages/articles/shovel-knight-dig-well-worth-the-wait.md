@@ -1,10 +1,10 @@
 ---
 templateKey: post-page
-title: "Shovel Knight Dig: Well Worth The Wait"
+title: "Shovel Knight Dig: Well Worth The Wait (Review in Progress)"
 tagline: In typical Yacht Club fashion it seems like they have delivered a
   product well worth your money
 date: 2022-09-22T19:26:51.865Z
-featuredimage: /img/shovelknightdigimpressionsthumbnail.png
+featuredimage: /img/shovelknightdigimpressionsthumbnail2.png
 imagealt: Shovel Knight finds a special item
 tags:
   - YachtClubGames

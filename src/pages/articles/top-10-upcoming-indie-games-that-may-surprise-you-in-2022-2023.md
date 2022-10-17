@@ -15,17 +15,11 @@ category: Gaming
 ---
 N﻿ow that I have my Steam Deck I feel like the world is my oyster. Except by "world" I mean video game catalog. I played a ton of demos during Steam Next Fest and was shocked at how much fun I was having. Everything ran great on the Steam Deck and I would say 75% of the games made it on my wishlist.
 
+I﻿ curated the top 10 best games based on the demos I played and compiled them into the video below. 
 
-
-I﻿ curated the top 10 best games based on the demos I played and compiled them into the video below. \
-\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTeCNmLg3UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfLzJ_t9O8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I highly encourage you to watch (and subscribe), but in case you don't have time find the full list below. Most games have demos out on Steam so you can try most of them yourself.
-
-
 
 * The Entropy Centre - https://store.steampowered.com/app/1730590/The_Entropy_Centre/ 1:31
 * Wildfrost - https://store.steampowered.com/app/1811990/Wildfrost/

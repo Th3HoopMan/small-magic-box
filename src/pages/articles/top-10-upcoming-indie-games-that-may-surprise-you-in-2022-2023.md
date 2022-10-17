@@ -3,7 +3,7 @@ templateKey: post-page
 title: Top 10 Upcoming Indie Games That May Surprise You in 2022 & 2023
 tagline: I played over a dozen demos during Steam Next Fest, these were my favorites
 date: 2022-10-17T17:20:01.696Z
-featuredimage: /img/thumbnail6.jpg
+featuredimage: /img/thumbnail3.jpg
 imagealt: Screenshot of The Entropy Centre asking if It's The Best Indie of the Year
 tags:
   - IndieGames

@@ -2,7 +2,7 @@
 templateKey: review-page
 title: "Kena: Bridge of Spirits Review: Some Fantastic Parts of an Underwhelming
   Whole"
-tagline: The combat completely my deflated experience
+tagline: The combat completely my deflated experience.
 date: 2022-10-18T05:16:50.028Z
 gametitle: "Kena: Bridge of Spirits"
 grade: "6"

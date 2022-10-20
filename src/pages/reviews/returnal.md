@@ -2,8 +2,8 @@
 platforms:
   - PS5
 templateKey: review-page
-title: "Returnal Review: A Fantastic Roguelike Guarded Behind A High Barrier To Entry"
-tagline: What the hell is up with that astronaut?
+title: Returnal Review
+tagline: A fantastic roguelike guarded behind a high barrier to entry.
 date: 2022-01-25T07:50:38.501Z
 gametitle: Returnal
 grade: "8"

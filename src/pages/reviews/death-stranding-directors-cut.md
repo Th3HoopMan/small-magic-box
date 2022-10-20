@@ -1,9 +1,8 @@
 ---
 templateKey: review-page
-title: "Death Stranding: Director’s Cut Review: Just a Bit of Fun Gameplay Shy
-  From a Masterpiece"
-tagline: Death Stranding was at times one of the most boring AAA games I’ve ever
-  played, at other times it was one of my favorites.
+title: "Death Stranding: Director’s Cut Review"
+tagline: Death Stranding was at times one of the most fun AAA games I’ve ever
+  played, but at most of the time it was one of the most boring..
 date: 2022-07-12T16:13:24.047Z
 gametitle: "Death Stranding: Director's Cut"
 grade: "7"

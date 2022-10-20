@@ -1,7 +1,8 @@
 ---
 templateKey: review-page
-title: "Elden Ring Review: A Master Class in Open World Design"
-tagline: This is the best open world game ever made.
+title: Elden Ring Review
+tagline: This is the best open world game ever made. A master class in open
+  world design.
 date: 2022-06-07T05:22:28.989Z
 gametitle: Elden Ring
 grade: "10"

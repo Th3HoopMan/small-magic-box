@@ -1,7 +1,8 @@
 ---
 templateKey: review-page
-title: "Cult of the Lamb Review: Indoctrinating Never Felt So Good"
-tagline: Cult of the Lamb poises itself as the indie game of the year.
+title: Cult of the Lamb Review
+tagline: Indoctrinating Never Felt So Good. Cult of the Lamb poises itself as
+  the indie game of the year.
 date: 2022-08-19T02:43:21.015Z
 gametitle: Cult of the Lamb
 grade: "8"

@@ -1,7 +1,8 @@
 ---
 templateKey: review-page
 title: "Kena: Bridge of Spirits Review"
-tagline: " A game with some fantastic parts that can't outshine an underwhelming whole."
+tagline: " A game with some fantastic parts that can't compensate an
+  underwhelming whole."
 date: 2022-10-18T05:16:50.028Z
 gametitle: "Kena: Bridge of Spirits"
 grade: "6"

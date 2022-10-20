@@ -1,6 +1,6 @@
 ---
 templateKey: review-page
-title: "Stray Review: A Great Cat Game and an Okay Video Game"
+title: Stray Review
 tagline: Stray is a charming cat game with a substance issue.
 date: 2022-07-28T04:33:53.676Z
 gametitle: Stray

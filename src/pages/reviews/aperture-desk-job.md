@@ -1,7 +1,8 @@
 ---
 templateKey: review-page
-title: "Aperture Desk Job: Top 5 Pack-In of All Time?"
-tagline: Valve does not miss. They're automatic with it at this point.
+title: Aperture Desk Job Review
+tagline: Top 5 Pack-In of All Time? Valve does not miss. They're automatic with
+  it at this point.
 date: 2022-10-04T20:23:39.960Z
 gametitle: Aperture Desk Job
 grade: "9"

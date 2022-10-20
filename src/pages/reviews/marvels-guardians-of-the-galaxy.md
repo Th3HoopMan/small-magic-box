@@ -4,8 +4,8 @@ platforms:
   - Playstation
   - PC
 templateKey: review-page
-title: "Marvel’s Guardians of the Galaxy Review: A Game That Deserves a Chance"
-tagline: A mediocre game is elevated by it's fantastic narrative and music.
+title: Marvel’s Guardians of the Galaxy Review
+tagline: Fantastic narrative and music elevates an otherwise mediocre game.
 date: 2022-02-07T06:18:21.611Z
 gametitle: Marvel's Guardians of the Galaxy
 grade: "7"

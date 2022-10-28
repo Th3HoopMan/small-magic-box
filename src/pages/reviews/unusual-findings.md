@@ -6,10 +6,14 @@ tagline: A great introduction to modern point and clicks with a ton of fun (and
 date: 2022-10-28T06:48:42.730Z
 gametitle: Unusual Findings
 grade: "7"
-featuredimage: /img/title-art.jpeg
+featuredimage: /img/ss_8d0c5934426d281df952ee4a6d2306bc2ad95c80.jpeg
 imagealt: "Main kids riding past the game title "
 category: Review
 ---
+*C﻿ode provided by Stride PR & Epic Llama Games*
+
+
+
 I haven’t played many point-and-click games recently. In fact, would argue I haven’t played or even thought about point-and-click games much in the last 15 years or so. So imagine my surprise when I learn that point-and-click games are alive and well in the indie game space, and there’s actually a healthy audience of fans to receive them. Not one to be left out, I decided to try my first indie game in forever after playing the demo of Unusual Findings during Steam Next fest. What I say next may shock you because it certainly shocked me. I actually really enjoyed this switch-up of the genre. Although not perfect, especially in regards to the puzzle-solving aspect, I think overall Unusual Findings presents a fun sci-fi adventure taking place in a relatively small town.
 
 ![Kids in the chemical lab](/img/unusual-findings-scaled.jpeg "Kids in the chemical lab")
@@ -31,8 +35,6 @@ The puzzles in this game were both the best and worst parts of this game. When t
 ![Setting of the lab puzzle](/img/183d250902996-screenshoturl-scaled.jpeg "Lab puzzle")
 
 The game does its best to give you all the context clues you need to make deductions and solve situations, but even then, some puzzles just felt impossible to solve in a reasonable amount of time. There were a few solutions I felt like I stumbled into, while a handful I just didn’t see the connected path to how I would have gotten there. For example, there’s one puzzle where you need to win at an arcade game late in the game, but there are dozens upon dozens of choices, and no discernible pattern to solve it. That leads to situations where I end up wandering around for hours looking for some hint that I never found until ultimately I had to look up the solution to press ahead. There are other times when you might have the solution, but the order of interacting with objects or speaking with characters is wrong. This is the worst, because you talk to a character or touch an object and rule it out as a solution, only to come back 30-60 minutes (or more) later just to find out you had to talk to someone *twice* or something like that. Those moments just feel like huge time-wasters, and signal to me that the game could benefit from some hinting system to guide the player in stuck moments like that.
-
-
 
 I’m going to be honest, It’s hard for me to understand where longtime fans of this genre set the bar for these types of games. I’m judging how I feel any newbie to the point-and-click world would see it. That being said, I would recommend this game to folks like me. I feel like Unusual Findings is worth your time if you’re already intrigued. The immense level of love and care Epic Llama Games put into designing a product that their supporters would enjoy is clear. The game does its best to take you on a fun adventure that respects your intelligence and time as a player, I just think they missed the mark in a handful of key areas.
 

@@ -1,6 +1,6 @@
 ---
 templateKey: post-page
-title: 10 GORGEOUS NEW Pixel Art Games in 2022
+title: 10 Gorgeous NEW Pixel Art Games in 2022
 tagline: Check out some of the best looking pixel art games of 2022
 date: 2022-11-03T04:59:50.590Z
 featuredimage: /img/thumbnail2.jpg

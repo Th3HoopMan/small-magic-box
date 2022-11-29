@@ -1,6 +1,6 @@
 ---
 templateKey: post-page
-title: Best Platformers or 2022
+title: Best Platformers of 2022
 tagline: These are some of the best indie platformers of 2022
 date: 2022-11-29T16:35:52.757Z
 featuredimage: /img/tthumbnail5.png

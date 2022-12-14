@@ -42,4 +42,4 @@ I didn’t really find anything bad about Melatonin, but I do wish there were mo
 
 Melatonin is the definition of a solid game. It does what it sets out to do really well, and provides a unique take on the genre at the same time. While it’s not as feature-packed as some of the most popular rhythm games out there, it’s still a great ride from start to finish. Having a great indie rhythm game was not on my bingo card at the beginning of the year, but I think a lot of people are going to be excited and surprised when they discover it. Melatonin locks in an 8 from me.
 
-![]()
+![Melatonin cover art](/img/key-art-3840x2160-.png "Melatonin cover art")

@@ -9,8 +9,6 @@ featuredimage: /img/wi-fi-vault.png
 imagealt: One of the main game levels
 category: Review
 ---
-# Backfirewall_
-
 As a full-time software engineer and a lifelong video game hobbyist, an uncontrollable urge of curiosity washes over me when both aspects of my life collide. Not sure if it’s because I feel like these are products that are finely tuned for a person like me, or because there’s a subtle excitement to feel like I’m in some inner circle. The reason doesn’t actually matter, all you need to know is Backfirewall_ is a game catered towards nerds like me so I played it. Overall I thought the experience aged like fine wine the closer I got to the end, but ultimately, the game struggles to lock in a concrete identity outside of its main concept, and as result might have trouble landing with a general audience.
 
 ![](/img/the-bin.png)

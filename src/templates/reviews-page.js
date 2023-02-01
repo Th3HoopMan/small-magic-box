@@ -5,7 +5,7 @@ import * as styles from "../templateStyles/reviews.module.css";
 import ArticleList from "../components/ArticleList/ArticleList";
 import Seo from "../components/SEO";
 
-const years = [2022];
+const years = [2023, 2022];
 
 const navigateToReview = (slug) => {
   navigate(slug);

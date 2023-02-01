@@ -11,6 +11,7 @@ const ReviewList = () => {
       allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
         filter: { frontmatter: { category: { eq: "Review" } } }
+        limit: 5
       ) {
         edges {
           node {

@@ -15,6 +15,7 @@ const ArticleList = () => {
             category: { in: ["Gaming", "Film and Tv", "Off Topic"] }
           }
         }
+        limit: 3
       ) {
         edges {
           node {

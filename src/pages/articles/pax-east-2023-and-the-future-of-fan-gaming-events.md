@@ -40,3 +40,5 @@ In the end, I just want there to be events that serve as a reminder for everyone
 Until we get there, let’s celebrate those that already participating in those events. I made a video highlighting a few of my favorite games I saw at PAX East. Check it out below.
 
 P.S. - E3 is a whole other can of worms that I was planning to talk about but this post started getting long. Stay tuned.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6JpQDekZL2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

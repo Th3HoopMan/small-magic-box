@@ -5,7 +5,7 @@ tagline: The new gold standard for turn-based RPGs
 date: 2023-05-08T05:14:42.760Z
 gametitle: Chained Echoes
 grade: "10"
-featuredimage: /img/large3.webp
+featuredimage: /img/07.jpeg
 imagealt: Kraken fight
 tags:
   - ChainedEchoes
@@ -72,7 +72,7 @@ Outside of combat, there are still dozens of things to keep you stimulated. Hidd
 
 I’ve waxed poetic about this game for much longer than necessary, and I’m positive anyone who's reading this review gets the point, I loved this game, but I won’t wrap without talking about the art of Chained Echoes. Just like everything else the visuals and music hit a bar that quite frankly nobody was asking it hit. They didn’t need to go this hard. Much of the game leaves nothing to the imagination. Every character crucial to side quests or the main story has their own custom artwork for dialogue that really sticks in your head as you see them evolve throughout the story. Every area has its own identity that not only helps with general navigation but also with making the world of Valandis feel diverse and vast. And within each area, there’s a swathe of uniquely designed enemies waiting to remind you of the challenges you fought through in that location.
 
-![Chasing monster in sky armor](/img/07.jpeg "Chasing monster in sky armor")
+![Chasing monster in sky armor](/img/large3.webp "Chasing monster in sky armor")
 
 Bringing everything together is a truly fantastic original soundtrack done by Eddie Marianukrok. There are countless tracks that will feel both nostalgic and classic by the end of your time with the game. There is a song for every situation. Levity, drama, action, shock, sadness, fear, and so much more can be conveyed at the drop of a hat, and regardless of the situation, the accompanying track hits hard.
 

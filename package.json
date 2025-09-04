@@ -7,10 +7,11 @@
     "bulma": "^0.9.4",
     "gatsby": "^4.16.0",
     "gatsby-image": "^3.11.0",
+    "gatsby-plugin-feed": "^4.25.0",
     "gatsby-plugin-google-gtag": "^4.16.0",
     "gatsby-plugin-image": "^2.16.0",
     "gatsby-plugin-manifest": "^4.16.0",
-    "gatsby-plugin-netlify": "^3.14.0",
+    "gatsby-plugin-netlify": "^4.4.0",
     "gatsby-plugin-netlify-cms": "^6.16.0",
     "gatsby-plugin-offline": "^5.16.0",
     "gatsby-plugin-purgecss": "^6.1.2",
@@ -58,5 +59,9 @@
   },
   "engines": {
     "node": ">= 14.15.0"
+  },
+  "overrides": {
+    "undici": "5.22.1"
   }
+
 }

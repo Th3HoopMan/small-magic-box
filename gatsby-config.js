@@ -126,6 +126,60 @@ module.exports = {
       options: {
         pathToConfigModule: "src/utils/typography.js"
       }
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                url
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            // Pull ALL posts (no artificial limit)
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { fields: [frontmatter___date], order: DESC }
+                ) {
+                  edges {
+                    node {
+                      html
+                      excerpt
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(({ node }) => {
+                const url = site.siteMetadata.siteUrl + node.fields.slug;
+                return {
+                  title: node.frontmatter.title,
+                  description: node.frontmatter.description || node.excerpt,
+                  date: node.frontmatter.date,
+                  url,
+                  guid: url,
+                  custom_elements: [{ "content:encoded": node.html }],
+                };
+              }),
+            output: "/rss.xml",
+            title: "CantPause RSS Feed",
+          },
+        ],
+      },
     }
   ],
 };
